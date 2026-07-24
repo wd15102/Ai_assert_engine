@@ -1,0 +1,72 @@
+{
+	"cost": 0.070013575,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685091356,
+	"serverTime": 1685091356,
+	"seqId": "0_188574590f9_f6GsgJUO",
+	"data": {
+		"playType": "1",
+		"isPreview": "1",
+		"cid": "32023050611425981123386204235004",
+		"vid": "32023050614574061854322018467391",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4320",
+			"ftime": "9289",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/5d78b7931e662d21943e1c7355254508/acc3e2111b78470486d45928ac49f73a?UserToken=04293820406593735869710804155356\u0026UserName=6830018",
+			"vf": "HEVC",
+			"width": "",
+			"definition": "9",
+			"definitionName": "4K",
+			"thirdFileId": "",
+			"isDefault": "0",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"trailers": {
+			"st": 0,
+			"pt": 1800,
+			"msg": null
+		},
+		"fullScreenTips": {
+			"start": null,
+			"playing": {
+				"msg": "正在试看，按OK键购买后观看全片",
+				"skipMsg": "立即购买",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32023050611425981123386204235004\u0026assetType=0\u0026productIds=1495\u0026cpid=2000062\u0026isCharge=Y"
+				}
+			},
+			"end": {
+				"stateMsg": "试看已结束",
+				"msg": "应版权方要求，该视频需购买后观看全片",
+				"skipMsg": "现在购买",
+				"aidMsg": "",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32023050611425981123386204235004\u0026assetType=0\u0026productIds=1495\u0026cpid=2000062\u0026isCharge=Y"
+				},
+				"countdown": 0
+			}
+		},
+		"windowedTips": {
+			"start": null,
+			"playing": "该视频可试看10分钟",
+			"end": "该视频需购买后观看全片"
+		},
+		"isFree": "1",
+		"adsPlay": "1",
+		"ocid": "VRS546096",
+		"ovid": "VRS18792825",
+		"thirdCid": "Mango000000000010000000000394459",
+		"thirdVid": "Mango000000000020003944592955724",
+		"tencentUserInfo": {
+			"access_token": "PKGeLbWzzm1chl5tpxTtKa/3uuj8gHThkW0C0l0EHWF5GKpGKLLXRAmKA4QrD7E0nYTJUt3gPsWC4UCTRPu5rorcqe+cXqg7",
+			"vtoken": "0B6FE45ABF53483633B1887188949519",
+			"vuid": "1914641597"
+		}
+	}
+}

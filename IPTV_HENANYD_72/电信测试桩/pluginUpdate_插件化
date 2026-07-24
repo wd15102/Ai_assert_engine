@@ -1,0 +1,26 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1614235116,
+	"data": {
+		"program": {
+			"programId": "9"
+		},
+		"plugins": [{
+			"pluginId": "6",
+			"pluginName": "HuanxiVod",
+			"pkgName": "com.mgtv.iptv.plugin.huanxi",
+			"provider": "MGTV",
+			"pluginEnter": "com.mgtv.iptv.plugin.MainActivity",
+			"versionCode": "2021030116",
+			"downloadUrl": "http://otthnydapk.yys.mgtv.com:6600/picture/apk/PL.1.0.0.Y3.6.HNYD.0.0_Release_2021030116.apk",
+			"downloadUrl2": "",
+			"osChannelId": "",
+			"apkmd5": "702ae6cb344752aa5c60476b5cf87082",
+			"upSilent": "1",
+			"installType": "1",
+			"ext1": "",
+			"ext2": ""
+		}]
+	}
+}

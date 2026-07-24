@@ -1,0 +1,43 @@
+{
+	"cost": 0.051423785,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647584868,
+	"serverTime": 1647584868,
+	"seqId": "f0ea78bff9bdf376923da71b10ee8ee3",
+	"data": {
+		"playType": "1",
+		"isPreview": "0",
+		"cid": "00000001000000001007000000066676",
+		"vid": "00000001000000001007000000078847",
+		"ocid": "D00000001201807111015110019299150",
+		"ovid": "E2288395",
+		"st": "123",
+		"et": "2690",
+		"files": {
+			"bitrate": "2039",
+			"ftime": "2812",
+			"height": "",
+			"url": "http://192.168.204.121:8080/qzzqskfj_3.mp4?UserToken=26A@tv28182366053124021404122501\u0026UserName=073108098986A@tv",
+			"vf": "2",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": -1,
+			"skipLeftTitel": "试看结束，购买后可观看全片",
+			"skipMsg": "购买",
+			"skipType": "m_open_web",
+			"skipParams": {
+				"webUrl": "http://192.168.168.160:8080/poster/oc_test/order_product_page.html?assetId=32022031614381035186142109734667\u0026assetType=0\u0026spfrom=XPDS\u0026productIds=736"
+			},
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": null
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

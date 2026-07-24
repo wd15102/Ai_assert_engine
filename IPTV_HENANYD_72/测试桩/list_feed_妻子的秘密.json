@@ -1,0 +1,1225 @@
+{
+	"cost": 0.065206357,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1650420020,
+	"serverTime": 1650420020,
+	"seqId": "0_18044b2f65d_JBhuypRV",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "55",
+		"rows": [{
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "1",
+			"duration": "1966",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/571581/20160528201520157.jpg_436x322.jpg",
+			"name": "妻子的秘密 第1集",
+			"title": "结婚的喜悦",
+			"type": "1",
+			"vid": "32021040808453037590195873216636",
+			"videoIndex": "1",
+			"ocid": "VRS47361",
+			"ovid": "VRS571581",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "2",
+			"duration": "2589",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/571585/20160528202859599.jpg_436x322.jpg",
+			"name": "妻子的秘密 第2集",
+			"title": "黎母反对明朗百合结婚",
+			"type": "1",
+			"vid": "32021040808453168117558351032524",
+			"videoIndex": "2",
+			"ocid": "VRS47361",
+			"ovid": "VRS571585",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "3",
+			"duration": "2702",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/571622/20160528203311405.jpg_436x322.jpg",
+			"name": "妻子的秘密 第3集",
+			"title": "失散的女友",
+			"type": "1",
+			"vid": "32021040808453252987325506586493",
+			"videoIndex": "3",
+			"ocid": "VRS47361",
+			"ovid": "VRS571622",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "4"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "4",
+			"duration": "1910",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/572889/20160528203504124.jpg_436x322.jpg",
+			"name": "妻子的秘密 第4集",
+			"title": "黎明朗拒绝宁夏示爱",
+			"type": "1",
+			"vid": "32021040808453351643974949320365",
+			"videoIndex": "4",
+			"ocid": "VRS47361",
+			"ovid": "VRS572889",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "5"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "5",
+			"duration": "2946",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/572937/20160528203910834.jpg_436x322.jpg",
+			"name": "妻子的秘密 第5集",
+			"title": "江百合寻找失火原因",
+			"type": "1",
+			"vid": "32021040808453540028659113888709",
+			"videoIndex": "5",
+			"ocid": "VRS47361",
+			"ovid": "VRS572937",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "6"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "6",
+			"duration": "2993",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/572961/20160528204709942.jpg_436x322.jpg",
+			"name": "妻子的秘密 第6集",
+			"title": "黎明朗住院",
+			"type": "1",
+			"vid": "32021040808453681238174494753104",
+			"videoIndex": "6",
+			"ocid": "VRS47361",
+			"ovid": "VRS572961",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "7"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "7",
+			"duration": "1917",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/574428/20160528205129281.jpg_436x322.jpg",
+			"name": "妻子的秘密 第7集",
+			"title": "黎江公司合并",
+			"type": "1",
+			"vid": "32021040808453787276651834358686",
+			"videoIndex": "7",
+			"ocid": "VRS47361",
+			"ovid": "VRS574428",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "8"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "8",
+			"duration": "2791",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/574434/20160528205425710.jpg_436x322.jpg",
+			"name": "妻子的秘密 第8集",
+			"title": "宁夏受到明朗的冷待",
+			"type": "1",
+			"vid": "32021040808453880943605023016986",
+			"videoIndex": "8",
+			"ocid": "VRS47361",
+			"ovid": "VRS574434",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "9",
+			"duration": "3055",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/574437/20160528205751559.jpg_436x322.jpg",
+			"name": "妻子的秘密 第9集",
+			"title": "黎母赶走百合",
+			"type": "1",
+			"vid": "32021040808454028302577323773648",
+			"videoIndex": "9",
+			"ocid": "VRS47361",
+			"ovid": "VRS574437",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "10"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "10",
+			"duration": "1985",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/576047/20160528210025000.jpg_436x322.jpg",
+			"name": "妻子的秘密 第10集",
+			"title": "黎家别墅被卖",
+			"type": "1",
+			"vid": "32021040808454173775764427916194",
+			"videoIndex": "10",
+			"ocid": "VRS47361",
+			"ovid": "VRS576047",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "11"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "11",
+			"duration": "2623",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/576050/20160528210524487.jpg_436x322.jpg",
+			"name": "妻子的秘密 第11集",
+			"title": "宁夏查出真相",
+			"type": "1",
+			"vid": "32021040808454292127581923466171",
+			"videoIndex": "11",
+			"ocid": "VRS47361",
+			"ovid": "VRS576050",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "12"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "12",
+			"duration": "2365",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/576070/20160528211114336.jpg_436x322.jpg",
+			"name": "妻子的秘密 第12集",
+			"title": "黎母与邻居争吵",
+			"type": "1",
+			"vid": "32021040808454326500424334335714",
+			"videoIndex": "12",
+			"ocid": "VRS47361",
+			"ovid": "VRS576070",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "13"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "13",
+			"duration": "1776",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/577273/20160528211714407.jpg_436x322.jpg",
+			"name": "妻子的秘密 第13集",
+			"title": "江百合怀孕",
+			"type": "1",
+			"vid": "32021040808454541780371485494108",
+			"videoIndex": "13",
+			"ocid": "VRS47361",
+			"ovid": "VRS577273",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "14"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "14",
+			"duration": "1851",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/577639/20160528212039553.jpg_436x322.jpg",
+			"name": "妻子的秘密 第14集",
+			"title": "宁夏没有保住孩子",
+			"type": "1",
+			"vid": "32021040808454620455403604178012",
+			"videoIndex": "14",
+			"ocid": "VRS47361",
+			"ovid": "VRS577639",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "15"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "15",
+			"duration": "1941",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/578037/20160528212455858.jpg_436x322.jpg",
+			"name": "妻子的秘密 第15集",
+			"title": "明朗与百合开房",
+			"type": "1",
+			"vid": "32021040808454758686285295107392",
+			"videoIndex": "15",
+			"ocid": "VRS47361",
+			"ovid": "VRS578037",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "16"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "16",
+			"duration": "2550",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/578040/20160528213414666.jpg_436x322.jpg",
+			"name": "妻子的秘密 第16集",
+			"title": "黎天倒卖别墅",
+			"type": "1",
+			"vid": "32021040808454825031166154632162",
+			"videoIndex": "16",
+			"ocid": "VRS47361",
+			"ovid": "VRS578040",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "17"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "17",
+			"duration": "2424",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/578043/20160528213729967.jpg_436x322.jpg",
+			"name": "妻子的秘密 第17集",
+			"title": "赵钱孙袭击江百合",
+			"type": "1",
+			"vid": "32021040808455062522342977265354",
+			"videoIndex": "17",
+			"ocid": "VRS47361",
+			"ovid": "VRS578043",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "18"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "18",
+			"duration": "2063",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/580094/20160528214126669.jpg_436x322.jpg",
+			"name": "妻子的秘密 第18集",
+			"title": "宁夏知道了真相",
+			"type": "1",
+			"vid": "32021040808455151532590738237791",
+			"videoIndex": "18",
+			"ocid": "VRS47361",
+			"ovid": "VRS580094",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "19"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "19",
+			"duration": "2823",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/580026/20160528215146332.jpg_436x322.jpg",
+			"name": "妻子的秘密 第19集",
+			"title": "宁夏设下了圈套",
+			"type": "1",
+			"vid": "32021040808455277751149339167898",
+			"videoIndex": "19",
+			"ocid": "VRS47361",
+			"ovid": "VRS580026",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "20"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "20",
+			"duration": "2431",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/580042/20160528215427386.jpg_436x322.jpg",
+			"name": "妻子的秘密 第20集",
+			"title": "庄奇找黎天合作",
+			"type": "1",
+			"vid": "32021040808455462363572381257651",
+			"videoIndex": "20",
+			"ocid": "VRS47361",
+			"ovid": "VRS580042",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "21"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "21",
+			"duration": "1899",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/581237/20160528215751594.jpg_436x322.jpg",
+			"name": "妻子的秘密 第21集",
+			"title": "江百合流产",
+			"type": "1",
+			"vid": "32021040808455571705017077928963",
+			"videoIndex": "21",
+			"ocid": "VRS47361",
+			"ovid": "VRS581237",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "22"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "22",
+			"duration": "2603",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/581270/20160528220217311.jpg_436x322.jpg",
+			"name": "妻子的秘密 第22集",
+			"title": "黎天酒吧喝闷酒",
+			"type": "1",
+			"vid": "32021040808455687230304818198919",
+			"videoIndex": "22",
+			"ocid": "VRS47361",
+			"ovid": "VRS581270",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "23"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "23",
+			"duration": "2911",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/581273/20160528220607045.jpg_436x322.jpg",
+			"name": "妻子的秘密 第23集",
+			"title": "云朵的生日",
+			"type": "1",
+			"vid": "32021040808455752753580934538100",
+			"videoIndex": "23",
+			"ocid": "VRS47361",
+			"ovid": "VRS581273",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "24"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "24",
+			"duration": "1902",
+			"image": "",
+			"name": "妻子的秘密 第24集",
+			"title": "刘大华离开黎家",
+			"type": "1",
+			"vid": "32021040808455917694785946730521",
+			"videoIndex": "24",
+			"ocid": "VRS47361",
+			"ovid": "VRS582605",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "25"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "25",
+			"duration": "2862",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/582617/20160528221143377.jpg_436x322.jpg",
+			"name": "妻子的秘密 第25集",
+			"title": "刘芬芳犯病",
+			"type": "1",
+			"vid": "32021040808460052812130736517226",
+			"videoIndex": "25",
+			"ocid": "VRS47361",
+			"ovid": "VRS582617",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "26"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "26",
+			"duration": "2988",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/582639/20160528221347956.jpg_436x322.jpg",
+			"name": "妻子的秘密 第26集",
+			"title": "黎父在楼梯上跌倒",
+			"type": "1",
+			"vid": "32021040808460136796487757595887",
+			"videoIndex": "26",
+			"ocid": "VRS47361",
+			"ovid": "VRS582639",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "27"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "27",
+			"duration": "1639",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/584141/20160528221907590.jpg_436x322.jpg",
+			"name": "妻子的秘密 第27集",
+			"title": "赵钱孙敲诈黎明朗",
+			"type": "1",
+			"vid": "32021040808460337784211575952344",
+			"videoIndex": "27",
+			"ocid": "VRS47361",
+			"ovid": "VRS584141",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "28"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "28",
+			"duration": "2668",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/584150/20160528222744757.jpg_436x322.jpg",
+			"name": "妻子的秘密 第28集",
+			"title": "黎明朗发生车祸",
+			"type": "1",
+			"vid": "32021040808460465775802679849030",
+			"videoIndex": "28",
+			"ocid": "VRS47361",
+			"ovid": "VRS584150",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "29"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "29",
+			"duration": "2541",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/584159/20160528222958377.jpg_436x322.jpg",
+			"name": "妻子的秘密 第29集",
+			"title": "黎明朗情况好转",
+			"type": "1",
+			"vid": "32021040808460553366441270025846",
+			"videoIndex": "29",
+			"ocid": "VRS47361",
+			"ovid": "VRS584159",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "30"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "30",
+			"duration": "1803",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/585796/20160528223231372.jpg_436x322.jpg",
+			"name": "妻子的秘密 第30集",
+			"title": "宁夏离间黎江二人",
+			"type": "1",
+			"vid": "32021040808460721175754845963176",
+			"videoIndex": "30",
+			"ocid": "VRS47361",
+			"ovid": "VRS585796",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "31"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "31",
+			"duration": "1766",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/586489/20160528223428938.jpg_436x322.jpg",
+			"name": "妻子的秘密 第31集",
+			"title": "江百合离家出走",
+			"type": "1",
+			"vid": "32021040808460813269912254489218",
+			"videoIndex": "31",
+			"ocid": "VRS47361",
+			"ovid": "VRS586489",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "32"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "32",
+			"duration": "1741",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/586905/20160528223827853.jpg_436x322.jpg",
+			"name": "妻子的秘密 第32集",
+			"title": "黎天与宁夏结婚",
+			"type": "1",
+			"vid": "32021040808460966316171750499522",
+			"videoIndex": "32",
+			"ocid": "VRS47361",
+			"ovid": "VRS586905",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "33"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "33",
+			"duration": "2992",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/586960/20160528224419303.jpg_436x322.jpg",
+			"name": "妻子的秘密 第33集",
+			"title": "宁夏挤兑刘芬芳",
+			"type": "1",
+			"vid": "32021040808461071842024683077195",
+			"videoIndex": "33",
+			"ocid": "VRS47361",
+			"ovid": "VRS586960",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "34"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "34",
+			"duration": "2485",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/586977/20160528224722275.jpg_436x322.jpg",
+			"name": "妻子的秘密 第34集",
+			"title": "明朗寻找百合",
+			"type": "1",
+			"vid": "32021040808461262086230369309538",
+			"videoIndex": "34",
+			"ocid": "VRS47361",
+			"ovid": "VRS586977",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "35"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "35",
+			"duration": "2066",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/588477/20160528225406212.jpg_436x322.jpg",
+			"name": "妻子的秘密 第35集",
+			"title": "黎明朗钱包被偷",
+			"type": "1",
+			"vid": "32021040808461379782009442469624",
+			"videoIndex": "35",
+			"ocid": "VRS47361",
+			"ovid": "VRS588477",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "36"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "36",
+			"duration": "2532",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/588696/20160528230247080.jpg_436x322.jpg",
+			"name": "妻子的秘密 第36集",
+			"title": "刘芬芳汇款给明朗",
+			"type": "1",
+			"vid": "32021040808461480808943012332772",
+			"videoIndex": "36",
+			"ocid": "VRS47361",
+			"ovid": "VRS588696",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "37"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "37",
+			"duration": "2113",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/588658/20160528230434254.jpg_436x322.jpg",
+			"name": "妻子的秘密 第37集",
+			"title": "明朗找到百合",
+			"type": "1",
+			"vid": "32021040808461596557673699835873",
+			"videoIndex": "37",
+			"ocid": "VRS47361",
+			"ovid": "VRS588658",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "38"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "38",
+			"duration": "2055",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/590361/20160528230630191.jpg_436x322.jpg",
+			"name": "妻子的秘密 第38集",
+			"title": "黎明朗离开云山小学",
+			"type": "1",
+			"vid": "32021040808461728047564471846542",
+			"videoIndex": "38",
+			"ocid": "VRS47361",
+			"ovid": "VRS590361",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "39"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "39",
+			"duration": "2652",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/590382/20160528231748468.jpg_436x322.jpg",
+			"name": "妻子的秘密 第39集",
+			"title": "百合误会明朗",
+			"type": "1",
+			"vid": "32021040808461821034799860607988",
+			"videoIndex": "39",
+			"ocid": "VRS47361",
+			"ovid": "VRS590382",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "40"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "40",
+			"duration": "2506",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/590435/20160528231955204.jpg_436x322.jpg",
+			"name": "妻子的秘密 第40集",
+			"title": "明朗再次追求百合",
+			"type": "1",
+			"vid": "32021040808461933709522542836868",
+			"videoIndex": "40",
+			"ocid": "VRS47361",
+			"ovid": "VRS590435",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "41"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "41",
+			"duration": "1895",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/592202/20160528232450216.jpg_436x322.jpg",
+			"name": "妻子的秘密 第41集",
+			"title": "赵钱孙绑架云朵",
+			"type": "1",
+			"vid": "32021040808462059031801468671656",
+			"videoIndex": "41",
+			"ocid": "VRS47361",
+			"ovid": "VRS592202",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "42"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "42",
+			"duration": "2315",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/592222/20160528232803354.jpg_436x322.jpg",
+			"name": "妻子的秘密 第42集",
+			"title": "赵红花怀疑赵钱孙",
+			"type": "1",
+			"vid": "32021040808462246114347915056369",
+			"videoIndex": "42",
+			"ocid": "VRS47361",
+			"ovid": "VRS592222",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "43"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "43",
+			"duration": "2967",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/592213/20160528233140643.jpg_436x322.jpg",
+			"name": "妻子的秘密 第43集",
+			"title": "明朗四处借钱",
+			"type": "1",
+			"vid": "32021040808462391855781895086961",
+			"videoIndex": "43",
+			"ocid": "VRS47361",
+			"ovid": "VRS592213",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "44"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "44",
+			"duration": "2185",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/593451/20160528233735163.jpg_436x322.jpg",
+			"name": "妻子的秘密 第44集",
+			"title": "百合租住高翔的房子",
+			"type": "1",
+			"vid": "32021040808462420622946073051974",
+			"videoIndex": "44",
+			"ocid": "VRS47361",
+			"ovid": "VRS593451",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "45"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "45",
+			"duration": "2487",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/593484/20160528234029133.jpg_436x322.jpg",
+			"name": "妻子的秘密 第45集",
+			"title": "百合反对明朗的项目",
+			"type": "1",
+			"vid": "32021040808462560013334836797713",
+			"videoIndex": "45",
+			"ocid": "VRS47361",
+			"ovid": "VRS593484",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "46"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "46",
+			"duration": "1940",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/593575/20160528234252929.jpg_436x322.jpg",
+			"name": "妻子的秘密 第46集",
+			"title": "黎明朗决定撤股",
+			"type": "1",
+			"vid": "32021040808462723964548251781392",
+			"videoIndex": "46",
+			"ocid": "VRS47361",
+			"ovid": "VRS593575",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "47"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "47",
+			"duration": "1682",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/595377/20160528234624709.jpg_436x322.jpg",
+			"name": "妻子的秘密 第47集",
+			"title": "黎明朗怒揍高翔",
+			"type": "1",
+			"vid": "32021040808462890347155024696432",
+			"videoIndex": "47",
+			"ocid": "VRS47361",
+			"ovid": "VRS595377",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "48"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "48",
+			"duration": "1649",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/595534/20160528234902092.jpg_436x322.jpg",
+			"name": "妻子的秘密 第48集",
+			"title": "黎氏兄弟的计划",
+			"type": "1",
+			"vid": "32021040808462954966259241080253",
+			"videoIndex": "48",
+			"ocid": "VRS47361",
+			"ovid": "VRS595534",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "49"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "49",
+			"duration": "2046",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596130/20160528235157451.jpg_436x322.jpg",
+			"name": "妻子的秘密 第49集",
+			"title": "黎天的真面目",
+			"type": "1",
+			"vid": "32021040808463010664769719256063",
+			"videoIndex": "49",
+			"ocid": "VRS47361",
+			"ovid": "VRS596130",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "50"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "50",
+			"duration": "2549",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596148/20160528235429567.jpg_436x322.jpg",
+			"name": "妻子的秘密 第50集",
+			"title": "黎大川苏醒",
+			"type": "1",
+			"vid": "32021040808463242901397731907833",
+			"videoIndex": "50",
+			"ocid": "VRS47361",
+			"ovid": "VRS596148",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "51"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "51",
+			"duration": "2266",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596208/20160528235709022.jpg_436x322.jpg",
+			"name": "妻子的秘密 第51集",
+			"title": "黎大川感激红花",
+			"type": "1",
+			"vid": "32021040808463366256663549117072",
+			"videoIndex": "51",
+			"ocid": "VRS47361",
+			"ovid": "VRS596208",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "52"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "52",
+			"duration": "2264",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596777/20160528235903298.jpg_436x322.jpg",
+			"name": "妻子的秘密 第52集",
+			"title": "江百合母子相认",
+			"type": "1",
+			"vid": "32021040808463440324313046613428",
+			"videoIndex": "52",
+			"ocid": "VRS47361",
+			"ovid": "VRS596777",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "53"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "53",
+			"duration": "2005",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596787/20160529000133514.jpg_436x322.jpg",
+			"name": "妻子的秘密 第53集",
+			"title": "江百合送款给黎天",
+			"type": "1",
+			"vid": "32021040808463628914705307593131",
+			"videoIndex": "53",
+			"ocid": "VRS47361",
+			"ovid": "VRS596787",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "54"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "54",
+			"duration": "2317",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/596809/20160529000350371.jpg_436x322.jpg",
+			"name": "妻子的秘密 第54集",
+			"title": "百合明朗重归于好",
+			"type": "1",
+			"vid": "32021040808463754472124076655594",
+			"videoIndex": "54",
+			"ocid": "VRS47361",
+			"ovid": "VRS596809",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32021040808452843846969163093718",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "55"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "55",
+			"duration": "1702",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2016/dianshiju/47361/597845/20160529000856168.jpg_436x322.jpg",
+			"name": "妻子的秘密 第55集",
+			"title": "黎明朗与百合结婚",
+			"type": "1",
+			"vid": "32021040808463869898525309925623",
+			"videoIndex": "55",
+			"ocid": "VRS47361",
+			"ovid": "VRS597845",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

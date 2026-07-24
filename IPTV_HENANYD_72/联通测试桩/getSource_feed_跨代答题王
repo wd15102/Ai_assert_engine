@@ -1,0 +1,41 @@
+{
+	"cost": 0.053539017,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647584528,
+	"serverTime": 1647584528,
+	"seqId": "6cdafd26099af94d11b5c7a832fa3282",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32022031615192247029354685479157",
+		"vid": "32022031615192690881085240185844",
+		"ocid": "VRS406147",
+		"ovid": "VRS15026979",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4366",
+			"ftime": "130",
+			"height": "",
+			"url": "http://192.168.204.121:8080/mingztxy.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": 0,
+			"skipLeftTitel": null,
+			"skipMsg": null,
+			"skipType": null,
+			"skipParams": null,
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": null
+		},
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

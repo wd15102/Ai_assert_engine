@@ -1,0 +1,46 @@
+{
+	"cost": 0.044316698,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1693823582,
+	"serverTime": 1693823582,
+	"seqId": "beta_ttid",
+	"data": {
+		"playType": "1",
+		"vid": "32022123009223563875888750972476",
+		"ovid": "VRS15033136",
+		"thirdVid": "1034:4472725012414535",
+		"cpId": "2000162",
+		"files": {
+			"bitrate": "2582",
+			"ftime": "69",
+			"height": "",
+			"url": "http://124.232.232.145:6060/190ZTE01/f071d64ffe944a69bbb85edab6f11f0c/index.m3u8?usercode=6750006\u0026programid=3c4d8d9aa6734f9690093043230fc9a6\u0026vendor=ZTE",
+			"vf": "AVC",
+			"width": "",
+			"definition": "2",
+			"definitionName": "高清",
+			"thirdFileId": "",
+			"isDefault": "0",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!",
+			"supportedTips": "备注:支持播放臻4K的机顶盒型号:中兴B860AV2.1-T、烽火HG680-KA、华为EC6110T、天邑TY1608、长虹IHO-3300AD、海信IP116H、创维E900V21E"
+		},
+		"adsPlay": "0",
+		"efid": "",
+		"definition": "2",
+		"result": -1,
+		"isPay": 1,
+		"isPreview": 1,
+		"skipMsg": "购买会员",
+		"skipImg": "http://192.168.168.121:81/picuture/zypt/aaa/pic/202307/1688524721176_ns8gan.png",
+		"skipType": "m_open_web",
+		"skipParams": {
+			"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?spfrom=SV\u0026skuIds=487,420\u0026productIds=487,420"
+		},
+		"previewNum": 6,
+		"wPreviewTips": "试看中，今日还可试看*条短视频",
+		"fPreviewTips": "今日还可试看*条短视频，按【ok】键开通会员",
+		"promoCopy": "每月仅1元",
+		"previewEndTips": "今日试看特权已使用完，请开通会员观看"
+	}
+}

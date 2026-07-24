@@ -1,0 +1,100 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599737992,
+	"seqId": "76978136afe1c07439c5880c431d0e9b",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000001006000000000028\u0026module=1",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "00000001000000001006000000000028",
+		"clipTitle": "唐人街探案",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.0分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2015",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "喜剧 ▪ 悬疑",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "8120",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2017/dianying/120668/20171216151257123-new.jpg_436x322.jpg",
+		"imgV": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2016/dianying/120668/20160205143440178-new.jpg_326x482.jpg",
+		"importId": "00000001000000001006000000000028",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "8120",
+			"vid": "00000001000000001006000000000027",
+			"watchTime": "",
+			"tips": "上次观看：{唐人街探案}"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "E51411",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2016-02-14",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "00000001000000001006000000000027",
+		"videoImgH": "",
+		"videoTitle": "唐人街探案",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,秦风警校落榜，被姥姥遣送泰国找远房表舅——号称“唐人街第一神探”，实则“猥琐”大叔的唐仁散心。不想一夜花天酒地后，唐仁沦为离奇凶案嫌疑人，不得不和秦风亡命天涯……七天！唐仁、秦风这对“欢喜冤家”能否在躲避警察追捕、匪帮追杀、黑帮围剿的同时，完成找到失落的黄金、查明真凶、为自己洗清罪名这些逆天的任务？",
+		"btns": {
+			"order": {
+				"tips": "立即订购",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=00000001000000001006000000000028\u0026productIds=7,44,34,43,130,20,129,35"
+			}
+		},
+		"isFree": "1",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

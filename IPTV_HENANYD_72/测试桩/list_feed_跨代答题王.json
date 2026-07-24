@@ -1,0 +1,147 @@
+{
+	"cost": 0.039860278,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647844282,
+	"serverTime": 1647844282,
+	"seqId": "72e976f13007d1d29b668f8dfdcecd4a",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "6",
+		"rows": [{
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "跨代答题王第1集副",
+			"duration": "130",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第1集副",
+			"type": "1",
+			"vid": "32022031615192690881085240185844",
+			"videoIndex": "1",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026979",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "跨代答题王第2期副",
+			"duration": "174",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第2期副",
+			"type": "1",
+			"vid": "32022031615193043474714185096761",
+			"videoIndex": "2",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026980",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "跨代答题王第3期副",
+			"duration": "18",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第3期副",
+			"type": "1",
+			"vid": "32022031615193325724952863547298",
+			"videoIndex": "3",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026981",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "跨代答题王第4期副",
+			"duration": "167",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第4期副",
+			"type": "1",
+			"vid": "32022031617014047694470605275049",
+			"videoIndex": "4",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026983",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "跨代答题王第5期副",
+			"duration": "184",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第5期副",
+			"type": "1",
+			"vid": "32022031616495880823448271644055",
+			"videoIndex": "5",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026982",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32022031615192247029354685479157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2022-03-16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "跨代答题王第6期副",
+			"duration": "90",
+			"image": "",
+			"name": "跨代答题王20220316",
+			"title": "跨代答题王第6期副",
+			"type": "1",
+			"vid": "32022031617174668948781242655266",
+			"videoIndex": "6",
+			"ocid": "VRS406147",
+			"ovid": "VRS15026985",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

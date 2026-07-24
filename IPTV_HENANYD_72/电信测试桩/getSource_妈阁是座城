@@ -1,0 +1,53 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1600746262,
+	"seqId": "d900cbe601517442d2dedeede50b7edf",
+	"data": {
+		"playType": "1",
+		"isPreview":"1",
+		"cid": "00000001000000001018000000188589",
+		"vid": "32019091012571863706286995363802",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4287",
+			"ftime": "020629",
+			"height": "",
+			"url": "http://124.232.231.172:8089/000000000000/ec901cdd908e459d989085ba7247544f/index.m3u8",
+			"vf": "",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"st": "0",
+			"pt": "300"
+		},
+		"fullScreenTips": {
+			"start": "",
+			"playing": {
+				"msg": "试看中",
+				"skipMsg": "",
+				"skipType": "",
+				"skipParams": ""
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "试看结束",
+				"skipMsg": "",
+				"aidMsg": "",
+				"skipType": "",
+				"skipParams": "",
+				"countdown": "120"
+			}
+		},
+		"windowedTips": {
+			"start": "",
+			"playing": "试看中",
+			"end": "试看结束"
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

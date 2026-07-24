@@ -1,0 +1,43 @@
+{
+	"status": "0000",
+	"err": 0,
+	"msg": {
+		"type": "refuse",
+		"check": {
+			"product_list": [{
+				"id": 586,
+				"name": "直播频道连续包月",
+				"priceUnit": "元",
+				"price": "8",
+				"sort": 1,
+				"bucketSort": 10000,
+				"time": "1",
+				"timesUnit": "月",
+				"timesType": 2,
+				"timeShow": "8元/月",
+				"cost_price": "",
+				"subtitle": "每月初自动续费，可随时取消",
+				"superscript": "",
+				"promotions": "",
+				"visible": 0,
+				"operatorId": "8801190222",
+				"bg_img_url": "http://192.168.168.127:81/picture/zypt/aaa/6e00183bd98b4823bf861d96b5c65753.png",
+				"description": "围棋赛事直播，畅谈棋闻趣事、探寻围棋文化、网络棋界观点。",
+				"orderedJumpImg": "",
+				"orderedJumpUrl": "",
+				"marketBg": "",
+				"marketDescr": "",
+				"amount": 800
+			}],
+			"try_see_info": {
+				"preview_times": 60,
+				"try_type": 2
+			},
+			"order_url": "http://192.168.168.160:8080/zt/oc/order_product_page.html?assetId=00000001000000000002000000028047&assetType=1&productIds=586",
+			"skip_msg": "开通会员"
+		},
+		"authTimestamp": "1634286519053",
+		"playAuthSign": "734f72c2a488ba457de3542e4e983eb3",
+		"authCode": ""
+	}
+}

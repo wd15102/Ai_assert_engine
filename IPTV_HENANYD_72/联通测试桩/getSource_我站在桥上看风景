@@ -1,0 +1,29 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599708000,
+	"seqId": "bdfe07044b0fbc8e1a668f640465c97e",
+	"data": {
+		"playType": "0",
+		"isPreview":"0",
+		"cid": "00000001000000000005000000166936",
+		"vid": "00000001000000000005000000166934",
+		"st": "87",
+		"et": "2591",
+		"files": {
+			"bitrate": "2038",
+			"ftime": "0",
+			"height": "",
+			"url": "http://192.168.204.121:8080/qzzqskfj_1.mp4?UserToken=26A@tv28182366053124021404122501\u0026UserName=073108098986A@tv",
+			"vf": "2",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"actor": "海莉·斯坦菲尔德,马赫沙拉·阿里",
+	"allIndex": "1",
+	"area": "美国",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000052",
+		"name": " 院线大片",
+		"originalId": "cadf298a17854c39a17dca4fdc5d6e8a",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000053",
+		"name": "最新上线",
+		"originalId": "6a6e388081aa4fd6bc639333c7ad6714",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000054",
+		"name": "好莱坞",
+		"originalId": "f09e936bc3f14fa497c6d2944e17e56b",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000056",
+		"name": "欧美电影",
+		"originalId": "b3778de19a6343509fc5dd2be3436096",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000060",
+		"name": "动漫电影",
+		"originalId": "9f1addb37ff84b47a1817b03bc83a2b6",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000063",
+		"name": "全部电影",
+		"originalId": "de8d39ffcfb94c249949b0ddf606a932",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001013000000076912",
+		"name": "VIP专区",
+		"originalId": "cee8c71fbd5a428cbeccf576995a370b",
+		"parentId": "00000001000000001002000000000022"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"cornerMarkImg": "http://192.168.168.127:81/picture/zypt/aaa/f17f1e31c0cf4f99afd8ebe4f4df83ed.png",
+	"director": "鲍勃·佩尔西凯蒂",
+	"fstname": "电影",
+	"imageH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201901/29/20190129094720352.jpg",
+	"imageS": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201901/29/20190129094723231.jpg",
+	"imageV": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201901/29/20190129094721709.jpg",
+	"importId": "00000001000000001012000000056930",
+	"isBook": "0",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "动作|科幻",
+	"lastPlayedIndex": "1",
+	"lastPlayedTime": "60",
+	"lastPlayedType": "1",
+	"lastProgramId": "00000001000000001012000000056929",
+	"newIndex": "1",
+	"originalId": "D00000001201901290945030044699862",
+	"playProgramId": "00000001000000001012000000056929",
+	"playProgramType": "1",
+	"playStartTime": "60",
+	"point": "8.8",
+	"programOrder": "asc",
+	"programUiStyle": "m4",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "00000001000000001012000000056930",
+	"seriesName": "蜘蛛侠：平行宇宙",
+	"showTime": "2018-12-21 00:00:00",
+	"starList": [
+		{
+			"bief": "{\"constellation\":\"\",\"birthday\":\"0001-01-01\",\"weight\":\"0.0\",\"birthplace\":\"\\u4e2d\\u56fd\\u56db\\u5ddd\\u6cf8\\u5dde\",\"bloodtype\":\"\",\"height\":\"0.0\",\"introduction\":\"\",\"story\":\"\",\"college\":\"\"}",
+			"originalId": "VRS308754",
+			"starId": "d27e3ef3808843bfaebe769048a6880a",
+			"starName": "陈赫",
+			"starType": "director",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/chenhe/chenhe20170816172337350.jpg"
+		}
+	],
+	"summary": "【版权来源：百视通】,该片讲述了普通高中生迈尔斯·莫拉斯如何师从蜘蛛侠彼得·帕克，成长为新一代超级英雄的故事。影片中迈尔斯和从其它平行宇宙中穿越而来的彼得、女蜘蛛侠格温、暗影蜘蛛侠、潘妮·帕克和蜘猪侠集结成团，六位蜘蛛侠首次同框大银幕，对抗蜘蛛侠宇宙最强反派。",
+	"videoType": "0",
+	"viewType": ""
+}

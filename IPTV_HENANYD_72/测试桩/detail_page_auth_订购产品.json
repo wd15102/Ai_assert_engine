@@ -1,0 +1,38 @@
+{
+	"status": "0000",
+	"err": 0,
+	"msg": {
+		"type": "refuse",
+		"check": {
+			"product_list": [{
+				"id": 458,
+				"name": "登月第一人",
+				"priceUnit": "元",
+				"price": "6",
+				"sort": 0,
+				"bucketSort": 10000,
+				"time": "48",
+				"timesUnit": "小时",
+				"timesType": 0,
+				"timeShow": "6元/48小时",
+				"cost_price": "",
+				"subtitle": "有效期至2021-05-21 02:53:48",
+				"superscript": "",
+				"promotions": "",
+				"visible": 0,
+				"operatorId": "8801190087",
+				"bg_img_url": "http://192.168.168.127:81/picture/zypt/aaa/0d47085590624b88a10800b3cf75175e.jpg",
+				"description": "",
+				"orderedJumpImg": "",
+				"orderedJumpUrl": "",
+				"marketBg": "",
+				"marketDescr": ""
+			}],
+			"try_see_info": {
+				"preview_times": 600,
+				"try_type": 2
+			},
+			"order_url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?productIds=458"
+		}
+	}
+}

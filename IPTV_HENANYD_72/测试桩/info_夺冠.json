@@ -1,0 +1,104 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618195194,
+	"seqId": "0ea5dd63ad88fdee1ec68c4c62f8f87e",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=32020122216115950860406984336977\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "32020122216115950860406984336977",
+		"clipTitle": "夺冠",
+		"rootCateId": "c1c345c0325940b1b53c33b37e5fc39f",
+		"cspName": "欢喜",
+		"detail": [{
+			"kind": "score",
+			"value": "8.0分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2020",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "中国",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "剧情 ▪ 运动",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "8085",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/c2/huanxi/pic8.huanxi.com/8a9eb00f7563a7c60175d9fe9ec31a53.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/c2/huanxi/pic7.huanxi.com/8a9eb00f7563a7c60175d9fea96f1a5f.jpg",
+		"importId": "32020122216115950860406984336977",
+		"isBook": "",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "8085",
+			"vid": "32020122216120080624087954047968",
+			"watchTime": "",
+			"tips": "上次观看：夺冠"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "HUANXIS1000000000000000000046665",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32020122216120080624087954047968",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "",
+		"videoTitle": "夺冠",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "2008年北京奥运会女排比赛，中国对阵美国。郎平（巩俐饰）坐在美国队教练席上，大气沉稳；中国队教练（黄渤饰）站在场边，全神贯注。中国队教练望向郎平，目光充满深意。在光影交汇之中，中国女排三十余年的历史图景被缓缓打开……本片透过风云激荡的历史，讲述了几代女排人历经浮沉，仍然不屈不挠、勇于拼搏的传奇故事。从1981年世界杯决赛的中日大战，到2008年北京奥运会对垒美国，再到2016年里约奥运会的中巴之战，那些深植于全民记忆中的女排经典战役，在电影中将被一一重现。本片获得了2020年第33届中国电影金鸡奖8项提名，最终斩获最佳故事片、最佳编剧、最佳摄影3项大奖。《夺冠》将代表中国内地角逐第93届奥斯卡最佳国际影片奖（原最佳外语片）",
+		"btns": {
+			"order": {
+				"tips": "立即订购",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32020122216115950860406984336977\u0026productIds=7,44,34,43,130,20,129,35"
+			}
+		},
+		"cpId": "2000093",
+		"cpName": "欢喜",
+		"isFree": "1",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

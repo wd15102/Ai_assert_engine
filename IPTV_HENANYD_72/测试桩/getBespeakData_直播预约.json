@@ -1,0 +1,47 @@
+{
+	"code": 0,
+	"data": {
+		"interval": "420",
+		"bespeakData": [{
+			"bespeakKey": "20200312010000",
+			"appVersion": "YYS.5.0.0.266.6.HNDXIPTV.0.0_Pre_Release",
+			"osVersion": "4.4.2",
+			"playbillName": "乱世危情(7)",
+			"ip": "192.168.202.116",
+			"beginTime": "2020-03-12 01:00:00",
+			"endTime": "2020-03-12 01:53:00",
+			"userId": "6980020",
+			"uuid": "mgtv28:8C:B8:E5:4E:AA",
+			"channelId": "9d77c0de0ab2b21277cfa53c7e9c27bd",
+			"mac": "28-8C-B8-E5-4E-AA",
+			"status": "0"
+		}, {
+			"bespeakKey": "20200312021000",
+			"appVersion": "YYS.5.0.0.266.6.HNDXIPTV.0.0_Pre_Release",
+			"osVersion": "4.4.2",
+			"playbillName": "湖南新闻联播",
+			"ip": "192.168.202.116",
+			"beginTime": "2020-03-12 02:10:00",
+			"endTime": "2020-03-12 02:35:00",
+			"userId": "6980020",
+			"uuid": "mgtv28:8C:B8:E5:4E:AA",
+			"channelId": "b6c0eaeea8fdba89bfba289f86be6926",
+			"mac": "28-8C-B8-E5-4E-AA",
+			"status": "0"
+		}, {
+			"bespeakKey": "20200312000000",
+			"appVersion": "YYS.5.0.0.266.6.HNDXIPTV.0.0_Pre_Release",
+			"osVersion": "4.4.2",
+			"playbillName": "分段1",
+			"ip": "192.168.202.116",
+			"beginTime": "2020-03-12 00:00:00",
+			"endTime": "2020-03-12 00:00:00",
+			"userId": "6980020",
+			"uuid": "mgtv28:8C:B8:E5:4E:AA",
+			"channelId": "54308cfc2929b36fb797e24cf0c45212",
+			"mac": "28-8C-B8-E5-4E-AA",
+			"status": "0"
+		}]
+	},
+	"msg": null
+}

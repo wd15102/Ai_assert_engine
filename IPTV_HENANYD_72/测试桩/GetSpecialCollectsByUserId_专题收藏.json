@@ -1,0 +1,48 @@
+{
+	"countNums": "1",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"specialList": [{
+		"addTime": "2022-08-29 16:41:18",
+		"backgroundPoster": "http://127.0.0.1:80/beijingtu.jpg",
+		"bindingId": "",
+		"brief": "this is test special",
+		"categoryId": "",
+		"collectId": "627a47c10c5e4f70a87fdb8ce74e3ded",
+		"englishName": "test",
+		"episodeShowType": "2",
+		"externalURL": "http://www.baidu.com",
+		"layoutMode": "1",
+		"playType": "single",
+		"posterThumbnail1": "http://127.0.0.1:80/zhuangtitu.jpg",
+		"posterThumbnail2": "",
+		"posterThumbnail3": "http://127.0.0.1:80/zhuangtitu.jpg",
+		"showSpecialName": "1",
+		"specialId": "c7905b4b02644aa6a3873ec44f5d3ea7",
+		"specialName": "跟着这些神车手一起飞驰人生",
+		"specialType": "1",
+		"version": "YYS.6.1.0.Y3.6.HNYDIPTV.0.0_Pre_Release"
+	}, {
+		"addTime": "2019-08-29 16:41:18",
+		"backgroundPoster": "http://127.0.0.1:80/beijingtu.jpg",
+		"bindingId": "",
+		"brief": "this is test special",
+		"categoryId": "",
+		"collectId": "627a47c10c5e4f70a87fdb8ce74e3ded",
+		"englishName": "test",
+		"episodeShowType": "2",
+		"externalURL": "http://www.baidu.com",
+		"layoutMode": "1",
+		"playType": "single",
+		"posterThumbnail1": "http://127.0.0.1:80/zhuangtitu.jpg",
+		"posterThumbnail2": "",
+		"posterThumbnail3": "http://127.0.0.1:80/zhuangtitu.jpg",
+		"showSpecialName": "1",
+		"specialId": "c7905b4b02644aa6a3873ec44f5d3ea7",
+		"specialName": "专题收藏第二个",
+		"specialType": "1",
+		"version": "YYS.6.1.0.Y3.6.HNYDIPTV.0.0_Pre_Release"
+	}]
+}

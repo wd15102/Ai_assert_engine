@@ -1,0 +1,82 @@
+{
+	"countNums": "6",
+	"countPages": "1",
+	"curPage": "0",
+	"programList": [{
+		"aliasName": "章峥岚昏迷不醒 水光悉心照料",
+		"currentIndex": "39",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20180831/00000001000000001007000000232582/0/zh_CN/1535663648878.jpg",
+		"movieList": [],
+		"originalId": "E2126112",
+		"point": "",
+		"programId": "00000001000000001007000000232582",
+		"programName": "我站在桥上看风景DVD版 第39集",
+		"programType": "4",
+		"showTime": "20180328",
+		"summary": "章峥岚昏迷不醒 水光悉心照料"
+	}, {
+		"aliasName": "章峥岚为救水光受伤入院",
+		"currentIndex": "38",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20180831/00000001000000001007000000232581/0/zh_CN/1535663647913.jpg",
+		"movieList": [],
+		"originalId": "E2126113",
+		"point": "",
+		"programId": "00000001000000001007000000232581",
+		"programName": "我站在桥上看风景DVD版 第38集",
+		"programType": "4",
+		"showTime": "20180328",
+		"summary": "章峥岚为救水光受伤入院"
+	}, {
+		"aliasName": "雷宇入室绑架水光景琴",
+		"currentIndex": "37",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20180831/00000001000000001007000000232580/0/zh_CN/1535663647287.jpg",
+		"movieList": [],
+		"originalId": "E2124022",
+		"point": "",
+		"programId": "00000001000000001007000000232580",
+		"programName": "我站在桥上看风景DVD版 第37集",
+		"programType": "4",
+		"showTime": "20180327",
+		"summary": "雷宇入室绑架水光景琴"
+	}, {
+		"aliasName": "雷宇用水光名誉威胁章峥岚",
+		"currentIndex": "36",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20180831/00000001000000001007000000232579/0/zh_CN/1535663646635.jpg",
+		"movieList": [],
+		"originalId": "E2124021",
+		"point": "",
+		"programId": "00000001000000001007000000232579",
+		"programName": "我站在桥上看风景DVD版 第36集",
+		"programType": "4",
+		"showTime": "20180327",
+		"summary": "雷宇用水光名誉威胁章峥岚"
+	}, {
+		"aliasName": "峥岚偷偷为水光买房",
+		"currentIndex": "35",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20180831/00000001000000001007000000232578/0/zh_CN/1535663645957.jpg",
+		"movieList": [],
+		"originalId": "E2111787",
+		"point": "",
+		"programId": "00000001000000001007000000232578",
+		"programName": "我站在桥上看风景DVD版 第35集",
+		"programType": "4",
+		"showTime": "20180321",
+		"summary": "峥岚偷偷为水光买房"
+	}, {
+		"aliasName": "问道手游成功上线",
+		"currentIndex": "34",
+		"imageH": "http://192.168.168.235:6600/picture/799210/1/20181023/00000001000000001007000000232577/0/zh_CN/1540267296348.jpg",
+		"movieList": [],
+		"originalId": "E2110175",
+		"point": "",
+		"programId": "00000001000000001007000000232577",
+		"programName": "我站在桥上看风景DVD版 第34集",
+		"programType": "4",
+		"showTime": "20180320",
+		"summary": "问道手游成功上线"
+	}],
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	}
+}

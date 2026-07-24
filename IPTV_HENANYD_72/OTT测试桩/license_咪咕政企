@@ -1,0 +1,13 @@
+{
+	"status": "0000",
+	"err": 0,
+	"msg": {
+		"license": "cb80f3967100205b34dc6f2c144d2bbc9eda7657",
+		"plat_form": "OTT",
+		"group": "",
+		"ability": "g19073100000",
+		"area_code": null,
+		"hermesInfo": "{\"channelMode\":\"3\",\"groupId\":\"187\"}",
+		"uvip": ""
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"cost": 0.031422641,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647584625,
+	"serverTime": 1647584625,
+	"seqId": "dbf363bd3e597471a8796afe7564937f",
+	"data": {
+		"playType": "1",
+		"isPreview": "0",
+		"cid": "32022031614381035186142109734667",
+		"vid": "32022031614381575037514971700279",
+		"ocid": "VRS406145",
+		"ovid": "VRS15026972",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4222",
+			"ftime": "16",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000002/32022081919424976280945084528634/index.m3u8?stbid=004903FF001849902204F814FE18EC76",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": -1,
+			"skipLeftTitel": "试看结束，购买后可观看全片",
+			"skipMsg": "购买",
+			"skipType": "m_open_web",
+			"skipParams": {
+				"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32022031614381035186142109734667\u0026assetType=0\u0026spfrom=XPDS\u0026productIds=7,44,34,43,130,20,129,35"
+			},
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": null
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

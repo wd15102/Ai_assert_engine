@@ -1,0 +1,66 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1701140663,
+	"serverTime": 1701140663,
+	"seqId": "811301cb5bc95ff59473215b9b3732ef",
+	"data": {
+		"playType": "0",
+		"isPreview":"0",
+		"cid": "00000000000000000001000000064296",
+		"vid": "00000000000000000001000000064297",
+		"st": "67",
+		"et": "5906",
+		"files": {
+			"bitrate": "2065",
+			"ftime": "0",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/82fa10ffef684a8a9ccb15e75f278f4e/e470f1d19db9458ebf576c01c1ef7917?UserToken=04293820406593735869710804155356\u0026UserName=6830018",
+			"vf": "2",
+			"width": "",
+			"definition": "3",
+			"definitionName": "超清",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"trailers": {
+			"st": "0",
+			"pt": "0"
+		},
+		"fullScreenTips": {
+			"start": "",
+			"playing": {
+				"msg": "",
+				"skipMsg": "",
+				"skipType": "",
+				"skipParams": ""
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "",
+				"skipMsg": "",
+				"aidMsg": "",
+				"skipType": "",
+				"skipParams": "",
+				"countdown": ""
+			}
+		},
+		"windowedTips": {
+			"start": "",
+			"playing": "",
+			"end": ""
+		},
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "",
+		"ovid": "",
+		"thirdCid": "",
+		"thirdVid": "",
+		"tencentUserInfo": {
+			"access_token": "Zu+AMFtCcVOTNOexJhU8wF8nelF5Y89XNE5vDp1CUAkO1LSRsai+WnFwocr8ajQUpZi04+QrgP/I6mcDUeKAa0TVtdp3S/AswvuxTYzZ0eU=",
+			"vtoken": "0B6FE45ABF53483633B1887188949519",
+			"vuid": "1914641597"
+		}
+	}
+}

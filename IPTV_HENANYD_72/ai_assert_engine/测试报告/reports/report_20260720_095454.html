@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>首页模板巡查报告 - 2026-07-20 09:54:54</title>
+<style>
+body { font-family: -apple-system, 'Microsoft YaHei', sans-serif; background: #f5f5f5; margin: 0; padding: 20px; }
+.container { max-width: 1400px; margin: auto; background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+h1 { color: #333; font-size: 24px; margin: 0 0 8px 0; }
+.subtitle { color: #888; font-size: 14px; margin-bottom: 20px; }
+.summary-bar { display: flex; gap: 20px; padding: 16px 20px; background: #f8f9fa; border-radius: 8px; margin-bottom: 20px; }
+.summary-item { text-align: center; flex: 1; }
+.summary-item .num { font-size: 28px; font-weight: bold; }
+.summary-item .label { font-size: 13px; color: #888; }
+.summary-item.normal .num { color: #4caf50; }
+.summary-item.warning .num { color: #ff9800; }
+.summary-item.abnormal .num { color: #d32f2f; }
+table { width: 100%; border-collapse: collapse; }
+th { background: #f5f5f5; padding: 10px 8px; text-align: left; font-size: 13px; color: #666; border-bottom: 2px solid #ddd; }
+td { vertical-align: top; }
+tr:hover { background: #fafafa; }
+img:hover { transform: scale(1.5); z-index: 10; position: relative; cursor: zoom-in; }
+.footer { margin-top: 20px; text-align: center; color: #aaa; font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>首页模板巡查报告</h1>
+    <div class="subtitle">河南移动 IPTV | 测试时间: 2026-07-20 09:54:54 | 耗时: 0秒</div>
+    <div class="summary-bar">
+        <div class="summary-item normal"><div class="num">5</div><div class="label">正常</div></div>
+        <div class="summary-item warning"><div class="num">0</div><div class="label">警告</div></div>
+        <div class="summary-item abnormal"><div class="num">0</div><div class="label">异常</div></div>
+        <div class="summary-item"><div class="num">5</div><div class="label">总计</div></div>
+    </div>
+    <table><thead><tr><th style="width:40px;">#</th><th style="width:120px;">频道</th><th style="width:40px;">状态</th><th>模板 / 异常</th><th>截图</th></tr></thead>
+    <tbody>
+<tr style="border-bottom:1px solid #e0e0e0;">
+    <td style="padding:8px;text-align:center;">1</td>
+    <td style="padding:8px;font-weight:bold;">直播居中模版新</td>
+    <td style="padding:8px;text-align:center;font-weight:bold;font-size:16px;">OK</td>
+    <td style="padding:8px;"><div style="margin:2px 0;font-size:13px;color:#555;">直播居中模版新 (0个卡片)</div><span style="color:#4caf50;font-size:13px;">正常</span><div style="font-size:11px;color:#999;margin-bottom:4px;">AI模型: glm-4v-flash</div><div style="font-size:12px;margin:1px 0;">✅ <b>排版正常</b> {  
+    "result": "pass",  
+    "reason": "各卡片/元素排列整齐，没有重叠、错位或跑飞现象。"  
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>坑位海报正常</b> ```json
+{
+  "result": "pass",
+  "reason": "每个卡片的海报图正常显示，无黑图/灰图"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>文本没有乱码</b> {
+  "result": "pass",
+  "reason": "所有中文字符显示正常，无方框、问号、乱码字符"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>画面没有花屏</b> {
+  "result": "pass",
+  "reason": "界面显示正常，没有撕裂、条纹、色块或闪烁等异常"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>直播坑位</b> {  
+    "result": "pass",  
+    "reason": "画面正常播放，没有黑屏或花屏现象。"  
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>左右两侧小坑位</b> ```json
+{
+  "result": "pass",
+  "reason": "所有海报均加载正常且显示正常"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>右侧最后一个坑位</b> ```json
+{
+  "result": "pass",
+  "reason": "右侧最后一个坑位显示了默认图片且有IPTV水印"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>焦点框选中检查</b> {  
+    "result": "pass",  
+    "reason": "焦点框选中的坑位展示没有异常"  
+}</div></td>
+    <td style="padding:8px;"><div style="display:flex;flex-wrap:wrap;"><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_template_1_20260720_095154.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">原始截图</div></div><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_check\crop_marked_直播居中模版新_20260720_095205.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">焦点标记图</div></div></div></td>
+</tr>
+<tr style="border-bottom:1px solid #e0e0e0;">
+    <td style="padding:8px;text-align:center;">2</td>
+    <td style="padding:8px;font-weight:bold;">首屏4横图通栏模板</td>
+    <td style="padding:8px;text-align:center;font-weight:bold;font-size:16px;">OK</td>
+    <td style="padding:8px;"><div style="margin:2px 0;font-size:13px;color:#555;">首屏4横图通栏模板 (0个卡片)</div><span style="color:#4caf50;font-size:13px;">正常</span><div style="font-size:11px;color:#999;margin-bottom:4px;">AI模型: glm-4v-flash</div><div style="font-size:12px;margin:1px 0;">✅ <b>排版正常</b> {
+  "result": "pass",
+  "reason": "各卡片/元素排列整齐，没有重叠、错位或跑飞现象"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>坑位海报正常</b> ```json
+{
+  "result": "pass",
+  "reason": "每个卡片的海报图都正常显示，没有出现黑图或灰图"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>文本没有乱码</b> ```json
+{
+  "result": "pass",
+  "reason": "界面显示正常，中文字符显示正确，没有出现方框、问号或乱码字符"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>画面没有花屏</b> {
+  "result": "pass",
+  "reason": "界面显示正常，没有撕裂、条纹、色块或闪烁等异常"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>横向4个推荐卡片</b> {
+  "result": "pass",
+  "reason": "界面展示了四个横向排列的内容推荐卡片"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>焦点框选中时</b> ```json
+{
+  "result": "pass",
+  "reason": "焦点框选中时焦点框选中时会有绿框标记"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>坑位文本检查</b> {  
+    "result": "pass",  
+    "reason": "四个横向推荐卡片依次包含文本：回看、九屏同看、四屏同看、CCTV6"  
+}</div></td>
+    <td style="padding:8px;"><div style="display:flex;flex-wrap:wrap;"><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_template_2_20260720_095251.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">原始截图</div></div><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_check\crop_marked_首屏4横图通栏模板_20260720_095301.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">焦点标记图</div></div></div></td>
+</tr>
+<tr style="border-bottom:1px solid #e0e0e0;">
+    <td style="padding:8px;text-align:center;">3</td>
+    <td style="padding:8px;font-weight:bold;">首屏4横图(播放角标)</td>
+    <td style="padding:8px;text-align:center;font-weight:bold;font-size:16px;">OK</td>
+    <td style="padding:8px;"><div style="margin:2px 0;font-size:13px;color:#555;">首屏4横图(播放角标) (0个卡片)</div><span style="color:#4caf50;font-size:13px;">正常</span><div style="font-size:11px;color:#999;margin-bottom:4px;">AI模型: glm-4v-flash</div><div style="font-size:12px;margin:1px 0;">✅ <b>排版正常</b> {
+  "result": "pass",
+  "reason": "各卡片/元素排列整齐，没有重叠、错位或跑飞现象"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>坑位海报正常</b> ```json
+{
+  "result": "pass",
+  "reason": "每个卡片的海报图都正常显示，没有黑图或灰图"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>文本没有乱码</b> ```json
+{
+  "result": "pass",
+  "reason": "所有中文字符显示正常，无方框、问号、乱码字符"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>画面没有花屏</b> {
+  "result": "pass",
+  "reason": "界面显示正常，没有撕裂、条纹、色块或闪烁等异常"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>横向4个VIP推荐卡片</b> {
+  "result": "pass",
+  "reason": "四个VIP推荐卡片显示正常，每个卡片右上角都有'影视会员'角标"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>焦点框选中时播放图标检查</b> {
+  "result": "pass",
+  "reason": "图片中显示首屏4横图的模板，每个海报右侧都有蓝色圆形播放图标，且绿色方框标记了当前焦点位置。"
+}</div></td>
+    <td style="padding:8px;"><div style="display:flex;flex-wrap:wrap;"><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_template_3_20260720_095322.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">原始截图</div></div><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_check\crop_marked_首屏4横图(播放角标)_20260720_095331.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">焦点标记图</div></div></div></td>
+</tr>
+<tr style="border-bottom:1px solid #e0e0e0;">
+    <td style="padding:8px;text-align:center;">4</td>
+    <td style="padding:8px;font-weight:bold;">直播列表模板 (不支持)</td>
+    <td style="padding:8px;text-align:center;font-weight:bold;font-size:16px;">OK</td>
+    <td style="padding:8px;"><div style="margin:2px 0;font-size:13px;color:#555;">直播列表模板 (0个卡片)</div><div style="font-size:12px;color:#ff9800;margin-top:4px;">⚠ 该项目不支持此模板展示，未检测到模板，符合预期</div><span style="color:#4caf50;font-size:13px;">正常</span><div style="font-size:11px;color:#999;margin-bottom:4px;">AI模型: N/A</div><div style="font-size:12px;margin:1px 0;">✅ <b>不支持的模板</b> 本项目不支持此模板展示，未检测到模板，符合预期</div></td>
+    <td style="padding:8px;"><div style="display:flex;flex-wrap:wrap;"><span style="color:#999;">无截图</span></div></td>
+</tr>
+<tr style="border-bottom:1px solid #e0e0e0;">
+    <td style="padding:8px;text-align:center;">5</td>
+    <td style="padding:8px;font-weight:bold;">底部通栏</td>
+    <td style="padding:8px;text-align:center;font-weight:bold;font-size:16px;">OK</td>
+    <td style="padding:8px;"><div style="margin:2px 0;font-size:13px;color:#555;">底部通栏 (0个卡片)</div><span style="color:#4caf50;font-size:13px;">正常</span><div style="font-size:11px;color:#999;margin-bottom:4px;">AI模型: glm-4v-flash</div><div style="font-size:12px;margin:1px 0;">✅ <b>排版正常</b> {
+  "result": "pass",
+  "reason": "各卡片/元素排列整齐，没有重叠、错位或跑飞现象"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>坑位海报正常</b> ```json
+{
+  "result": "pass",
+  "reason": "每个卡片的海报图正常显示，无黑图/灰图"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>文本没有乱码</b> ```json
+{
+  "result": "pass",
+  "reason": "所有中文字符显示正常，无方框、问号、乱码字符"
+}
+```</div><div style="font-size:12px;margin:1px 0;">✅ <b>画面没有花屏</b> {
+  "result": "pass",
+  "reason": "界面显示正常，没有撕裂、条纹、色块或闪烁等异常"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>底部按钮和版本信息</b> {
+  "result": "pass",
+  "reason": "界面展示了'回到顶部'和'搜索更多'按钮，并显示了版本信息和patch号。"
+}</div><div style="font-size:12px;margin:1px 0;">✅ <b>焦点框选中时</b> ```json
+{
+  "result": "pass",
+  "reason": "被选中的按钮背景已正确变为蓝色"
+}
+```</div></td>
+    <td style="padding:8px;"><div style="display:flex;flex-wrap:wrap;"><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_template_5_20260720_095351.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">原始截图</div></div><div style="display:inline-block;text-align:center;margin:4px;"><img src="../..\screenshots\直播_check\crop_marked_底部通栏_20260720_095400.png" style="max-width:320px;border:1px solid #ddd;border-radius:4px;"><div style="font-size:11px;color:#888;margin-top:2px;">焦点标记图</div></div></div></td>
+</tr></tbody></table>
+    <div style="margin-top:24px;border-top:2px solid #eee;padding-top:16px;"><div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;"><h2 style="font-size:18px;margin:0;color:#333;">🧠 日志根因分析</h2><span style="font-size:11px;background:#f0f0f0;padding:2px 8px;border-radius:10px;">Confidence: high</span><span style="font-size:11px;color:#999;">Agnes 2.0 Flash (Thinking)</span></div><div style="font-size:13px;color:#555;margin-bottom:12px;">日志分析显示系统存在严重的网络通信问题，导致心跳机制频繁超时，同时伴随数据解密失败。此外，代码中存在类型转换错误，可能导致应用崩溃。网络层也存在DNS解析失败的问题。</div><div style="margin-top:12px;"><h3 style="font-size:15px;color:#d32f2f;margin:0 0 8px 0;">💥 崩溃根因</h3><div style="background:#fff3f3;border-left:4px solid #e65100;margin:8px 0;padding:12px;border-radius:4px;"><div style="font-weight:bold;color:#e65100;">💥 崩溃 #1 <span style="font-size:11px;margin-left:8px;color:#666;">severity: high</span></div><div style="margin:6px 0;font-size:13px;">java.lang.ClassCastException: java.lang.Long cannot be cast to java.lang.Integer</div><div style="background:#fafafa;padding:6px;font-size:12px;color:#888;border-radius:3px;font-family:monospace;">at android.content.Intent.getIntExtra(Intent.java:7380) at com.cmcc.mid.softdetector.receiver.PlayActionReceiver.onReceive(SourceFile:131)</div></div><div style="background:#fff3f3;border-left:4px solid #d32f2f;margin:8px 0;padding:12px;border-radius:4px;"><div style="font-weight:bold;color:#d32f2f;">💥 崩溃 #2 <span style="font-size:11px;margin-left:8px;color:#666;">severity: critical</span></div><div style="margin:6px 0;font-size:13px;">rtk_heartbeat: heartbeat_timed_out</div><div style="background:#fafafa;padding:6px;font-size:12px;color:#888;border-radius:3px;font-family:monospace;">ERROR rtk_heartbeat: heartbeat_timed_out: @bbb heartbeatCmdCount = 16005, expected nextSeqNum = 16005</div></div></div><div style="margin-top:12px;"><h3 style="font-size:15px;color:#ff9800;margin:0 0 8px 0;">⚠ 其他异常</h3><div style="border-left:4px solid #e65100;margin:6px 0;padding:8px 12px;"><div style="font-weight:bold;font-size:13px;color:#e65100;">⚠ 数据解密失败，输入参数长度为0 <span style="font-size:11px;color:#666;">(high)</span></div><div style="font-size:12px;color:#888;margin-top:4px;">ERROR wb_crypt_utils: hs_str_to_bytes error, invald input param!str_len=0, out_buf_size=256</div></div><div style="border-left:4px solid #ff9800;margin:6px 0;padding:8px 12px;"><div style="font-weight:bold;font-size:13px;color:#ff9800;">⚠ 语音服务启动失败，包未找到 <span style="font-size:11px;color:#666;">(medium)</span></div><div style="font-size:12px;color:#888;margin-top:4px;">WARN ActivityManager: Unable to start service Intent { act=com.iflytek.vocmd.START pkg=com.android.smart.terminal.voice (has extras) } U=0: not found</div></div><div style="border-left:4px solid #ff9800;margin:6px 0;padding:8px 12px;"><div style="font-weight:bold;font-size:13px;color:#ff9800;">⚠ 流媒体协议返回无效值0 <span style="font-size:11px;color:#666;">(medium)</span></div><div style="font-size:12px;color:#888;margin-top:4px;">WARN HP_FFMPEG: Invalid return value 0 for stream protocol</div></div><div style="border-left:4px solid #ff9800;margin:6px 0;padding:8px 12px;"><div style="font-weight:bold;font-size:13px;color:#ff9800;">⚠ DNS解析失败，无法解析日志服务器域名 <span style="font-size:11px;color:#666;">(medium)</span></div><div style="font-size:12px;color:#888;margin-top:4px;">ERROR Network-OkhttpImpl: request: onFailure ... error:Unable to resolve host "iptvtestlog.cslgtest.imgo.tv": No address associated with hostname</div></div><div style="border-left:4px solid #ff9800;margin:6px 0;padding:8px 12px;"><div style="font-weight:bold;font-size:13px;color:#ff9800;">⚠ 视频窗口句柄获取失败 <span style="font-size:11px;color:#666;">(medium)</span></div><div style="font-size:12px;color:#888;margin-top:4px;">WARN HP_VideoSurface: PutValidWindow can not find a valid vo handle associate with handle[7653631723137]</div></div></div><div style="margin-top:16px;background:#e8f5e9;padding:12px;border-radius:6px;"><div style="font-weight:bold;font-size:14px;color:#2e7d32;margin-bottom:4px;">💡 修复建议</div><ul style="margin:8px 0;padding-left:20px;"><li style="margin:4px 0;font-size:13px;">修复 PlayActionReceiver 中的类型转换问题，在调用 getIntExtra 之前检查数据类型或使用 getLongExtra。</li><li style="margin:4px 0;font-size:13px;">排查网络连接稳定性及心跳机制的实现，修复导致心跳超时的网络或进程阻塞问题。</li><li style="margin:4px 0;font-size:13px;">检查数据源，确保传递给解密函数的数据不为空或长度正确。</li><li style="margin:4px 0;font-size:13px;">检查网络配置，修复 DNS 解析问题或更换可用的日志上报服务器地址。</li><li style="margin:4px 0;font-size:13px;">检查视频播放器的窗口句柄管理逻辑，确保在播放器状态正确时才调用窗口设置接口。</li></ul></div></div>
+    <div class="footer">截图已分类: normal/ abnormal/ | 系统自动生成</div>
+</div>
+</body>
+</html>

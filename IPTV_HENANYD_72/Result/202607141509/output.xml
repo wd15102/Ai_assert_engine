@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.9.13 on win32)" generated="2026-07-14T15:09:43.516773" rpa="false" schemaversion="5">
+<suite id="s1" name="DP_AutoTest" source="D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\测试用例\功能测试\01_首页模板功能\测试.robot">
+<kw name="启动应用" owner="公共方法" type="SETUP">
+<kw name="register keyword to run on failure">
+<msg time="2026-07-14T15:09:43.775487" level="FAIL">No keyword with name 'register keyword to run on failure' found.</msg>
+<arg>Nothing</arg>
+<status status="FAIL" start="2026-07-14T15:09:43.775487" elapsed="0.001000">No keyword with name 'register keyword to run on failure' found.</status>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${reconnet}==1</arg>
+<arg>重新连接设备</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.000000"/>
+</kw>
+<kw name="解除网络限速" owner="专项测试">
+<doc>网络限速配置</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.000000"/>
+</kw>
+<for flavor="IN RANGE">
+<iter>
+<kw name="清除历史上报数据" owner="公共方法">
+<doc>清除历史上报的数据</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.000000"/>
+</kw>
+<kw name="清除设备缓存" owner="公共方法">
+<doc>清除设备缓存</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.000000"/>
+</kw>
+<kw name="等待" owner="公共方法">
+<arg>15</arg>
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="Open Application">
+<arg>http://${appium_server}/wd/hub</arg>
+<arg>deviceName=${device_id}</arg>
+<arg>platformName=Android</arg>
+<arg>platformVersion=${platform_version}</arg>
+<arg>appPackage=${appPackage}</arg>
+<arg>noReset=true appActivity=${appActivity} appWaitActivity=${appActivity}</arg>
+<arg>newCommandTimeout=1200</arg>
+<arg>automationName=${automationName}</arg>
+<arg>unicodeKeyboard=false</arg>
+<arg>resetKeyboard=false</arg>
+<arg>noReset=${noReset}</arg>
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${zhengqi_apk}!=0</arg>
+<arg>home键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="Home键">
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>按了home键</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${zhengqi_apk}!=0</arg>
+<arg>从政企进入首页</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.777487" elapsed="0.000000"/>
+</kw>
+<kw name="检查是否进入首页并关闭广告" owner="公共方法">
+<status status="NOT RUN" start="2026-07-14T15:09:43.778487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<var>${statusValue1}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>少儿频道</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.778487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<var>${statusValue2}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>电竞</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.778487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<var>${statusValue3}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>二级菜单</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.778487" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${statusValue1}==True and ${statusValue2}==True and ${statusValue3}==True</arg>
+<arg>exit for loop</arg>
+<arg>ELSE</arg>
+<arg>Run Keywords</arg>
+<arg>log to console</arg>
+<arg>启动异常，重新启动</arg>
+<arg>AND</arg>
+<arg>设置本地映射</arg>
+<arg>enable</arg>
+<arg>AND</arg>
+<arg>退出应用</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="NOT RUN" start="2026-07-14T15:09:43.778487" elapsed="0.000000"/>
+</kw>
+<var name="${i}"/>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.002000"/>
+</iter>
+<var>${i}</var>
+<value>3</value>
+<status status="NOT RUN" start="2026-07-14T15:09:43.776487" elapsed="0.002000"/>
+</for>
+<doc>盒端启用应用程序</doc>
+<status status="FAIL" start="2026-07-14T15:09:43.772487" elapsed="0.006000">No keyword with name 'register keyword to run on failure' found.</status>
+</kw>
+<test id="s1-t1" name=" case_005 新直播居中模板页面检查" line="14">
+<doc>首页通栏模板-新直播居中模板  common_live_mid2_template</doc>
+<tag>smoke</tag>
+<status status="FAIL" start="2026-07-14T15:09:43.778487" elapsed="0.001000">Parent suite setup failed:
+No keyword with name 'register keyword to run on failure' found.</status>
+</test>
+<kw name="退出应用" owner="公共方法" type="TEARDOWN">
+<kw name="解除网络限速" owner="专项测试">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:09:43.781487" level="INFO">${adb_net_command1} = tc qdisc del dev eth0 root;tc class del dev eth0 root</msg>
+<var>${adb_net_command1}</var>
+<arg>tc qdisc del dev eth0 root;tc class del dev eth0 root</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:09:43.780487" elapsed="0.001000"/>
+</kw>
+<kw name="Adb Shell Command" owner="android_common">
+<msg time="2026-07-14T15:09:45.063890" level="INFO">RTNETLINK answers: No such file or directory
+RTNETLINK answers: No such file or directory</msg>
+<msg time="2026-07-14T15:09:45.063890" level="INFO">${info1} = (b'', b'RTNETLINK answers: No such file or directory\r\nRTNETLINK answers: No such file or directory\r\n')</msg>
+<var>${info1}</var>
+<arg>${adb_net_command1}</arg>
+<status status="PASS" start="2026-07-14T15:09:43.781487" elapsed="1.282403"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>关闭限速</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:09:45.063890" elapsed="0.001000"/>
+</kw>
+<kw name="等待" owner="公共方法">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:09:50.078750" level="INFO">Slept 5 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:09:45.064890" elapsed="5.013860"/>
+</kw>
+<arg>${time}</arg>
+<status status="PASS" start="2026-07-14T15:09:45.064890" elapsed="5.013860"/>
+</kw>
+<doc>网络限速配置</doc>
+<status status="PASS" start="2026-07-14T15:09:43.780487" elapsed="6.298263"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Close Application">
+<msg time="2026-07-14T15:09:50.081966" level="FAIL">No keyword with name 'Close Application' found.</msg>
+<status status="FAIL" start="2026-07-14T15:09:50.081966" elapsed="0.000000">No keyword with name 'Close Application' found.</status>
+</kw>
+<msg time="2026-07-14T15:09:50.081966" level="INFO">${status_value} = False</msg>
+<var>${status_value}</var>
+<arg>Close Application</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:09:50.078750" elapsed="0.003216"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-07-14T15:09:50.082962" level="INFO">应用关闭失败</msg>
+<arg>应用关闭失败</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-07-14T15:09:50.082962" elapsed="0.000000"/>
+</kw>
+<arg>${status_value}</arg>
+<arg>log</arg>
+<arg>应用关闭成功</arg>
+<arg>ELSE</arg>
+<arg>log</arg>
+<arg>应用关闭失败</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:09:50.082962" elapsed="0.000000"/>
+</kw>
+<doc>盒端退出应用程序</doc>
+<status status="PASS" start="2026-07-14T15:09:43.780487" elapsed="6.302475"/>
+</kw>
+<doc>Suite description</doc>
+<status status="FAIL" start="2026-07-14T15:09:43.519154" elapsed="6.563808">Suite setup failed:
+No keyword with name 'register keyword to run on failure' found.</status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">smoke</stat>
+</tag>
+<suite>
+<stat name="DP_AutoTest" id="s1" pass="0" fail="1" skip="0">DP_AutoTest</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-07-14T15:09:43.533997" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\测试用例\功能测试\01_首页模板功能\测试.robot' on line 3: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.557407" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 727: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.557407" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 743: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.557407" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 766: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.557407" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 793: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.557407" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 814: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.562227" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\公共方法.robot' on line 3: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.586089" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\遥控按键.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.592361" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\系统方法.robot' on line 285: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.595054" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\系统方法.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.622820" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\系统方法.robot' on line 4: Importing library 'D:\WorkCode\DP\DP_AutoTest\TestLibrary\image_process.py' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  File "D:\WorkCode\DP\DP_AutoTest\TestLibrary\image_process.py", line 18, in &lt;module&gt;
+    from AppiumLibrary.keywords._element import _ElementKeywords
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\TestLibrary
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.633501" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\遥控按键.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.639909" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\等待相关.robot' on line 3: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.655419" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\首页.robot' on line 37: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.663935" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\直播回看时移.robot' on line 92: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.680461" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 209: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.681472" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 337: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.681472" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 345: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.681472" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 380: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.681472" level="WARN">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 395: The '[Return]' setting is deprecated. Use the 'RETURN' statement instead.</msg>
+<msg time="2026-07-14T15:09:43.683952" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\专项测试.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+<msg time="2026-07-14T15:09:43.769487" level="ERROR">Error in file 'D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\对象库\详情页.robot' on line 3: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'AppiumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72
+  D:\WorkCode\DP\DP_AutoTest
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine
+  D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\ai_assert_engine\common_event
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_display
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\python39.zip
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\DLLs
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39\lib
+  C:\Users\dong_\AppData\Local\Programs\Python\Python39
+  D:\WorkCode\DP\DP_AutoTest\.venv
+  D:\WorkCode\DP\DP_AutoTest\.venv\lib\site-packages
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_matplotlib_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_altair_backend
+  C:\Program Files\JetBrains\PyCharm 2026.1\plugins\python-ce\helpers\pycharm_plotly_backend</msg>
+</errors>
+</robot>

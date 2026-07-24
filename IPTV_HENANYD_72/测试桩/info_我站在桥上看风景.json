@@ -1,0 +1,141 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599708000,
+	"seqId": "0fa8b88bf8eaaf6b07db539de476faff",
+	"data": {
+		"actor": "袁晓满/姜潮,李溪芮,庞瀚辰,何瑞贤,赵旭东",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000000005000000166936\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-30",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-40",
+					"headTail": "31-40",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://192.168.168.54:6060/iptv_epg/video/list?cid=00000001000000000005000000166936\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "4"
+			}]
+		}],
+		"cid": "00000001000000000005000000166936",
+		"clipTitle": "我站在桥上看风景 DVD版",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.5分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2018",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "都市 ▪ 爱情",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2741",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2018/dianshiju/318264/20180109144245193-new.jpg_436x322.jpg",
+		"imgV": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/4/19/dianshiju/318264/20190419143152634-new.jpg_326x482.jpg",
+		"importId": "00000001000000000005000000166936",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "1",
+		"collectId": "fe2a7ce59cc0441f8cf32ef0502efbbb",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2741",
+			"vid": "00000001000000000005000000166934",
+			"watchTime": "300",
+			"tips": "上次观看：{我站在桥上看风景 第1集}"
+		},
+		"latestIndex": "40",
+		"latestShowTime": "",
+		"originalId": "D00000001201801231815250041299413",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2018-01-23",
+		"totalNumber": "40",
+		"updateDetail": {
+			"info": "更新至40集/共40集",
+			"desc": "总裁章峥岚倾心剑道教练萧水光"
+		},
+		"vid": "00000001000000000005000000166934",
+		"videoImgH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4258654/20180123175023213.jpg",
+		"videoTitle": "我站在桥上看风景 第1集",
+		"videoType": "0",
+		"authResult": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,讲述了游戏公司总裁章峥岚在机缘巧合之下认识并倾心于剑道教练萧水光，便使出十八班耍赖功夫抓住各种可乘之机接近自己心中的“缪斯女神”，并用默默守护的方式帮助内心受到过情感创伤的萧水光走出阴影，重新拥抱爱情的故事。,讲述了游戏公司总裁章峥岚在机缘巧合之下认识并倾心于剑道教练萧水光，便使出十八班耍赖功夫抓住各种可乘之机接近自己心中的“缪斯女神”，并用默默守护的方式帮助内心受到过情感创伤的萧水光走出阴影，重新拥抱爱情的故事。,讲述了游戏公司总裁章峥岚在机缘巧合之下认识并倾心于剑道教练萧水光，便使出十八班耍赖功夫抓住各种可乘之机接近自己心中的“缪斯女神”，并用默默守护的方式帮助内心受到过情感创伤的萧水光走出阴影，重新拥抱爱情的故事。",
+		"btns": {
+			"order": {
+				"tips": "",
+				"url": ""
+			}
+		},
+		"relatedClip": {
+			"cid": "32022052419020337868693461902285",
+			"title": "选集推荐位",
+			"ocid": "VRS406336",
+			"cpId": "2000123",
+			"mzState": "10"
+		},
+		"topBill": {
+		  "prefix": "TOP. ",
+		  "topTitle": "电视剧热播榜高分榜",
+		  "topId": "3",
+		  "topOrderNum": "100"
+		},
+		"isFree": "0",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

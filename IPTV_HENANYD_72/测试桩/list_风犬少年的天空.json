@@ -1,0 +1,73 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613986280,
+	"seqId": "fe3561f08a557c93c42bbdd95d1f48ba",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "3",
+		"rows": [{
+			"cid": "32021022407322549950484032578057",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "1",
+			"duration": "3551",
+			"image": "http://111.23.13.95:81/picture/zypt/upstream/sp_images/2020/12/26/dianshiju/356654/10731009/3ed93bc0e5b688c7644280c8ceab8fda.jpg",
+			"name": "风犬少年的天空 第1集",
+			"title": "大兴村四兄弟与新来的 ",
+			"type": "1",
+			"vid": "32021022014383327996279282479036",
+			"videoIndex": "1",
+			"ocid": "VRS356654",
+			"ovid": "VRS10731009"
+		}, {
+			"cid": "32021022407322549950484032578057",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "2",
+			"duration": "3632",
+			"image": "http://111.23.13.95:81/picture/zypt/upstream/sp_images/2020/12/26/dianshiju/356654/10731010/659500254a277f201c7d1f1682e12ace.jpg",
+			"name": "风犬少年的天空 第2集",
+			"title": "一直干蠢事，一直在一起",
+			"type": "1",
+			"vid": "32021022014383584968749839129018",
+			"videoIndex": "2",
+			"ocid": "VRS356654",
+			"ovid": "VRS10731010"
+		}, {
+			"cid": "32021022407322549950484032578057",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "最新"
+			},
+			"desc": "3",
+			"duration": "3270",
+			"image": "http://111.23.13.95:81/picture/zypt/upstream/sp_images/2020/12/26/dianshiju/356654/10731011/67155a6e3c43addbf6f49d1854698a73.jpg",
+			"name": "风犬少年的天空 第3集",
+			"title": "将爱",
+			"type": "1",
+			"vid": "32021022014383621097896306781076",
+			"videoIndex": "3",
+			"ocid": "VRS356654",
+			"ovid": "VRS10731011"
+		}]
+	}
+}

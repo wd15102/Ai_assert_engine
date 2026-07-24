@@ -1,0 +1,27 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1616394819,
+	"seqId": "b5ed4ebb25b4532804ce89fb7d579447",
+	"data": {
+		"topicId": "18",
+		"subTopicId": "26",
+		"pushtype": "7",
+		"videoList": [{
+			"partId": "VRS11395062",
+			"fdParams": "score:200^fcate:2",
+			"intro": "大芒短视频a测试关联推荐",
+			"imgurl": "http://127.0.0.1:80/yuantu2.jpg",
+			"duration": "59",
+			"cornerColor": "",
+			"cornerText": "",
+			"videoIndex": 0,
+			"originalId": "VRS11395062",
+			"tagId": "0",
+			"tagName": "",
+			"tagType": "0",
+			"dataType": 0,
+			"title": "大芒短视频a测试关联推荐"
+		}]
+	}
+}

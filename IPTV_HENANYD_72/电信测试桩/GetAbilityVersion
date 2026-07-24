@@ -1,0 +1,21 @@
+{
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"areaCode": "0731",
+	"ip": "192.168.202.72",
+	"fileformatdesc": "0,1,2,3,4,9",
+	"abilityVersion": "YYS.7.2.4.266.6.HNDXIPTV.0.0_Release",
+	"parameterList": [{
+		"parameterKey": "punch_on_off",
+		"parameterValue": "{ \"common\":\"Telecom\", \"actionSourceDatas\":[ { \"actionSourceId\":\"Telecom\", \"data\":\"\" } ] }"
+	}, {
+		"parameterKey": "default_nav_option",
+		"parameterValue": "jingxuan_6.0"
+	}],
+	"cp": "ZTE",
+	"support": "01100001000",
+	"bussId": "7210001",
+	"verMod": ""
+}

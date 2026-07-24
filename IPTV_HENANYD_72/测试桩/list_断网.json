@@ -1,0 +1,37 @@
+{
+	"cost": 0.008624253,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1721210043,
+	"serverTime": 1721210043,
+	"seqId": "0_190c01cff1e_CrjCKDqz",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32023033109203315667079873158247",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "01:50:22"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "当港式警匪片遇上人工智能",
+			"duration": "6622",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/3/29/dianying/445865/18557034/e92e42d4b39296decc2a6ca48fd0dc6d.jpg",
+			"name": "断网",
+			"title": "当港式警匪片遇上人工智能",
+			"type": "1",
+			"vid": "32023033109203663221605058059357",
+			"videoIndex": "1",
+			"ocid": "VRS445865",
+			"ovid": "VRS18557034",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

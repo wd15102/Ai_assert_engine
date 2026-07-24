@@ -1,0 +1,50 @@
+{
+	"code": "0",
+	"msg": "success",
+	"traceId": "",
+	"data": [{
+		"feedType": "3",
+		"poolId": "2",
+		"element": {
+			"fdParams": "moduleId:2&id:00000001000000001001000000000064&strategy:1001&bucket:0&source:&type:3",
+			"subTitle": "",
+			"datatype": "5",
+			"fullScreenImg": "http://127.0.0.1:80/hengtu2.jpg",
+			"title": "不在列表-付费不试看",
+			"livePlay": {
+				"reason": "抗战剧场",
+				"originalId": "6ee5725e3b8d4ba486d9dee3fd22f875",
+				"channelId": "00000001000000001002000000000007"
+			},
+			"tags": [{
+				"title": "直播",
+				"color": "#77FFF0"
+			}, {
+				"title": "VIP",
+				"color": "#FFD29E"
+			}]
+		}
+	}, {
+		"feedType": "3",
+		"poolId": "2",
+		"element": {
+			"fdParams": "moduleId:2&id:00000001000000001001000000000064&strategy:1001&bucket:0&source:&type:3",
+			"subTitle": "",
+			"datatype": "5",
+			"fullScreenImg": "http://127.0.0.1:80/hengtu2.jpg",
+			"title": "不在列表-付费试看",
+			"livePlay": {
+				"reason": "古装剧场",
+				"originalId": "88b082982282452a905ddb2f0bf8a203",
+				"channelId": "00000001000000001002000000000010"
+			},
+			"tags": [{
+				"title": "直播",
+				"color": "#77FFF0"
+			}, {
+				"title": "VIP",
+				"color": "#FFD29E"
+			}]
+		}
+	}]
+}

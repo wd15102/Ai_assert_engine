@@ -1,0 +1,44 @@
+{
+	"result": {
+		"cost": 0.001,
+		"reason": "ok",
+		"state": "0"
+	},
+	"countNums": 3,
+	"RecomList": [{
+		"strategyName": "直播左按︵菜单︶22",
+		"showCondition": "16a",
+		"id": "02771c3346c74a13b9efc1eb013b5da1",
+		"type": "Recommend_zhibozuo",
+		"lightText": "︵菜单︶22",
+		"modId": "758946a",
+		"isFeed": "1"
+		}, {
+		"strategyName": "直播右按︵菜单︶22",
+		"showCondition": "16b",
+		"id": "02771c3346c74a13b9efc1eb013b5da2",
+		"type": "Recommend_zhiboyou",
+		"lightText": "︵菜单︶22",
+		"modId": "758946b",
+		"isFeed": "1"
+		}],
+	"RecomConfigList": [{
+		"delaytime": "",
+		"showaday": "",
+		"eachtime": "",
+		"type": "Recommend_zhibolist",
+		"intervaltime": ""
+	}, {
+		"delaytime": "3",
+		"showaday": "5",
+		"eachtime": "10",
+		"type": "Recommend_zhibozuo",
+		"intervaltime": "5"
+	}, {
+		"delaytime": "3",
+		"showaday": "3",
+		"eachtime": "10",
+		"type": "Recommend_zhiboyou",
+		"intervaltime": "5"
+	}]
+}

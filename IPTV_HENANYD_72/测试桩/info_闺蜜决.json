@@ -1,0 +1,124 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599708773,
+	"seqId": "7d9ae4bdb91e8fedc36e25baed1af188",
+	"data": {
+		"actor": "李克龙/王子杰,廖蔚蔚,叶思齐,卢星宇,高宝宝",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32020030217014325688367941790728\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-28",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32020030217014325688367941790728\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "32020030217014325688367941790728",
+		"clipTitle": "闺蜜决",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.0分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2020",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "青春",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2680",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2020/3/1/dianshiju/336818/20200301095400236-new.jpg_436x322.jpg",
+		"imgV": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2020/2/26/dianshiju/336818/20200226170642588-new.jpg_326x482.jpg",
+		"importId": "32020030217014325688367941790728",
+		"isBook": "",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2680",
+			"vid": "32020030217021665254129429878086",
+			"watchTime": "0",
+			"tips": "上次观看：{闺蜜决 第1集}"
+		},
+		"latestIndex": "28",
+		"latestShowTime": "",
+		"originalId": "VRS336818",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2020-02-26",
+		"totalNumber": "28",
+		"updateDetail": {
+			"info": "更新至28集/共28集",
+			"desc": ""
+		},
+		"vid": "32020030217021665254129429878086",
+		"videoImgH": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/1/dianshiju/336818/7610892/dc4b4c1cd9ee47d8939ee50206b59404.jpg",
+		"videoTitle": "闺蜜决 第1集",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,依兰怀着对旗袍设计的满腔热情来到秀水镇，意外和董事长的儿子成了室友。初入职场的她，就遭遇了闺蜜的妒忌与陷害，同事的排挤与刁难，董事长的羞辱，室友的欺骗，她还能继续坚持自己的设计梦想吗？",
+		"btns": {
+			"order": {
+				"tips": "立即订购",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32020030217014325688367941790728\u0026productIds=7,44,34,43,130,20,129,35"
+			}
+		},
+		"isFree": "1",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

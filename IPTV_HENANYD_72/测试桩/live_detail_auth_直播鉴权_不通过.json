@@ -1,0 +1,37 @@
+{
+	"status": "0000",
+	"err": 0,
+	"msg": {
+		"type": "refuse",
+		"check": {
+			"product_list": [{
+				"id": 391,
+				"name": "芒果包单月测试",
+				"priceUnit": "分",
+				"price": "10",
+				"sort": 0,
+				"time": "1",
+				"timesUnit": "月",
+				"timesType": 1,
+				"timeShow": "10分/月",
+				"cost_price": "",
+				"subtitle": "",
+				"superscript": "",
+				"promotions": "",
+				"visible": 0,
+				"operatorId": "8801000033",
+				"bg_img_url": "",
+				"description": "",
+				"orderedJumpImg": "",
+				"orderedJumpUrl": "",
+				"marketBg": "",
+				"marketDescr": ""
+			}],
+			"try_see_info": {
+				"try_type": 0
+			},
+			"order_url": "http://192.168.168.160:8080/zt/oc/order_product_page.html?productIds=391",
+			"skip_msg": "开通会员"
+		}
+	}
+}

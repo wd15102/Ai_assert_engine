@@ -1,0 +1,39 @@
+{
+	"cost": 0.044521568,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1631610970,
+	"seqId": "0c16285bd04a87f812d5e22efe2b83ac",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000005000000166936",
+		"vid": "00000001000000000005000000169214",
+		"st": "87",
+		"et": "2571",
+		"files": {
+			"bitrate": "4275",
+			"ftime": "2578",
+			"height": "",
+			"url": "http://124.232.232.145:6060/190ZTE01/dfad927b3f3e481eb0846d913a95afd4/index.m3u8?usercode=6830021\u0026programid=a660d0598cb0409d9609cf3fc1ca7e6d\u0026vendor=ZTE",
+			"vf": "2",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "D00000001201801231815250041299413",
+		"ovid": "E2033800",
+		"thirdCid": "",
+		"thirdVid": "",
+		"tencentUserInfo": {
+			"access_token": "vUAGWk/LMRWdXAJOt4zvFc4iR2UO6eLy0ya7Y2/IJhF2rebKax03+X1XvZsabPcbIgZzdsE00y9Ic0VRorZ9H3qRncwEVeYt",
+			"vtoken": "377F0F5AA2A93980D8432735DA5C843C",
+			"vuid": "1914522759"
+		}
+	}
+}

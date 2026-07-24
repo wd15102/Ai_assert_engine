@@ -1,0 +1,26 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1623115717,
+	"data": {
+		"program": {
+			"programId": "6"
+		},
+		"plugins": [{
+			"pluginId": "8",
+			"pluginName": "HuanxiVod",
+			"pkgName": "com.mgtv.iptv.plugin.huanxi.hnlt",
+			"provider": "MGTV",
+			"pluginEnter": "com.mgtv.iptv.plugin.MainActivity",
+			"versionCode": "2021060109",
+			"downloadUrl": "http://116.129.248.202/apk/PL.1.0.0.Y28.6.HNLT.0.0_Pre_Release_2021060109.apk",
+			"downloadUrl2": "",
+			"osChannelId": "",
+			"apkmd5": "5a4401f9be2ef2bb9e5e18285933a819",
+			"upSilent": "0",
+			"installType": "1",
+			"ext1": "",
+			"ext2": ""
+		}]
+	}
+}

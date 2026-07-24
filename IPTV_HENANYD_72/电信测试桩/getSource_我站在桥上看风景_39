@@ -1,0 +1,39 @@
+{
+	"cost": 0.0105538,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1631609908,
+	"seqId": "e260af389643b38b73b59d4e877a17b6",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000005000000166936",
+		"vid": "00000001000000001007000000232582",
+		"st": "87",
+		"et": "2599",
+		"files": {
+			"bitrate": "4275",
+			"ftime": "2595",
+			"height": "",
+			"url": "http://124.232.231.172:8089/000000000000/f301162b328f4f94996c3ece0b5ccb10/index.m3u8",
+			"vf": "2",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "D00000001201801231815250041299413",
+		"ovid": "E2126112",
+		"thirdCid": "",
+		"thirdVid": "",
+		"tencentUserInfo": {
+			"access_token": "vUAGWk/LMRWdXAJOt4zvFc4iR2UO6eLy0ya7Y2/IJhF2rebKax03+X1XvZsabPcbIgZzdsE00y9Ic0VRorZ9H3qRncwEVeYt",
+			"vtoken": "377F0F5AA2A93980D8432735DA5C843C",
+			"vuid": "1914522759"
+		}
+	}
+}

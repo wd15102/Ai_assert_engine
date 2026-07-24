@@ -1,0 +1,53 @@
+{
+	"code": 0,
+	"message": "成功",
+	"data": [{
+		"seriesId": "32023051811125254426760434635036",
+		"seriesName": "请成为我的家人",
+		"viewType": "",
+		"originalId": "VRS546986",
+		"cornerMarkImg": "",
+		"point": "8.5",
+		"newIndex": "30",
+		"allIndex": "30",
+		"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/05/09/c7a606880da4115d820ef731c0632eeb.jpg",
+		"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/05/09/514a8fee4c5feaf8b3d9aea1ede89db9.jpg",
+		"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/05/09/c7a606880da4115d820ef731c0632eeb.jpg",
+		"version": "YYS.6.8.2.Y3.6.HNYDIPTV.0.0_Release",
+		"cpId": "1",
+		"addTime": "2023-06-27 03:21:32",
+		"mzState": "10"
+	}, {
+		"seriesId": "32021071911182497685929806557208",
+		"seriesName": "我在他乡挺好的",
+		"viewType": "",
+		"originalId": "VRS362723",
+		"cornerMarkImg": "",
+		"point": "8.5",
+		"newIndex": "12",
+		"allIndex": "12",
+		"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2021/7/14/dianshiju/362723/b23841cec359fcc680120c5d66aa5ee9.jpg",
+		"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2021/07/14/2ca9cdb093cfba96f0c2d76343b7f180.jpg",
+		"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2021/7/14/dianshiju/362723/b23841cec359fcc680120c5d66aa5ee9.jpg",
+		"version": "YYS.6.8.2.Y3.6.HNYDIPTV.0.0_Release",
+		"cpId": "1",
+		"addTime": "2022-07-26 10:56:26",
+		"mzState": "10"
+	}, {
+		"seriesId": "32022042417535575224862496133110",
+		"seriesName": "向往的生活 第六季",
+		"viewType": "",
+		"originalId": "D00000001202204211523590046198554",
+		"cornerMarkImg": "http://192.168.168.127:81/picture/zypt/aaa/919bcddc0d344715ba4dc7b2fa290b9e.png",
+		"point": "9.8",
+		"newIndex": "14",
+		"allIndex": "14",
+		"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/outsite/2022/05/24/616e57d397cc44e3a1bf01ca2d371003.jpg",
+		"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/outsite/2022/05/24/deda9bb75c16412a8977936847b5263c.jpg",
+		"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/outsite/2022/05/24/45f8011da78f442083c81042cc2107e3.jpg",
+		"version": "YYS.6.8.2.Y3.6.HNYDIPTV.0.0_Release",
+		"cpId": "1",
+		"addTime": "2022-07-26 10:56:19",
+		"mzState": "10"
+	}]
+}

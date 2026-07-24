@@ -1,0 +1,104 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1604558854,
+	"seqId": "f9b5d6f72218797838980ed9ec1004e9",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000000001000000108185\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [{
+					"title": "1-1"
+				}],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "00000001000000000001000000108185",
+		"clipTitle": "绯闻计划",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.10分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2010",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "美国",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "爱情 ▪ 喜剧",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201703/09/20170309143016.jpg",
+		"imgV": "http://192.168.168.121:81http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201703/09/20170309143020.jpg",
+		"importId": "00000001000000000001000000108185",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "",
+			"vid": "00000001000000000002000000011245",
+			"watchTime": "",
+			"tips": "正在播放：绯闻计划"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "D00000001201703091411200005098930",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "00000001000000000002000000011245",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "http://192.168.168.121:81http://192.168.168.121:81http://192.168.168.121:81http://192.168.168.121:81/mango/2/20170622/00000001000000000001000000108185/0/zh_CN/1498122519013.jpg",
+		"videoTitle": "绯闻计划0908",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "平凡的高中女生奥利芙在学校一直籍籍无名，甚至频繁被当成受气包。一次派对，她为了帮助死党布兰登摆脱同志嫌疑，自编自导了 一处“破处戏”，从而一举成名成为学校的风云人物，再也没有人来欺负她。",
+		"btns": {
+			"order": {
+				"tips": "",
+				"url": ""
+			}
+		},
+		"isFree": "0",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

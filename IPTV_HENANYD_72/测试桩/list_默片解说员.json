@@ -1,0 +1,33 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618194906,
+	"seqId": "275a7effd0434a6f4ce1280e5f92368a",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32021012214522435053872924626112",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:00:13"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "正片"
+			},
+			"desc": "电影激发少年职业梦，磨难铸定爱侣浪漫情",
+			"duration": "7213",
+			"image": "",
+			"name": "默片解说员",
+			"title": "电影激发少年职业梦，磨难铸定爱侣浪漫情",
+			"type": "1",
+			"vid": "32021012214522540067589989254849",
+			"videoIndex": "1",
+			"ocid": "HUANXIS1000000000000000000046886",
+			"ovid": "HUANXIP1000000000000000000046886"
+		}]
+	}
+}

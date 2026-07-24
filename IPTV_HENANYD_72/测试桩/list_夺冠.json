@@ -1,0 +1,33 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618195194,
+	"seqId": "ec99254daf7666c2aae87a9a5a9c7bdf",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32020122216115950860406984336977",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:14:45"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "正片"
+			},
+			"desc": "流血不流泪！这就是中国女排！",
+			"duration": "8085",
+			"image": "",
+			"name": "夺冠",
+			"title": "流血不流泪！这就是中国女排！",
+			"type": "1",
+			"vid": "32020122216120080624087954047968",
+			"videoIndex": "1",
+			"ocid": "HUANXIS1000000000000000000046665",
+			"ovid": "HUANXIP1000000000000000000046665"
+		}]
+	}
+}

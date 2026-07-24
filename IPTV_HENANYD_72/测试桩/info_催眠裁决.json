@@ -1,0 +1,102 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1609319432,
+	"seqId": "bd384580726a911b461a505f9090299a",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=32019120518461142122149940745740\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "32019120518461142122149940745740",
+		"clipTitle": "催眠·裁决",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "6.2分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "中国香港",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "动作 ▪ 警匪",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "5629",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/4/19/dianying/329275/20190419191950069-new.jpg_436x322.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/12/5/dianying/329275/20191205101802010-new.jpg_326x482.jpg",
+		"importId": "32019120518461142122149940745740",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "5629",
+			"vid": "32019120518461357046874186165797",
+			"watchTime": "19",
+			"tips": "上次观看：催眠·裁决 00:00:19"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "VRS329275",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2019-12-05",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32019120518461357046874186165797",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2019/12/5/dianying/329275/7190965/3a565782756523a53163cfd5e1efc127.jpg",
+		"videoTitle": "催眠·裁决",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,轰动全港的林氏家族凶杀案踏入审讯最后一天，陪审团准备退庭商议时，成员之一许立生（张家辉饰）突然收到女儿茵茵（艾米饰）被绑架的消息，神秘人要求曾为国际催眠权威的立生通过催眠术令陪审团裁定被告谋杀罪名成立，否则其女儿将被撕票。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019120518461142122149940745740\u0026productIds=7,44,34,43,20,130,35,129"
+			}
+		},
+		"isFree": "1",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

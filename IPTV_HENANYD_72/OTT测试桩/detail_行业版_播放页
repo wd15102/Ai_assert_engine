@@ -1,0 +1,13 @@
+{
+	"code": 200,
+	"msg": "",
+	"seqId": "3e9edc9c43a647539b19290bdc5feaf4",
+	"data": {
+		"duration": 244,
+		"partId": "694d414342d24167ab0db11904361abb",
+		"partName": "高中一年级视频121001",
+		"playUrl": "http://tvgslb.hn.chinamobile.com:8089/180000000000/32022010501443378289267664008983/main.m3u8?stbid=0104352533271690912"
+	},
+	"timestamp": 1607928500,
+	"serverTime": 1607928500
+}

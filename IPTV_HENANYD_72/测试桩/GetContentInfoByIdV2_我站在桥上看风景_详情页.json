@@ -1,0 +1,71 @@
+{
+	"actor": "李溪芮,姜潮",
+	"allIndex": "40",
+	"area": "中国",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000046",
+		"name": "爱情偶像",
+		"originalId": "2b62ade90afb4276966da0190fbf3b31",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000047",
+		"name": "内地剧场",
+		"originalId": "d6be22fb44f34e8c8948bc206b114558",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000051",
+		"name": "全部剧集",
+		"originalId": "9853284e25df4cdca9cc850e8b79c0b6",
+		"parentId": "00000001000000001002000000000021"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"director": "袁晓满",
+	"fstname": "电视剧",
+	"imageH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201801/23/20180123182103464.jpg",
+	"imageS": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201801/23/20180123182106249.jpg",
+	"imageV": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201801/23/20180123182104856.jpg",
+	"importId": "00000001000000000005000000166936",
+	"isBook": "0",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "剧情|爱情",
+	"lastPlayedIndex": "1",
+	"lastPlayedTime": "300",
+	"lastPlayedType": "1",
+	"lastProgramId": "00000001000000000005000000166934",
+	"newIndex": "40",
+	"originalId": "D00000001201801231815250041299413",
+	"playProgramId": "00000001000000000005000000166934",
+	"playProgramType": "1",
+	"playStartTime": "300",
+	"point": "7.5",
+	"programOrder": "asc",
+	"programUiStyle": "0",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "00000001000000000005000000166936",
+	"seriesName": "我站在桥上看风景 DVD版",
+	"showTime": "2018-01-23 00:00:00",
+	"starList": [{
+		"bief": "姜潮，1991年出生于安徽合肥，中国内地男歌手、演员，毕业于北京现代音乐学院。2010年获得 “快乐男声”济南唱区冠军以及全国13强；同年加入8090组合。2012年开始主演了《青春荷尔蒙》《小时代》系列等电影作品，《四大萌捕》《狐狸的夏天》《神犬小七第三季》等电视剧作品。",
+		"originalId": "2f7ed7c085de4c188aa0ff5a42717728",
+		"starId": "00000001000000001002000000006204",
+		"starName": "姜潮",
+		"starType": "actor",
+		"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/jiangchao/jiangchao20170815153700154.jpg"
+	}, {
+		"bief": "李溪芮，2013年主演青春剧《微时代》，饰演康薇薇一角。2014年其在湖南卫视播出的都市家庭情感剧《妻子的秘密》中饰演黄蓉。",
+		"originalId": "1b46e894489e427fb7c7419bd8c4ebe3",
+		"starId": "00000001000000001002000000025585",
+		"starName": "李溪芮",
+		"starType": "actor",
+		"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/lixirui/lixirui20170120164054031.jpg"
+	}],
+	"summary": "版权来源【芒果TV】,讲述了游戏公司总裁章峥岚在机缘巧合之下认识并倾心于剑道教练萧水光，便使出十八班耍赖功夫抓住各种可乘之机接近自己心中的“缪斯女神”。",
+	"videoType": "0",
+	"viewType": ""
+}

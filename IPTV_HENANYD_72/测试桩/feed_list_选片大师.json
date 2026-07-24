@@ -1,0 +1,512 @@
+{
+  "msg": "success",
+  "code": 200,
+  "data": [
+	{
+      "feedType": 1,
+      "recomReason": "试看电视剧",
+      "recomParams": "moduleId:2#id:af882f11db41466db05b725be3b5b549#type:1#partId:VRS585796#assetId:VRS47361#strategy:202#st:c1.7.0#bucket:100#channel:5#serverType:2",
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "00000001000000001002000000009649",
+      "ocid": "D00000001201803042010390042396312",
+      "clipName": "老男孩",
+      "vid": "00000001000000001006000000041893",
+      "ovid": "E2088412",
+      "partName": "第1集",
+      "aliasName": "第1集别名",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "42",
+      "seriesno": "2",
+      "showTime": "2022-03-10",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "1",
+          "showOrder": "1",
+          "title": "选集",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "10",
+          "tabs": [
+            {
+              "title": "1-10"
+            },
+            {
+              "title": "11-20"
+            },
+            {
+              "title": "21-30"
+            },
+            {
+              "title": "31-40"
+            },
+            {
+              "title": "41-42"
+            }
+          ]
+        }
+      ],
+      "hotPointId": "dce3c305ed844d7589a9c8bd1f7259dc",
+      "pointTitle": "01爆点超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断",
+      "pointImg": "http://127.0.0.1:80/hengtu1.jpg",
+      "pointStartTime": "400",
+      "pointEndTime": "900",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "129396399bea41b7a890cbca8d1581ba"
+    },
+	{
+      "feedType": 1,
+      "recomReason": "免费电视剧最后一集倒数30s超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断超长测试看看到底可以多长会截断",
+      "recomParams": null,
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "00000001000000001018000000199407",
+      "ocid": "VRS329967",
+      "clipName": "大家都爱看的小欢喜啊啊啊啊啊啊啊啊啊啊啊啊啊yyds",
+      "vid": "32019091615184432875079048384784",
+      "ovid": "VRS6279986",
+      "partName": "最后一集",
+      "aliasName": "方圆遇发小季胜利",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "2",
+      "showTime": "2022-03-10",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "1",
+          "showOrder": "1",
+          "title": "选集",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "10",
+          "tabs": [{
+					"title": "1-10"
+				}, {
+					"title": "11-20"
+				}, {
+					"title": "21-30"
+				}, {
+					"title": "31-40"
+				}, {
+					"title": "41-49"
+				}
+			]
+        }
+      ],
+      "hotPointId": "6eac7de6848644e2b91258ef8ed3f98e",
+      "pointTitle": "最后一集最后30s",
+      "pointImg": "",
+      "pointStartTime": "2550",
+      "pointEndTime": "2637",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "0bf6178c971942abbfdac1787c23846f"
+    },
+	{
+      "feedType": 1,
+      "recomReason": "试看综艺",
+      "recomParams": null,
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "32022031615192247029354685479157",
+      "ocid": "VRS406147",
+      "clipName": "跨代答题王",
+      "vid": "32022031615192690881085240185844",
+      "ovid": "VRS15026979",
+      "partName": "跨代答题王20220316",
+      "aliasName": "跨代答题王第1集副",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "1",
+      "showTime": "2022-03-16",
+      "keepPlayType": "",
+      "showMode": "m2",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "2",
+          "showOrder": "2",
+          "title": "节目",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "5",
+          "tabs": [
+            {
+              "title": "1-3"
+            }
+          ]
+        },
+        {
+          "datatype": "6",
+          "showtype": "2",
+          "showOrder": "2",
+          "title": "看点",
+          "refresh": "2",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=6",
+          "isTab": "0",
+          "tabSize": "0",
+          "tabs": []
+        }
+      ],
+      "hotPointId": "daf14b7179bb42db95747c55883c7850",
+      "pointTitle": "01跨爆点",
+      "pointImg": "http://127.0.0.1:80/hengtu1.jpg",
+      "pointStartTime": "10",
+      "pointEndTime": "27",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "250f785cdd9549b68759a95d06a8fc4e"
+    },
+	{
+      "feedType": 1,
+      "recomReason": "电影爆点范围不在试看范围内",
+      "recomParams": "moduleId:2#id:af882f11db41466db05b725be3b5b549#type:1#partId:VRS585796#assetId:VRS47361#strategy:202#st:c1.7.0#bucket:100#channel:5#serverType:2",
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "00000001000000001012000000056930",
+      "ocid": "D00000001201901290945030044699862",
+      "clipName": "蜘蛛侠：平行宇宙",
+      "vid": "00000001000000001012000000056929",
+      "ovid": "E3226332",
+      "partName": "蜘蛛侠：平行宇宙",
+      "aliasName": "蜘蛛侠：平行宇宙",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "1",
+      "seriesno": "2",
+      "showTime": "2022-02-22",
+      "keepPlayType": "",
+      "showMode": "0",
+      "hotPointId": "411fd0700c8446c8b9828df8ed80013d",
+      "pointTitle": "爆点范围不在试看范围内",
+      "pointImg": "http://127.0.0.1:80/hengtu3.jpg",
+      "pointStartTime": "700",
+      "pointEndTime": "830",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "d14da72207854c46a1734365ee976237"
+    },
+	{
+      "feedType": 2,
+      "recomReason": "短视频跳点播详情页",
+      "recomParams": null,
+      "cpId": "0",
+      "buttonText": "跳点播详情页",
+      "buttonAction": "{\"jumpDefaultCp\":-1,\"jumpDefaultParam\":[{\"key\":\"videoType\",\"name\":\"视频类型\",\"value\":\"0\"},{\"key\":\"auto_play\",\"name\":\"是否直接播放视频\",\"value\":\"0\"},{\"key\":\"originalId\",\"name\":\"合集ID\",\"value\":\"D20151222102105885\"}],\"jumpDefaultTypeId\":\"m_open_detail_page\",\"terminalId\": \"6\"}",      
+      "label": "http://192.168.168.121:81/zypt/upstream/sp_images/2018/dianshiju/322533/4300404/c3a5a3ace6fb4b479c64e593fa7075ab.jpg",
+      "labelType": "短视频",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": null,
+      "ocid": "",
+      "clipName": "短视频_短视频标识",
+      "vid": "32021020109341933005636990916605",
+      "ovid": "VRS10013856",
+      "partName": "哦豁大芒短视频测试1634234",
+      "aliasName": "短视频VRS10013836",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "1",
+      "showTime": "2022-03-16",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [],
+      "hotPointId": "",
+      "pointTitle": "",
+      "pointImg": "http://127.0.0.1:80/hengtu4.jpg",
+      "pointStartTime": "",
+      "pointEndTime": "",
+      "openingTime": "",
+      "endingTime": "",
+      "oPointId": ""
+    },
+    {
+      "feedType": 2,
+      "recomReason": "短视频跳活动web",
+      "recomParams": null,
+      "cpId": "0",
+      "buttonText": "跳活动web",
+	  "buttonAction": "{\"jumpDefaultCp\":-1,\"jumpDefaultParam\":[{\"key\":\"webUrl\",\"value\":\"http://192.168.168.160:8080/poster/oc/order_center_page.html\"},{\"key\":\"exInfo\",\"value\":\"\"}],\"jumpDefaultTypeId\":\"m_open_web\"}",
+      "label": "",
+      "labelType": "活动",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": null,
+      "ocid": "",
+      "clipName": "短视频_活动标识",
+      "vid": "32021020110104689209114418078827",
+      "ovid": "VRS10013848",
+      "partName": "哦豁大芒短视频测试1634234",
+      "aliasName": "短视频VRS10013848",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "1",
+      "showTime": "2022-03-16",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [],
+      "hotPointId": "",
+      "pointTitle": "爆点为空",
+      "pointImg": "http://127.0.0.1:80/hengtu5.jpg",
+      "pointStartTime": "",
+      "pointEndTime": "",
+      "openingTime": "",
+      "endingTime": "",
+      "oPointId": ""
+    },
+	{
+      "feedType": 2,
+      "recomReason": "跳直播",
+      "recomParams": null,
+      "cpId": "0",
+      "buttonText": "跳直播",
+	  "buttonAction": "{\"jumpDefaultCp\":-1,\"jumpDefaultParam\":[{\"key\":\"videoType\",\"value\":\"1\"},{\"key\":\"categoryId\",\"value\":\"9b9dd6121ae64800b9cf730b89463fbd|5001\"}],\"jumpDefaultTypeId\":\"m_open_player\"}",
+      "label": "",
+      "labelType": "直播",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": null,
+      "ocid": "",
+      "clipName": "短视频_直播标识",
+      "vid": "32021031916181668893858692723743",
+      "ovid": "VRS10013850",
+      "partName": "哦豁大芒短视频测试1634234",
+      "aliasName": "短视频VRS10013850",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "1",
+      "showTime": "2022-03-16",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [],
+      "hotPointId": "411fd0700c8446c8b9828df8ed80013d",
+      "pointTitle": "爆点为空",
+      "pointImg": "http://127.0.0.1:80/hengtu6.jpg",
+      "pointStartTime": "",
+      "pointEndTime": "",
+      "openingTime": "",
+      "endingTime": "",
+      "oPointId": "d14da72207854c46a1734365ee976237"
+    },
+	{
+      "feedType": 1,
+      "recomReason": "试看电视剧",
+      "recomParams": null,
+      "cpId": "2000062",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "00000001000000001007000000066676",
+      "ocid": "D00000001201807111015110019299150",
+      "clipName": "一起来看流星雨",
+      "vid": "00000001000000001007000000078847",
+      "ovid": "E2288395",
+      "partName": "第5集",
+      "aliasName": "端木磊对于馨一见钟情",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "100",
+      "seriesno": "7",
+      "showTime": "2022-03-09",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "1",
+          "showOrder": "1",
+          "title": "选集",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "10",
+          "tabs": [{
+					"title": "1-10"
+				}, {
+					"title": "11-20"
+				}, {
+					"title": "21-30"
+				}, {
+					"title": "31-36"
+				}]
+        }
+      ],
+      "hotPointId": "192bed202a50448fa07be9a0f1d5abc0",
+      "pointTitle": "爆点yyds",
+      "pointImg": "http://127.0.0.1:80/hengtu7.jpg",
+      "pointStartTime": "100",
+      "pointEndTime": "110",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "c697f0e99b49497f95e32fae12426f1d"
+    },
+	{
+      "feedType": 1,
+      "recomReason": "错误的视频id",
+      "recomParams": null,
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "32022031615192247029354685479157",
+      "ocid": "VRS406147",
+      "clipName": "跨代答题王",
+      "vid": "errorid",
+      "ovid": "VRS15026982",
+      "partName": "第5集",
+      "aliasName": "跨代答题王第2期副",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "10",
+      "seriesno": "2",
+      "showTime": "2022-03-16",
+      "keepPlayType": "",
+      "showMode": "m2",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "2",
+          "showOrder": "2",
+          "title": "节目",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "5",
+          "tabs": [
+            {
+              "title": "1-5"
+            },
+            {
+              "title": "6-6"
+            }
+          ]
+        },
+        {
+          "datatype": "6",
+          "showtype": "2",
+          "showOrder": "2",
+          "title": "看点",
+          "refresh": "2",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=6",
+          "isTab": "0",
+          "tabSize": "0",
+          "tabs": []
+        }
+      ],
+      "hotPointId": "57df42b5e9f7486b8bf419e0ae131ec7",
+      "pointTitle": "02跨爆点",
+      "pointImg": "http://127.0.0.1:80/hengtu8.jpg",
+      "pointStartTime": "5",
+      "pointEndTime": "10",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "904b4501435b4d629844f9411c50a9ab"
+    },
+    {
+      "feedType": 1,
+      "recomReason": "免费电视剧排行榜第1名yyds",
+      "recomParams": null,
+      "cpId": "0",
+      "rootCateId": "",
+      "childCateId": "",
+      "cid": "00000001000000001002000000009649",
+      "ocid": "D00000001201803042010390042396312",
+      "clipName": "老男孩",
+      "vid": "00000001000000001006000000041736",
+      "ovid": "E2088412",
+      "partName": "第1集",
+      "aliasName": "第1集别名",
+      "tabIndex": "1",
+      "pageIndex": "1",
+      "totalNumber": "42",
+      "seriesno": "2",
+      "showTime": "2022-03-10",
+      "keepPlayType": "",
+      "showMode": "0",
+      "modules": [
+        {
+          "datatype": "1",
+          "showtype": "1",
+          "showOrder": "1",
+          "title": "选集",
+          "refresh": "1",
+          "url": "http://192.168.168.55:6060/iptv_epg/video/list?module=1",
+          "isTab": "1",
+          "tabSize": "10",
+          "tabs": [
+            {
+              "title": "1-10"
+            },
+            {
+              "title": "11-20"
+            },
+            {
+              "title": "21-30"
+            },
+            {
+              "title": "31-40"
+            },
+            {
+              "title": "41-42"
+            }
+          ]
+        }
+      ],
+      "hotPointId": "dce3c305ed844d7589a9c8bd1f7259dc",
+      "pointTitle": "01爆点",
+      "pointImg": "http://127.0.0.1:80/hengtu9.jpg",
+      "pointStartTime": "400",
+      "pointEndTime": "600",
+      "openingTime": "",
+      "endingTime": "",
+      "buttonText": null,
+      "buttonAction": null,
+      "labelType": null,
+      "label": null,
+      "oPointId": "129396399bea41b7a890cbca8d1581ba"
+    }
+  ],
+  "ok": true
+}

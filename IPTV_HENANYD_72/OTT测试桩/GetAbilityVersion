@@ -1,0 +1,21 @@
+{
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"areaCode": "0731",
+	"ip": "192.168.205.201",
+	"abilityVersion": "YYS.7.2.4.Y3.6.HNYD.0.0_Release",
+	"parameterList": [{
+		"parameterKey": "punch_on_off",
+		"parameterValue": "{ \"common\":\"yidong,yidong2\", \"actionSourceDatas\":[ { \"actionSourceId\":\"yidong\", \"data\":\"\" }, { \"actionSourceId\":\"yidong2\", \"data\":\"pianku/pianku_list_page\" } ] }"
+	}, {
+		"parameterKey": "punch_on_off",
+		"parameterValue": "{ \"common\":\"yidong,yidong2\", \"actionSourceDatas\":[ { \"actionSourceId\":\"yidong\", \"data\":\"\" }, { \"actionSourceId\":\"yidong2\", \"data\":\"pianku/pianku_list_page\" } ] }"
+	}, {
+		"parameterKey": "default_nav_option",
+		"parameterValue": "jingxuan_6.0"
+	}],
+	"cp": "HW",
+	"bussId": "00006054"
+}

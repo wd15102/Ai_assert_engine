@@ -1,0 +1,115 @@
+{
+	"countNums": "5",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"rootCategoryList": [{
+		"categoryName": "综艺",
+		"count": "1",
+		"originalId": "a7211d19266346398fbfa64c559c5f2a",
+		"rootCategoryId": "00000001000000001002000000000020"
+	}, {
+		"categoryName": "电视剧",
+		"count": "1",
+		"originalId": "812a11312b5f44a19252d3092647db22",
+		"rootCategoryId": "00000001000000001002000000000021"
+	}, {
+		"categoryName": "电影",
+		"count": "2",
+		"originalId": "8cd8488f69f2496683395a85f72a9e84",
+		"rootCategoryId": "00000001000000001002000000000022"
+	}, {
+		"categoryName": "少儿",
+		"count": "1",
+		"originalId": "e4a59e12b76f43109c1025744408a8da",
+		"rootCategoryId": "00000001000000001002000000000023"
+	}],
+	"seriesList": [{
+		"addTime": "2023-04-07 14:35:03",
+		"allIndex": "40",
+		"collectId": "82d6110511fb449d9773a823f5ebd0e5",
+		"cornerMarkImg": "",
+		"cpId": "1",
+		"imageH": "http://127.0.0.1:80/shutu1.jpg",
+		"imageS": "http://127.0.0.1:80/hengtu1.jpg",
+		"imageV": "http://127.0.0.1:80/shutu1.jpg",
+		"newIndex": "40",
+		"originalId": "D00000001201801231815250041299413",
+		"point": "7.5",
+		"rootCategoryId": "00000001000000001002000000000020",
+		"seriesId": "00000001000000000005000000166936",
+		"seriesName": "我站在桥上看风景 DVD版",
+		"version": "YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release",
+		"videoType": "0",
+		"viewType": ""
+	}, {
+		"addTime": "2022-08-29 15:48:06",
+		"allIndex": "40",
+		"collectId": "90de660bcab14e24a5644ffaed40705f",
+		"cornerMarkImg": "",
+		"imageH": "http://127.0.0.1:80/shutu3.jpg",
+		"imageS": "http://127.0.0.1:80/hengtu3.jpg",
+		"imageV": "http://127.0.0.1:80/shutu3.jpg",
+		"newIndex": "40",
+		"originalId": "D00000001201709141653110038598972",
+		"point": "8.00",
+		"rootCategoryId": "00000001000000001002000000000021",
+		"seriesId": "00000001000000000002000000113349",
+		"seriesName": "最美的时光",
+		"version": "YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release",
+		"videoType": "0",
+		"viewType": ""
+	}, {
+		"addTime": "2021-08-28 20:07:59",
+		"allIndex": "1",
+		"collectId": "86d595f40cf64bceb27d7f9e0404b14c",
+		"cornerMarkImg": "",
+		"imageH": "http://127.0.0.1:80/shutu4.jpg",
+		"imageS": "http://127.0.0.1:80/hengtu4.jpg",
+		"imageV": "http://127.0.0.1:80/shutu4.jpg",
+		"newIndex": "1",
+		"originalId": "D00000001201609290922090054299993",
+		"point": "8.90",
+		"rootCategoryId": "00000001000000001002000000000022",
+		"seriesId": "00000000000000000001000000016784",
+		"seriesName": "使徒行者",
+		"version": "YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release",
+		"videoType": "0",
+		"viewType": ""
+	}, {
+		"addTime": "2020-09-09 16:27:02",
+		"allIndex": "1",
+		"collectId": "2d50b11ef0664617a3acd01446a6aee2",
+		"cornerMarkImg": "",
+		"imageH": "http://127.0.0.1:80/shutu2.jpg",
+		"imageS": "http://127.0.0.1:80/hengtu2.jpg",
+		"imageV": "http://127.0.0.1:80/shutu2.jpg",
+		"newIndex": "1",
+		"originalId": "D00000001201612090949260068699995",
+		"point": "6.90",
+		"rootCategoryId": "00000001000000001002000000000022",
+		"seriesId": "00000000000000000001000000064296",
+		"seriesName": "惊天破",
+		"version": "YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release",
+		"videoType": "0",
+		"viewType": ""
+	}, {
+		"addTime": "2019-08-15 09:04:17",
+		"allIndex": "32",
+		"collectId": "c12d333b861c48ca81d00d85ec75e056",
+		"cornerMarkImg": "http://192.168.168.127:81/picture/zypt/aaa/919bcddc0d344715ba4dc7b2fa290b9e.png",
+		"imageH": "http://127.0.0.1:80/shutu5.jpg",
+		"imageS": "http://127.0.0.1:80/hengtu5.jpg",
+		"imageV": "http://127.0.0.1:80/shutu5.jpg",
+		"newIndex": "32",
+		"originalId": "D00000001201904300650080046296367",
+		"point": "8.6",
+		"rootCategoryId": "00000001000000001002000000000023",
+		"seriesId": "00000001000000001014000000325229",
+		"seriesName": "萌芽熊童子",
+		"version": "YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release",
+		"videoType": "0",
+		"viewType": ""
+	}]
+}

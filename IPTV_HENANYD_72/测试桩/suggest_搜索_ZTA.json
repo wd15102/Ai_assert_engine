@@ -1,0 +1,33 @@
+{
+	"countNums": "6",
+	"countPages": "1",
+	"curPage": "1",
+	"searchKey": "",
+	"result": {
+		"state": "0",
+		"reason": "success"
+	},
+	"suggestList": [{
+		"title": "泽塔奥特曼"
+	}, {
+		"title": "泽塔奥特曼 日语版"
+	}, {
+		"title": "女子特案组"
+	}, {
+		"title": "猫小帅一分钟探案"
+	}, {
+		"title": "虹猫蓝兔侦探奥悠国"
+	}, {
+		"title": "张天爱"
+	}, {
+		"title": "真田广之"
+	}, {
+		"title": "暗花"
+	}, {
+		"title": "阿衰 第一季"
+	}, {
+		"title": "阿衰的搞笑日常"
+	}, {
+		"title": "阿巳与小铃铛的友爱互动"
+	}]
+}

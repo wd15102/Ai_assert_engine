@@ -1,0 +1,24 @@
+{
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"areaCode": "0731",
+	"ip": "192.168.204.179",
+	"fileformatdesc": "0,1,2,3,4,9",
+	"abilityVersion": "YYS.7.2.4.Y3.6.HNYDIPTV.0.0_Release",
+	"parameterList": [{
+		"parameterKey": "punch_on_off",
+		"parameterValue": "{ \"common\":\"liantong\", \"actionSourceDatas\":[ { \"actionSourceId\":\"liantong\", \"data\":\"\" }, { \"actionSourceId\":\"yidong2\", \"data\":\"\" } ] }"
+	}, {
+		"parameterKey": "punch_on_off",
+		"parameterValue": "{ \"common\":\"liantong\", \"actionSourceDatas\":[ { \"actionSourceId\":\"liantong\", \"data\":\"\" }, { \"actionSourceId\":\"yidong2\", \"data\":\"\" } ] }"
+	}, {
+		"parameterKey": "default_nav_option",
+		"parameterValue": "jingxuan_6.0"
+	}],
+	"cp": "HW",
+	"support":"11100001000",
+	"bussId": "000099901",
+	"verMod": ""
+}

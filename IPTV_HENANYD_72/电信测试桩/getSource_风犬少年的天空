@@ -1,0 +1,30 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613986280,
+	"seqId": "953b8e31ebecf2969b66474ae3cf80b3",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32021022407322549950484032578057",
+		"vid": "32021022014383327996279282479036",
+		"st": "93",
+		"et": "3282",
+		"files": {
+			"bitrate": "4289",
+			"ftime": "005910",
+			"height": "",
+			"url": "http://124.232.231.172:8089/000000000000/6fe43729f5594300acd5083d2073fa5c/index.m3u8",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3"
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "VRS356654",
+		"ovid": "VRS10731009"
+	}
+}

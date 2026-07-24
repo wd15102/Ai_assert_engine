@@ -1,0 +1,109 @@
+{
+  "result": {
+    "cost": 0.001,
+    "reason": "ok",
+    "state": "0"
+  },
+  "templateDatas": [
+    {
+      "abTest": "",
+      "bgImg": null,
+      "bindUserstyle": "",
+      "businessAllow": "",
+      "businessForbid": "",
+      "channelMode": 0,
+      "datas": [
+        {
+          "abTest": "",
+          "businessAllow": "",
+          "businessForbid": "",
+          "channelMode": 0,
+          "clipAttraction": "",
+          "cornerMarkImage": "",
+          "cornerMarkPosition": "",
+          "dataId": "a42110fa21904ac69a2c3f9efc5eb23c",
+          "defaultActions": {
+            "action": "m_open_template_data",
+            "bindInstanceId": "通栏模板测试",
+            "bindInstanceName": "首页通栏模板合集测试",
+            "bindTemplateId": "common_shouping_4h_template3",
+            "bindTemplateName": "3.21 首屏4横图通栏模板"
+          },
+          "defaultImage": "http://henanyddppic.cslgtest.imgo.tv/picture/zypt/epg/pic/2026/06/16/20260616115201668.png",
+          "defaultTemlpateData": null,
+          "focusImage": "",
+          "offset_menta_data": {
+            "index": "1",
+            "source_title": "首页模板测试·通栏模板合集·进入"
+          },
+          "serialNumber": "1",
+          "title": "首页通栏模板测试"
+        },
+        {
+          "abTest": "",
+          "businessAllow": "",
+          "businessForbid": "",
+          "channelMode": 0,
+          "clipAttraction": "",
+          "cornerMarkImage": "",
+          "cornerMarkPosition": "",
+          "dataId": "13f58bee951342e9876d33eb887bd57c",
+          "defaultActions": {
+            "action": "m_open_template_data",
+            "bindInstanceId": "导航菜单测试",
+            "bindInstanceName": "导航与菜单模板合集测试",
+            "bindTemplateId": "common_shouping_4h_template3",
+            "bindTemplateName": "3.21 首屏4横图通栏模板"
+          },
+          "defaultImage": "http://henanyddppic.cslgtest.imgo.tv/picture/zypt/epg/pic/2026/06/16/20260616115201668.png",
+          "defaultTemlpateData": null,
+          "focusImage": "",
+          "offset_menta_data": {
+            "index": "2",
+            "source_title": "首页模板测试·导航菜单合集·进入"
+          },
+          "serialNumber": "2",
+          "title": "导航与菜单模板测试"
+        },
+        {
+          "abTest": "",
+          "businessAllow": "",
+          "businessForbid": "",
+          "channelMode": 0,
+          "clipAttraction": "",
+          "cornerMarkImage": "",
+          "cornerMarkPosition": "",
+          "dataId": "1fa028e646c641bc90ec204f59d3c850",
+          "defaultActions": {
+            "action": "m_open_template_data",
+            "bindInstanceId": "顶部特殊模板测试",
+            "bindInstanceName": "顶部与特殊模板合集测试",
+            "bindTemplateId": "common_shouping_4h_template3",
+            "bindTemplateName": "3.21 首屏4横图通栏模板"
+          },
+          "defaultImage": "http://henanyddppic.cslgtest.imgo.tv/picture/zypt/epg/pic/2026/06/16/20260616115201668.png",
+          "defaultTemlpateData": null,
+          "focusImage": "",
+          "offset_menta_data": {
+            "index": "3",
+            "source_title": "首页模板测试·顶部特殊合集·进入"
+          },
+          "serialNumber": "3",
+          "title": "顶部与特殊模板测试"
+        }
+      ],
+      "instacneId": "ef6dac691f0b41d5902308c962a8836c",
+      "instacneName": "首页模板测试入口",
+      "isAddZhengqi": "y",
+      "isIndustry": 0,
+      "orderNum": null,
+      "purposeTaskAllow": "",
+      "purposeTaskForbid": "",
+      "templateId": "zyui_menu_data_template2",
+      "templateName": "2 UI层级绑定模板(二级)",
+      "thumbnail1": null,
+      "thumbnail2": null,
+      "zhengqiAnchors": ""
+    }
+  ]
+}

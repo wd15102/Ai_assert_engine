@@ -1,0 +1,543 @@
+{
+	"cost": 0.002614383,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1720781374,
+	"serverTime": 1720781374,
+	"seqId": "0_190a69005b3_WLTnuZRe",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "24",
+		"rows": [{
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "1",
+			"duration": "2812",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/07/02/0f98beac507381630a48996e62a61cb8.jpg",
+			"name": "你比星光美丽 第1集",
+			"title": "纪星韩廷在广华产品会上相遇",
+			"type": "1",
+			"vid": "32024070215043957496575842207877",
+			"videoIndex": "1",
+			"ocid": "VRS603354",
+			"ovid": "VRS21273445",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "2",
+			"duration": "2767",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/6/30/dianshiju/603354/21278180/d635fecd0f9d1da09172ab4ec4164099.jpg",
+			"name": "你比星光美丽 第2集",
+			"title": "纪星遭遇上司非礼",
+			"type": "1",
+			"vid": "32024070215043366928054392004675",
+			"videoIndex": "2",
+			"ocid": "VRS603354",
+			"ovid": "VRS21278180",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "3",
+			"duration": "2797",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/6/30/dianshiju/603354/21278183/847cb4d8bf5eff13a11f468da30a9f29.jpg",
+			"name": "你比星光美丽 第3集",
+			"title": "韩廷雨天送纪星回家",
+			"type": "1",
+			"vid": "32024070215043620194504780912557",
+			"videoIndex": "3",
+			"ocid": "VRS603354",
+			"ovid": "VRS21278183",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "4"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "4",
+			"duration": "2809",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/6/30/dianshiju/603354/21278186/8cc6f0acc9c06e14af40ef2de0ef2127.jpg",
+			"name": "你比星光美丽 第4集",
+			"title": "纪星被针对勇敢辞职",
+			"type": "1",
+			"vid": "32024070310541052626243316486852",
+			"videoIndex": "4",
+			"ocid": "VRS603354",
+			"ovid": "VRS21278186",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "5"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "5",
+			"duration": "2828",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/3/dianshiju/603354/21293101/0cc6bdc770760b2df62a3ace60365b5f.jpg",
+			"name": "你比星光美丽 第5集",
+			"title": "纪星开始自己创业",
+			"type": "1",
+			"vid": "32024070310541285692755866798729",
+			"videoIndex": "5",
+			"ocid": "VRS603354",
+			"ovid": "VRS21293101",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "6"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "6",
+			"duration": "2743",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/3/dianshiju/603354/21293105/cfda8f18572f8f098ba6d6c5d6294331.jpg",
+			"name": "你比星光美丽 第6集",
+			"title": "纪星韩廷相亲局偶遇",
+			"type": "1",
+			"vid": "32024070414161749996990649598201",
+			"videoIndex": "6",
+			"ocid": "VRS603354",
+			"ovid": "VRS21293105",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "7"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "7",
+			"duration": "2771",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/3/dianshiju/603354/21299292/4cfa7785cd2be149c43cac6247f987d6.jpg",
+			"name": "你比星光美丽 第7集",
+			"title": "纪星一心搞事业拒绝邵一辰求婚",
+			"type": "1",
+			"vid": "32024070414161942138226385303912",
+			"videoIndex": "7",
+			"ocid": "VRS603354",
+			"ovid": "VRS21299292",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "8"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "8",
+			"duration": "2737",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/3/dianshiju/603354/21299329/700f8b4e0e018568823cd0d7eed7bfec.jpg",
+			"name": "你比星光美丽 第8集",
+			"title": "恭喜“星动不廷”正式达成合作",
+			"type": "1",
+			"vid": "32024070519191286751467122893576",
+			"videoIndex": "8",
+			"ocid": "VRS603354",
+			"ovid": "VRS21299329",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "9",
+			"duration": "2737",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/4/dianshiju/603354/21309204/4f9d35ed742d64647996624abccafc9f.jpg",
+			"name": "你比星光美丽 第9集",
+			"title": "“星辰”cp遗憾散场",
+			"type": "1",
+			"vid": "32024070615303219249655635365772",
+			"videoIndex": "9",
+			"ocid": "VRS603354",
+			"ovid": "VRS21309204",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "10"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "10",
+			"duration": "2747",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/5/dianshiju/603354/21320245/b2c42e36deda1cd6bb8548dcb14104a2.jpg",
+			"name": "你比星光美丽 第10集",
+			"title": "纪星陷入失恋阴影",
+			"type": "1",
+			"vid": "32024070710353670233519400150418",
+			"videoIndex": "10",
+			"ocid": "VRS603354",
+			"ovid": "VRS21320245",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "11"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "11",
+			"duration": "2743",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/6/dianshiju/603354/21326115/c1f329350164399d1d5dabd021ea9b74.jpg",
+			"name": "你比星光美丽 第11集",
+			"title": "韩廷纪星楼梯间暧昧聊天",
+			"type": "1",
+			"vid": "32024070815393674187200972757721",
+			"videoIndex": "11",
+			"ocid": "VRS603354",
+			"ovid": "VRS21326115",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "12"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "12",
+			"duration": "2733",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/7/dianshiju/603354/21331144/f00eb378759ce39872bede0705df6924.jpg",
+			"name": "你比星光美丽 第12集",
+			"title": "韩廷承认喜欢纪星",
+			"type": "1",
+			"vid": "32024070815393345548131020490587",
+			"videoIndex": "12",
+			"ocid": "VRS603354",
+			"ovid": "VRS21331144",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "13"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "13",
+			"duration": "2742",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/7/dianshiju/603354/21331154/2e15ed8b8b0213de21e74517bacb2e24.jpg",
+			"name": "你比星光美丽 第13集",
+			"title": "韩廷给纪星送画",
+			"type": "1",
+			"vid": "32024070917180827910854170402834",
+			"videoIndex": "13",
+			"ocid": "VRS603354",
+			"ovid": "VRS21331154",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "14"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "14",
+			"duration": "2746",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/8/dianshiju/603354/21337439/47dfd50cf0641669830b10f278f26407.jpg",
+			"name": "你比星光美丽 第14集",
+			"title": "韩廷和纪星一家人过年",
+			"type": "1",
+			"vid": "32024070917180542900011430041594",
+			"videoIndex": "14",
+			"ocid": "VRS603354",
+			"ovid": "VRS21337439",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "15"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "15",
+			"duration": "2743",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/8/dianshiju/603354/21337464/5d4552a53fc7dbeb8eb4e57b09c1ff1f.jpg",
+			"name": "你比星光美丽 第15集",
+			"title": "韩廷完成东医的人事改革",
+			"type": "1",
+			"vid": "32024071017282476886381847453272",
+			"videoIndex": "15",
+			"ocid": "VRS603354",
+			"ovid": "VRS21337464",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "16",
+			"duration": "2718",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/9/dianshiju/603354/21345110/5e586a0d708fd1180c64d431554a6e42.jpg",
+			"name": "你比星光美丽 第16集",
+			"title": "纪星韩廷解开当年误会",
+			"type": "1",
+			"vid": "32024071017282111651337189708859",
+			"videoIndex": "16",
+			"ocid": "VRS603354",
+			"ovid": "VRS21345110",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "17"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "17",
+			"duration": "2727",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/9/dianshiju/603354/21345160/0da88e88d6c8b75e5094f7ac9eeb9d72.jpg",
+			"name": "你比星光美丽 第17集",
+			"title": "纪星开会问责定规矩",
+			"type": "1",
+			"vid": "32024071116113933844348261730413",
+			"videoIndex": "17",
+			"ocid": "VRS603354",
+			"ovid": "VRS21345160",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "18"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "18",
+			"duration": "2734",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/11/dianshiju/603354/21355132/437b4a605d8706bdf605fce35ae390c2.jpg",
+			"name": "你比星光美丽 第18集",
+			"title": "韩廷海边暖心安慰纪星",
+			"type": "1",
+			"vid": "32024071116114134516608354093500",
+			"videoIndex": "18",
+			"ocid": "VRS603354",
+			"ovid": "VRS21355132",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "19"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "预告片"
+			},
+			"desc": "19",
+			"duration": "108",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/5/dianshiju/603354/21321090/575e796b3ae81531be59c811ba93b54c.jpg",
+			"name": "《你比星光美丽》第19集看点：暧昧气息拉满！纪星韩廷绝美回眸",
+			"title": "暧昧气息拉满！纪星韩廷绝美回眸",
+			"type": "3",
+			"vid": "32024071019570436648629671764519",
+			"videoIndex": "19",
+			"ocid": "VRS603354",
+			"ovid": "VRS21321090",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "20"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "预告片"
+			},
+			"desc": "20",
+			"duration": "96",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/5/dianshiju/603354/21321091/6d6f4a4f8ed249604af01f3a3475ea98.jpg",
+			"name": "《你比星光美丽》第20集看点：纪星韩廷国外街头浪漫互拍",
+			"title": "纪星韩廷国外街头浪漫互拍",
+			"type": "3",
+			"vid": "32024071119594550671633657310528",
+			"videoIndex": "20",
+			"ocid": "VRS603354",
+			"ovid": "VRS21321091",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "21"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": "预告片"
+			},
+			"desc": "21",
+			"duration": "100",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/10/dianshiju/603354/21351699/e7a97e45a44bc3a85304f1fc27ab3b91.jpg",
+			"name": "《你比星光美丽》第21集看点：纪星韩廷一起旅行！恋爱气氛拉满",
+			"title": "纪星韩廷一起旅行！恋爱气氛拉满",
+			"type": "3",
+			"vid": "32024071119594937639020038034847",
+			"videoIndex": "21",
+			"ocid": "VRS603354",
+			"ovid": "VRS21351699",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "彩蛋1",
+			"duration": "92",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/4/dianshiju/603354/21309260/73e5bf686442c100cf9d2b6f38429b14.jpg",
+			"name": "《你比星光美丽》会员花絮：谭松韵许凯游戏过招",
+			"title": "谭松韵许凯游戏过招",
+			"type": "7",
+			"vid": "32024070509523880568464564663487",
+			"videoIndex": "1",
+			"ocid": "VRS603354",
+			"ovid": "VRS21309260",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "彩蛋2",
+			"duration": "163",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/4/dianshiju/603354/21309258/a64626aa8f5174b9cf5835e265236a84.jpg",
+			"name": "《你比星光美丽》会员花絮：谭松韵许凯有爱喂猫猫",
+			"title": "谭松韵许凯有爱喂猫猫",
+			"type": "7",
+			"vid": "32024070416134070044343717214429",
+			"videoIndex": "2",
+			"ocid": "VRS603354",
+			"ovid": "VRS21309258",
+			"thirdCid": "",
+			"thirdVid": ""
+		}, {
+			"cid": "32024070116403646932289034213446",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "彩蛋3",
+			"duration": "281",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2024/7/12/dianshiju/603354/21366664/3cdd9ca28812173aef63e5babf41030c.jpg",
+			"name": "《你比星光美丽》会员花絮：许凯演技大放送",
+			"title": "许凯演技大放送",
+			"type": "7",
+			"vid": "32024071216115927272253132714029",
+			"videoIndex": "3",
+			"ocid": "VRS603354",
+			"ovid": "VRS21366664",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

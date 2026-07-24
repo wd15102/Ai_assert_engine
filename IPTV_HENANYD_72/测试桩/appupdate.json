@@ -1,0 +1,20 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1594710713,
+	"data": {
+		"state": "1",
+		"url": "http://10.1.201.95/iptv/apk/tv_iptv/iptv_jx_release_7.2.1-hnydRelease-202507010904-A00mjyMRh/apk/hnyd/release/YYS.7.2.1.Y3.6.HNYDIPTV.0.0_Release_2025070109.apk",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "升级日志\r\n湖南移动IPTV版本升级说明\r\n升级了\r\n升级了",
+		"ver": "7.2.1",
+		"operators": "",
+		"update_time": "0001-01-01 00:00:00",
+		"multicast_pid": "",
+		"multicast_url": "",
+		"upgrade_passage": "",
+		"apkmd5": "61588be8c0035a0ed4c4ecaf978ce897",
+		"up_silent": ""
+	}
+}

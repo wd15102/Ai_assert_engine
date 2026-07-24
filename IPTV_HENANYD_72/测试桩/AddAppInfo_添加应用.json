@@ -1,0 +1,42 @@
+{
+	"appList": [{
+		"appCode": "",
+		"appIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/10/11/20241011102925533.png",
+		"appPackage": "com.mgtv.txcp",
+		"className": "com.mgtv.iptv.aggregate.app.MainActivity",
+		"downloadUrl": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/apk/2024/05/20/20240520092526TX.1.2.9.Y3.6.HNYDIPTV.0.0_Release_2024051515.apk",
+		"id": "1ccc0cf7f0024a2f9df93a8ceec2aa16",
+		"md5": "92227917bd30f1322f8d2f7b9ecb36ca",
+		"name": "鹅视界",
+		"remark": "",
+		"version": "2024051515"
+	}, {
+		"appCode": "",
+		"appIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/10/11/20241011103022004.png",
+		"appPackage": "com.mgtv.iqiyicp",
+		"className": "com.mgtv.iptv.aggregate.app.MainActivity",
+		"downloadUrl": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/apk/2024/05/20/20240520092420IQIYI.1.2.9.Y3.6.HNYDIPTV.0.0_Release_2024051515.apk",
+		"id": "bdabdf9d55284befb6961d5044b17638",
+		"md5": "31f61d6304086b7713754ef602110843",
+		"name": "奇视界",
+		"remark": "",
+		"version": "2024051515"
+	}, {
+		"appCode": "",
+		"appIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/10/11/20241011103047926.png",
+		"appPackage": "com.mgtv.kmcp",
+		"className": "com.mgtv.iptv.aggregate.app.MainActivity",
+		"downloadUrl": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/apk/2024/05/20/20240520092314KM.1.2.9.Y3.6.HNYDIPTV.0.0_Release_2024051514.apk",
+		"id": "bd48e14fd7364fa8b0fca819bc717541",
+		"md5": "609040e8f4e4ddc5786f1eafdcd1bce4",
+		"name": "酷视界",
+		"remark": "",
+		"version": "2024051514"
+	}],
+	"countNums": "3",
+	"result": {
+		"cost": 0.001,
+		"reason": "ok",
+		"state": "0"
+	}
+}

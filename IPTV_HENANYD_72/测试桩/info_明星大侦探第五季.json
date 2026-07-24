@@ -1,0 +1,149 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1604542783,
+	"seqId": "dd87e8621f8c3a8f2d28d8c935def34f",
+	"data": {
+		"actor": "何炅/撒贝宁/白敬亭/魏晨/刘昊然/张若昀/井柏然/Papi酱",
+		"attach": {
+			"default": "3",
+			"displays": [{
+				"name": "",
+				"type": "4317"
+			}],
+			"force": "3"
+		},
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "2",
+				"title": "节目",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32019110415115167164084905264315\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [{
+					"title": "1-5",
+					"headTail": "1-5",
+					"headTailType": "1-1"
+				}, {
+					"title": "6-10",
+					"headTail": "6-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-15",
+					"headTail": "11-15",
+					"headTailType": "1-1"
+				}, {
+					"title": "16-20",
+					"headTail": "16-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-25",
+					"headTail": "21-25",
+					"headTailType": "1-1"
+				}, {
+					"title": "26-30",
+					"headTail": "26-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-31",
+					"headTail": "31-35",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "6",
+				"showtype": "2",
+				"showOrder": "2",
+				"title": "看点",
+				"refresh": "2",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32019110415115167164084905264315\u0026module=6",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "32019110415115167164084905264315",
+		"clipTitle": "明星大侦探 第五季",
+		"rootCateId": "00000001000000001002000000000020",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.7分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "芒果出品 ▪ 真人秀",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2276",
+		"hisStart": "0",
+		"imgH": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/10/31/zongyi/331915/20191031195515479-new.jpg_436x322.jpg",
+		"imgV": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/10/31/zongyi/331915/20191031195507676-new.jpg_326x482.jpg",
+		"importId": "32019110415115167164084905264315",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2276",
+			"vid": "32020021411070343844522063224604",
+			"watchTime": "36",
+			"tips": ""
+		},
+		"latestIndex": "29",
+		"latestShowTime": "",
+		"originalId": "D00000001201911041503300065799533",
+		"seriesno": "29",
+		"showMode": "m2",
+		"showTime": "2020-02-14",
+		"totalNumber": "29",
+		"updateDetail": {
+			"info": "更新至2020214期",
+			"desc": ""
+		},
+		"vid": "32020021411070343844522063224604",
+		"tabIndex": "7",
+		"pageIndex": "1",
+		"videoImgH": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/sp_images/2020/2/13/zongyi/331915/7539260/20200213195443595.jpg",
+		"videoTitle": "明星大侦探 第五季20200214",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "芒果TV《明星大侦探》第五季11月8日起每周五中午12点上线！悬疑搞笑，掀起脑洞风暴！",
+		"btns": {
+			"order": {
+				"tips": "购买影片",
+				"url": "http://192.168.168.160:8080/poster/oc_test/order_product_page.html?assetId=32019092312324142627501485049008\u0026assetType=0\u0026productIds=770\u0026cpid=0"
+			}
+		},
+		"isFree": "1",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

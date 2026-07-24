@@ -1,0 +1,733 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1602484349,
+	"seqId": "10865293e3322cf4fae489efaf080459",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "40",
+		"rows": [{
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "1",
+			"duration": "2741",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4258654/20180123175023213.jpg",
+			"name": "我站在桥上看风景 第1集",
+			"title": "萧水光被碰瓷 章峥岚出手相助",
+			"type": "1",
+			"vid": "00000001000000000005000000166934",
+			"videoIndex": "1"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "2",
+			"duration": "2721",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4258655/20180123175720993.jpg",
+			"name": "我站在桥上看风景 第2集",
+			"title": "章峥岚百般纠缠萧水光",
+			"type": "1",
+			"vid": "00000001000000001007000000232549",
+			"videoIndex": "2"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "3",
+			"duration": "2726",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4259712/20180124145741842.jpg",
+			"name": "我站在桥上看风景 第3集",
+			"title": "罗智拒绝加入章峥岚公司",
+			"type": "1",
+			"vid": "00000001000000000005000000169214",
+			"videoIndex": "3"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "4"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "4",
+			"duration": "2733",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4259713/20180124154428469.jpg",
+			"name": "我站在桥上看风景 第4集",
+			"title": "章峥岚请萧水光做代言人",
+			"type": "1",
+			"vid": "00000001000000000005000000169206",
+			"videoIndex": "4"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "5"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "5",
+			"duration": "2739",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4266876/20180130151047971.jpg",
+			"name": "我站在桥上看风景 第5集",
+			"title": "峥岚使苦肉计成功签下水光",
+			"type": "1",
+			"vid": "00000001000000000006000000007956",
+			"videoIndex": "5"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "6"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "6",
+			"duration": "2740",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4266877/20180130152407654.jpg",
+			"name": "我站在桥上看风景 第6集",
+			"title": "峥岚罗智为争夺水光的项目打赌",
+			"type": "1",
+			"vid": "00000001000000000006000000007952",
+			"videoIndex": "6"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "7"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "7",
+			"duration": "2737",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4267656/20180131173739960.jpg",
+			"name": "我站在桥上看风景 第7集",
+			"title": "峥岚帮水光解决与珍妮纠纷",
+			"type": "1",
+			"vid": "00000001000000001007000000232550",
+			"videoIndex": "7"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "8"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "8",
+			"duration": "2721",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4267657/20180131181419936.jpg",
+			"name": "我站在桥上看风景 第8集",
+			"title": "佳佳陪水光入雷霆拍代言照",
+			"type": "1",
+			"vid": "00000001000000001007000000232551",
+			"videoIndex": "8"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "9",
+			"duration": "2728",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4275517/20180206174744692.jpg",
+			"name": "我站在桥上看风景 第9集",
+			"title": "章峥岚暖心送驱蚊药给萧水光",
+			"type": "1",
+			"vid": "00000001000000001007000000232552",
+			"videoIndex": "9"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "10"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "10",
+			"duration": "2751",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4275518/20180206175138657.jpg",
+			"name": "我站在桥上看风景 第10集",
+			"title": "章峥岚秘密排查公司“内鬼”",
+			"type": "1",
+			"vid": "00000001000000001007000000232553",
+			"videoIndex": "10"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "11"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "11",
+			"duration": "2740",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4276328/20180207095526388.jpg",
+			"name": "我站在桥上看风景 第11集",
+			"title": "峥岚诉心酸事 水光买醉忆往昔",
+			"type": "1",
+			"vid": "00000001000000001007000000232554",
+			"videoIndex": "11"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "12"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "12",
+			"duration": "2710",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4276327/20180207101800219.jpg",
+			"name": "我站在桥上看风景 第12集",
+			"title": "罗智窃取雷霆公司机密",
+			"type": "1",
+			"vid": "00000001000000001007000000232555",
+			"videoIndex": "12"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "13"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "13",
+			"duration": "2755",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4284578/20180213110740756.jpg",
+			"name": "我站在桥上看风景 第13集",
+			"title": "于景琴心机挑拨峥岚水光",
+			"type": "1",
+			"vid": "00000001000000001007000000232556",
+			"videoIndex": "13"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "14"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "14",
+			"duration": "2727",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4284556/20180213113640093.jpg",
+			"name": "我站在桥上看风景 第14集",
+			"title": "章峥岚劝江裕如坦白身份",
+			"type": "1",
+			"vid": "00000001000000001007000000232557",
+			"videoIndex": "14"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "15"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "15",
+			"duration": "2757",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4285652/20180214122824172.jpg",
+			"name": "我站在桥上看风景 第15集",
+			"title": "萧水光拆穿江裕如的谎言",
+			"type": "1",
+			"vid": "00000001000000001007000000232558",
+			"videoIndex": "15"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "16"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "16",
+			"duration": "2754",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4285653/20180214150915522.jpg",
+			"name": "我站在桥上看风景 第16集",
+			"title": "萧水光章峥岚因天昊起争执",
+			"type": "1",
+			"vid": "00000001000000001007000000232559",
+			"videoIndex": "16"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "17"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "17",
+			"duration": "2723",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4288349/20180220121132327.jpg",
+			"name": "我站在桥上看风景 第17集",
+			"title": "天昊助攻章峥岚给水光送温暖",
+			"type": "1",
+			"vid": "00000001000000001007000000232560",
+			"videoIndex": "17"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "18"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "18",
+			"duration": "2755",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4288350/20180220121615981.jpg",
+			"name": "我站在桥上看风景 第18集",
+			"title": "萧水光答应假扮章峥岚女朋友",
+			"type": "1",
+			"vid": "00000001000000001007000000232561",
+			"videoIndex": "18"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "19"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "19",
+			"duration": "2740",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4288653/20180221133912802.jpg",
+			"name": "我站在桥上看风景 第19集",
+			"title": "章峥岚送豪礼遭水光无视",
+			"type": "1",
+			"vid": "00000001000000001007000000232562",
+			"videoIndex": "19"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "20"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "20",
+			"duration": "2762",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4288654/20180221134630146.jpg",
+			"name": "我站在桥上看风景 第20集",
+			"title": "章峥岚水光塑料情侣被苏珊识破",
+			"type": "1",
+			"vid": "00000001000000001007000000232563",
+			"videoIndex": "20"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "21"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "21",
+			"duration": "2760",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201803/01/20180301160916829.jpg",
+			"name": "我站在桥上看风景 第21集",
+			"title": "车祸当事人回忆车祸细节",
+			"type": "1",
+			"vid": "00000001000000001007000000232564",
+			"videoIndex": "21"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "22"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "22",
+			"duration": "2766",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4294700/20180227152302006.jpg",
+			"name": "我站在桥上看风景 第22集",
+			"title": "章峥岚罗智联手攻克难关",
+			"type": "1",
+			"vid": "00000001000000001007000000232565",
+			"videoIndex": "22"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "23"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "23",
+			"duration": "2764",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4295856/20180228150509061.jpg",
+			"name": "我站在桥上看风景 第23集",
+			"title": "水光瞒着峥岚参加节目录制",
+			"type": "1",
+			"vid": "00000001000000001007000000232566",
+			"videoIndex": "23"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "24"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "24",
+			"duration": "2759",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4295857/20180228153304260.jpg",
+			"name": "我站在桥上看风景 第24集",
+			"title": "章峥岚邀水光一同郊游聚餐",
+			"type": "1",
+			"vid": "00000001000000001007000000232567",
+			"videoIndex": "24"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "25"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "25",
+			"duration": "2763",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4302897/20180306132133363.jpg",
+			"name": "我站在桥上看风景 第25集",
+			"title": "江裕如举办生日派对",
+			"type": "1",
+			"vid": "00000001000000001007000000232568",
+			"videoIndex": "25"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "26"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "26",
+			"duration": "2740",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4302896/20180306135530991.jpg",
+			"name": "我站在桥上看风景 第26集",
+			"title": "于景琴发生意外致流产",
+			"type": "1",
+			"vid": "00000001000000001007000000232569",
+			"videoIndex": "26"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "27"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "27",
+			"duration": "2756",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4304696/20180307180625368.jpg",
+			"name": "我站在桥上看风景 第27集",
+			"title": "萧水光解开与父亲的心结",
+			"type": "1",
+			"vid": "00000001000000001007000000232570",
+			"videoIndex": "27"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "28"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "28",
+			"duration": "2753",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4304697/20180307181142247.jpg",
+			"name": "我站在桥上看风景 第28集",
+			"title": "章峥岚罗智因水光起争执",
+			"type": "1",
+			"vid": "00000001000000001007000000232571",
+			"videoIndex": "28"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "29"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "29",
+			"duration": "2759",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4311205/20180313121846557.jpg",
+			"name": "我站在桥上看风景 第29集",
+			"title": "雷宇命令罗智黑入雷霆挪公款",
+			"type": "1",
+			"vid": "00000001000000001007000000232572",
+			"videoIndex": "29"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "30"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "30",
+			"duration": "2761",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4312832/20180314153803175.jpg",
+			"name": "我站在桥上看风景 第30集",
+			"title": "萧水光带伤比赛后晕倒",
+			"type": "1",
+			"vid": "00000001000000001007000000232573",
+			"videoIndex": "30"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "31"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "31",
+			"duration": "2762",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4312834/20180314154125631.jpg",
+			"name": "我站在桥上看风景 第31集",
+			"title": "萧水光章峥岚确定恋爱关系",
+			"type": "1",
+			"vid": "00000001000000001007000000232574",
+			"videoIndex": "31"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "32"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "32",
+			"duration": "2736",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4312836/20180314154324226.jpg",
+			"name": "我站在桥上看风景 第32集",
+			"title": "于景琴将相机交给罗智保管",
+			"type": "1",
+			"vid": "00000001000000001007000000232575",
+			"videoIndex": "32"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "33"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "33",
+			"duration": "2754",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4320215/20180320153906033.jpg",
+			"name": "我站在桥上看风景 第33集",
+			"title": "罗智交代车祸真相",
+			"type": "1",
+			"vid": "00000001000000001007000000232576",
+			"videoIndex": "33"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "34"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "34",
+			"duration": "2750",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4320214/20180320155629307.jpg",
+			"name": "我站在桥上看风景 第34集",
+			"title": "问道手游成功上线",
+			"type": "1",
+			"vid": "00000001000000001007000000232577",
+			"videoIndex": "34"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "35"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "35",
+			"duration": "2731",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4321583/20180321153321425.jpg",
+			"name": "我站在桥上看风景 第35集",
+			"title": "峥岚偷偷为水光买房",
+			"type": "1",
+			"vid": "00000001000000001007000000232578",
+			"videoIndex": "35"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "36"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "36",
+			"duration": "2756",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4331059/20180327135738748.jpg",
+			"name": "我站在桥上看风景 第36集",
+			"title": "雷宇用水光名誉威胁章峥岚",
+			"type": "1",
+			"vid": "00000001000000001007000000232579",
+			"videoIndex": "36"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "37"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "37",
+			"duration": "2755",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4331060/20180327141600698.jpg",
+			"name": "我站在桥上看风景 第37集",
+			"title": "雷宇入室绑架水光景琴",
+			"type": "1",
+			"vid": "00000001000000001007000000232580",
+			"videoIndex": "37"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "38"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "38",
+			"duration": "2773",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4332934/20180328144736372.jpg",
+			"name": "我站在桥上看风景 第38集",
+			"title": "章峥岚为救水光受伤入院",
+			"type": "1",
+			"vid": "00000001000000001007000000232581",
+			"videoIndex": "38"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "39"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "39",
+			"duration": "2749",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4332935/20180328144944940.jpg",
+			"name": "我站在桥上看风景 第39集",
+			"title": "章峥岚昏迷不醒 水光悉心照料",
+			"type": "1",
+			"vid": "00000001000000001007000000232582",
+			"videoIndex": "39"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "40"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "40",
+			"duration": "2780",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4332936/20180328152217332.jpg",
+			"name": "我站在桥上看风景 第40集",
+			"title": "水光庆功宴向章峥岚求婚",
+			"type": "1",
+			"vid": "00000001000000001007000000232583",
+			"videoIndex": "40"
+		}]
+	}
+}

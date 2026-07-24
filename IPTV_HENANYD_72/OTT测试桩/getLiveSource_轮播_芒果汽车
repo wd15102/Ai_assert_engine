@@ -1,0 +1,11 @@
+{
+	"authResult": "0",
+	"playAddress": "http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8?AuthInfo=cQ%2FsQQoAeOUpYziBLoi%2Bri5CsbnzewYPuwyRkACdbZNggR5X%2F7fc4c%2BkkWHxFmEKZG0T0M9LzeQLgu6h%2FEPqdFnLq6g8ivekRInYIDZcBSJmDmYqN%2FRYgPTCxkhBtDAd\u0026version=1.0\u0026contentid=00000001000000000010000000040382\u0026timestamp=63EB039E\u0026stbId=00490300000298800002748F1B6E6000\u0026userIp=100.115.5.2\u0026_=1676346270\u0026stbid=00490300000298800002748F1B6E6000",
+	"result": {
+		"cost": 0,
+		"reason": "ok",
+		"seqId": "",
+		"state": "0"
+	},
+	"videoId": "00000001000000001025000000196967"
+}

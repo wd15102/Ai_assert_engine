@@ -1,0 +1,13 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1666236321,
+	"seqid": "4643efc404f0b5e9c9544d4c8eeeeca7",
+	"data": {
+		"sps": [{
+			"baseUrl": "/IPTV_EPG/TerminalUI/channelList",
+			"abt": "6|AB1"
+		}],
+		"abt": "6|AB1"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "videoId": "65e48b2e8e6a4f73824fbbb44762e4c6",
+  "playAddress": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/82fa10ffef684a8a9ccb15e75f278f4e/e470f1d19db9458ebf576c01c1ef7917?UserToken=04293820406593735869710804155356&UserName=6830018",
+  "authResult": "0",
+  "result": {
+    "cost": 0.000764516,
+    "seqId": "0_1855271cddb_IL3yfi23",
+    "state": "0",
+    "reason": "ok"
+  }
+}

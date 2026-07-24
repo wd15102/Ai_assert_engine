@@ -1,0 +1,154 @@
+{
+	"cost": 0.169804803,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685093601,
+	"serverTime": 1685093601,
+	"seqId": "0_1885767d4b0_6iNqvvwt",
+	"data": {
+		"actor": "刘江/宋茜/陈妍希/陆毅/经超/孙坚",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023042809570268835646138398680\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-30",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-38",
+					"headTail": "31-38",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "花絮",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023042809570268835646138398680\u0026module=2",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "6",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "看点",
+				"refresh": "2",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023042809570268835646138398680\u0026module=6",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "32023042809570268835646138398680",
+		"clipTitle": "温暖的甜蜜的",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.4分",
+			"color": "#FF9A4F",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2023",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "type",
+			"value": "爱情 • 都市",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2720",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/04/23/5910c8d33027df3264f8557c9df63e83.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/04/23/b4f95346315e514f76176af4defeb6db.jpg",
+		"importId": "32023042809570268835646138398680",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2720",
+			"vid": "32023043011400318267892986524464",
+			"watchTime": "93",
+			"tips": "上次观看：温暖的甜蜜的 第1集"
+		},
+		"latestIndex": "38",
+		"latestShowTime": "",
+		"originalId": "VRS540341",
+		"seriesno": "5",
+		"showMode": "0",
+		"showTime": "2023-04-28",
+		"totalNumber": "38",
+		"updateDetail": {
+			"info": "38集全",
+			"desc": ""
+		},
+		"vid": "32023043011400318267892986524464",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/4/28/dianshiju/540341/18755546/6069f73df5e15981975010c380435f28.jpg",
+		"videoTitle": "温暖的甜蜜的 第1集",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "3",
+		"brief": "【版权来源：芒果TV】,由一则男友陈放的策展报道引爆的隐离婚事实，让南飞备受“小三”舆论围剿，更由于陈放在家庭责任与爱人名分之间两难选择而导致南飞单方面提出分手，投奔上海婚期将近的闺蜜齐家宜，不料正撞上闺蜜的临阵悔婚，助其“解套”短暂婚姻之后，两人联名买房，缔结闺蜜同盟。为了躲避父母催婚，在齐家宜的“拉郎配”下，患有抑郁症的华尔街海归邻居焦岳与南飞组成临时假情侣。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32023042809570268835646138398680\u0026assetType=0\u0026productIds=7,20,34,35,43,44,129,130\u0026cpid=1"
+			}
+		},
+		"cpId": "1",
+		"cpName": "芒果官方",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "84b51f122ce846a0bd107eca6962a9e0",
+		"topBill": {
+			"prefix": "No.",
+			"topTitle": "热播榜",
+			"topId": "10",
+			"topOrderNum": "2"
+		},
+		"isFree": "1",
+		"recommendSkus": "7,20,34,35,43,44,129,130",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "",
+			"channelId": "detail_common_5"
+		}
+	}
+}

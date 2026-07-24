@@ -1,0 +1,29 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1601189447,
+	"seqId": "7a4adc947785b735dbe9f735a8389bbb",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000001000000112017",
+		"vid": "00000001000000000001000000135024",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4166",
+			"ftime": "000122",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/4c79b3db51734b9498bb45089c5b223d/948ee522e65e4c61b555ebf23d6dcc16?UserToken=04293820406593735869710804155356\u0026UserName=6830018",
+			"vf": "",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

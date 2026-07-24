@@ -1,0 +1,37 @@
+{
+	"cost": 0.002689792,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685093091,
+	"serverTime": 1685093091,
+	"seqId": "0_18857600d2e_HGu4S2NI",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32023041409231430030030361287291",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:53:12"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "人类为延续文明上演惊天自救",
+			"duration": "10392",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/4/12/dianying/353601/18642419/64b382158ca5ac12f962dfbf0377d71f.jpg",
+			"name": "流浪地球2",
+			"title": "人类为延续文明上演惊天自救",
+			"type": "1",
+			"vid": "32023041409231749717604081199218",
+			"videoIndex": "1",
+			"ocid": "VRS353601",
+			"ovid": "VRS18642419",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

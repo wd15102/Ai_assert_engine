@@ -1,0 +1,20 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1623115717,
+	"data": {
+		"state": "1",
+		"url": "http://116.129.248.202/apk/YYS.6.4.1.Y28.6.HNLTIPTV.0.0_Pre_Release_2021060211.apk",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "湖南联通6.4.0升级测试",
+		"ver": "湖南联通6.4.0升级测试",
+		"operators": "CNC",
+		"update_time": "0001-01-01 00:00:00",
+		"multicast_pid": "",
+		"multicast_url": "",
+		"upgrade_passage": "",
+		"apkmd5": "e5d3d70c598b6e69e3f0a8941f24937d",
+		"up_silent": "0"
+	}
+}

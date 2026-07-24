@@ -1,0 +1,108 @@
+{
+	"contentList": [
+		{
+			"imageV": "http://10.255.1.107/zypt/upstream/internettv/prev/KsImg/6cd6b8b6-7def-4e0c-9854-504c0b77f247.jpg_326x482.jpg",
+			"imageS": "http://10.255.1.107/zypt/upstream/internettv/prev/KsImg/6cd6b8b6-7def-4e0c-9854-504c0b77f247.jpg_326x482.jpg",
+			"createTime": 1581755234000,
+			"seriesName": "闺蜜决",
+			"videoType": "0",
+			"programName": "闺蜜决 第1集",
+			"imageH": "http://10.255.1.107/zypt/upstream/internettv/sp_images/ott/2016/dianshiju/10721/20160817211838803-new.jpg_436x322.jpg",
+			"contentId": "519c713076c24cbfb06fb16c533f42eb",
+			"weight": "1",
+			"originalId": "VRS336818",
+			"programId": "32020030217021665254129429878086",
+			"seriesId": "32020030217014325688367941790728"
+		},
+		{
+			"imageV": "http://10.255.1.107/zypt/upstream/internettv/prev/KsImg/6cd6b8b6-7def-4e0c-9854-504c0b77f247.jpg_326x482.jpg",
+			"imageS": "http://10.255.1.107/zypt/upstream/internettv/prev/KsImg/6cd6b8b6-7def-4e0c-9854-504c0b77f247.jpg_326x482.jpg",
+			"createTime": 1581755233000,
+			"seriesName": "闺蜜决",
+			"videoType": "0",
+			"programName": "闺蜜决 第2集",
+			"imageH": "http://10.255.1.107/zypt/upstream/internettv/sp_images/ott/2016/dianshiju/10721/20160817211838803-new.jpg_436x322.jpg",
+			"contentId": "519c713076c24cbfb06fb16c533f42eb",
+			"weight": "1",
+			"originalId": "VRS336818",
+			"programId": "32020030217015653611068148497644",
+			"seriesId": "32020030217014325688367941790728"
+		},
+		{
+		"imageV": "http://10.255.1.107/prev/KsImg/5bb0828d10c4ff5057ea791498030661.jpg",
+		"imageS": "http://10.255.1.107/prev/KsImg/5bb0828d116a2f51e649080346e31d55.jpg",
+		"createTime": 1582549303000,
+		"seriesName": "惊天破国语",
+		"videoType": "0",
+		"programName": "惊天破国语",
+		"imageH": "http://10.255.1.107/prev/KsImg/5bb0828d111f7fb93b80ed78325af98a.jpg",
+		"contentId": "57aa490dd98041899914819163d6b616",
+		"weight": "3",
+		"originalId": "E2487487",
+		"programId": "00000000000000000001000000064297",
+		"seriesId": "00000000000000000001000000064296"
+		},
+		{
+		"imageV": "http://10.255.1.107/prev/KsImg/5bb0828d10c4ff5057ea791498030661.jpg",
+		"imageS": "http://10.255.1.107/prev/KsImg/5bb0828d116a2f51e649080346e31d55.jpg",
+		"createTime": 1582549303000,
+		"seriesName": "蜘蛛侠平行宇宙",
+		"videoType": "0",
+		"programName": "蜘蛛侠平行宇宙",
+		"imageH": "http://10.255.1.107/prev/KsImg/5bb0828d111f7fb93b80ed78325af98a.jpg",
+		"contentId": "57aa490dd98041899914819163d6b616",
+		"weight": "3",
+		"originalId": "D00000001201901290945030044699862",
+		"programId": "00000001000000001012000000056929",
+		"seriesId": "00000001000000001012000000056930"
+		},
+		{
+		"imageV": "http://10.255.1.107/prev/KsImg/52517a4157554a71a81be9eb509c7d97.jpg",
+		"imageS": "http://10.255.1.107/prev/KsImg/52517a4157554a71a81be9eb509c7d97.jpg",
+		"createTime": 1583305945000,
+		"seriesName": "催眠·裁决",
+		"videoType": "0",
+		"programName": "催眠·裁决",
+		"imageH": "http://10.255.1.107/prev/KsImg/3bb95fed05a914bc88382dc8f302a912.jpg",
+		"contentId": "3bcca4b930714ba9ac75be0da508d498",
+		"weight": "8",
+		"originalId": "VRS329275",
+		"programId": "32019120518461357046874186165797",
+		"seriesId": "32019120518461142122149940745740"
+		},
+		{
+		"imageV": "http://10.255.1.107/prev/KsImg/f65c41f5b77b87e5d7366f6f2aa6b522.jpg",
+		"imageS": "http://10.255.1.107/prev/KsImg/f65c41f5b77b87e5d7366f6f2aa6b522.jpg",
+		"createTime": 1584328283000,
+		"seriesName": "我站在桥上看风景",
+		"videoType": "0",
+		"programName": "我站在桥上看风景 第1集",
+		"imageH": "",
+		"contentId": "f8d19ecaaeb54e68bebfb6c6d3f66a9a",
+		"weight": "9",
+		"originalId": "VRS6641040",
+		"programId": "00000001000000000005000000166934",
+		"seriesId": "00000001000000000005000000166936"
+		},
+		{
+		"imageV": "http://10.255.1.107/prev/KsImg/f65c41f5b77b87e5d7366f6f2aa6b522.jpg",
+		"imageS": "http://10.255.1.107/prev/KsImg/f65c41f5b77b87e5d7366f6f2aa6b522.jpg",
+		"createTime": 1584344964000,
+		"seriesName": "我站在桥上看风景",
+		"videoType": "0",
+		"programName": "我站在桥上看风景 第2集",
+		"imageH": "",
+		"contentId": "a20cc4bf02834bb583ccab5bdf869447",
+		"weight": "13",
+		"originalId": "VRS6641064",
+		"programId": "00000001000000000005000000166934",
+		"seriesId": "00000001000000000005000000166936"
+		}
+	],
+	"countNums": "3",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"videoGroupId": "8b60e370350e4340828fa93b8d858f58"
+}

@@ -1,0 +1,104 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"cost": 0.055449668,
+	"server_time": 1693823582,
+	"serverTime": 1693823582,
+	"seqId": "e68146bcadc989204ee6b6968e873d29",
+	"data": {
+		"cornerImgUrl": "",
+		"duration": "69",
+		"onlineTime": "2022-12-30",
+		"cpId": "2000162",
+		"cpInfo": "CIBN酷视频",
+		"likeNum": "0",
+		"likeNumStr": "",
+		"likeStatus": "0",
+		"partId": "VRS15033136",
+		"recommend": {
+			"terminalId": "5",
+			"text": "看正片",
+			"bubbleText": "",
+			"jumpDefaultTypeId": "m_open_detail_page",
+			"jumpDefaultParam": [{
+				"value": "0",
+				"key": "videoType"
+			}, {
+				"value": "0",
+				"key": "auto_play"
+			}, {
+				"value": "0b1e9154e423444aa7c44b9817ed1b74",
+				"key": "originalId"
+			}]
+		},
+		"seekPoints": [{
+			"imgQrcodeUrl": "",
+			"imgBgUrl": "http://127.0.0.1:80/guanggaobeijing.jpg",
+			"pointTime": "5",
+			"showSecond": "20",
+			"jumpDefaultTypeId": "m_open_web",
+			"jumpDefaultParam": [{
+				"value": "http://10.255.0.219/en/zbw/dxorder/index.html?spfrom=dsqxxl#/order/148/11960",
+				"key": "webUrl"
+			}, {
+				"value": "",
+				"key": "exInfo"
+			}, {
+				"value": "VRS15033136",
+				"key": "shortReportvid"
+			}],
+			"terminalId": "5",
+			"promotionType": "0",
+			"videoTitle": ""
+		}],
+		"newSeekPoints": [{
+			"terminalId": "5",
+			"pointType": "4",
+			"title": "看正片推荐名称超长",
+			"subTitle": "2022.",
+			"goodsName": "zx伞勿动2",
+			"videoTitle": "推荐正片-阳光之下",
+			"bubbleText": "",
+			"imgQrcodeUrl": "http://127.0.0.1:80/zhengpiantuijian.png",
+			"imgBgUrl": "http://127.0.0.1:80/shutu1.jpg",
+			"pointTime": "25",
+			"showSecond": "5",
+			"jumpDefaultTypeId": "m_open_detail_page",
+			"jumpDefaultParam": [{
+				"value": "0",
+				"key": "videoType"
+			}, {
+				"value": "0",
+				"key": "auto_play"
+			}, {
+				"value": "0b1e9154e423444aa7c44b9817ed1b74",
+				"key": "originalId"
+			}],
+			"seekPointsjumpDefaultTypeId": "m_open_web",
+			"seekPointsjumpDefaultParam": [{
+				"value": "http://10.255.0.219/en/zbw/dxorder/index.html?spfrom=dsqxxl#/order/148/11960",
+				"key": "webUrl"
+			}, {
+				"value": "",
+				"key": "exInfo"
+			}, {
+				"value": "VRS15033136",
+				"key": "shortReportvid"
+			}]
+		}],
+		"artistInfo": {
+			"cornerName": "",
+			"source": "",
+			"photo": "",
+			"isFollowed": 0,
+			"cornerIcon": "",
+			"fansNum": "",
+			"videoNum": "",
+			"artistId": "",
+			"nickName": "",
+			"introduction": "",
+			"canFollowing": "",
+			"isOfficial": ""
+		}
+	}
+}

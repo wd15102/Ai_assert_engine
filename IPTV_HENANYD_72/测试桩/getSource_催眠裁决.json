@@ -1,0 +1,57 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1609319432,
+	"seqId": "6fb0741868b98450c6bec97622b1ad4a",
+	"data": {
+		"playType": "1",
+		"isPreview": "0",
+		"cid": "32019120518461142122149940745740",
+		"vid": "32019120518461357046874186165797",
+		"st": "110",
+		"et": "5419",
+		"files": {
+			"bitrate": "4304",
+			"ftime": "013348",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32019120518461510134058649965333/index.m3u8",
+			"vf": "",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"st": 0,
+			"pt": 600
+		},
+		"fullScreenTips": {
+			"start": null,
+			"playing": {
+				"msg": "试看中",
+				"skipMsg": "解锁剧集",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019120518461142122149940745740\u0026productIds=7,44,34,43,20,130,35,129"
+				}
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "开通VIP即可观看完整视频",
+				"skipMsg": "立即开通",
+				"aidMsg": "",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019120518461142122149940745740\u0026productIds=7,44,34,43,20,130,35,129"
+				},
+				"countdown": 60
+			}
+		},
+		"windowedTips": {
+			"start": null,
+			"playing": "试看中",
+			"end": "该视频需开通会员观看全片"
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

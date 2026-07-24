@@ -1,0 +1,17 @@
+{
+	"countNums": "1",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"videoGroupList": [
+		{
+			"image": "http://10.255.1.107/zypt/pic/2020/01/13/20200113105935.png",
+			"createTime": "2020-02-12 17:56:36",
+			"videoGroupId": "8b60e370350e4340828fa93b8d858f58",
+			"name": "爸妈爱看",
+			"typeId": "33cff5a86f58420c9a64ecb137e4eb97",
+			"contentCount": 3
+		}
+	]
+}

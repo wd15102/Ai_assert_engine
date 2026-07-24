@@ -1,0 +1,153 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"moduleTitle": "地区维度推荐",
+			"list": [
+				{
+					"allIndex": "58",
+					"collectionId": "00000001000000000001000000081425",
+					"desc": "该剧根据唐七公子同名小说改编，讲述了青丘帝姬白浅和九重天太子夜华的三生爱恨，三世纠葛的故事。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu5.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu5.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu5.jpg",
+					},
+					"newIndex": "58",
+					"root_category_id": "00000001000000001002000000000021",
+					"score": "8.5",
+					"subTitle": "",
+					"title": "三生三世十里桃花",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "1",
+					"collectionId": "00000001000000001018000000334289",
+					"desc": "版权来源【佳韵社】,讲述了在南海上有个小岛，毛利人原始部落依照当地信仰需要选举一位少女作为神供养，她将不能结婚，少女不愿过这种日子，于是和未婚夫逃离了小岛。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu6.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu6.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu6.jpg",
+					},
+					"newIndex": "1",
+					"root_category_id": "00000001000000001002000000000022",
+					"score": "0",
+					"subTitle": "",
+					"title": "塔布",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "40",
+					"collectionId": "00000001000000000001000000084919",
+					"desc": "版权来源【芒果TV】,该剧讲述了隋朝末年，天下大乱，绰号“霹雳菩萨”的石头和尚，带着他的两位女徒弟阿舍、阿得，行走江湖，惩奸除恶，救渡世人的故事。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu7.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu7.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu7.jpg",
+					},
+					"newIndex": "40",
+					"root_category_id": "00000001000000001002000000000021",
+					"score": "7.8",
+					"subTitle": "",
+					"title": "霹雳菩萨",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "1",
+					"collectionId": "00000001000000001007000000156716",
+					"desc": "【版权来源：搜狐视频】,电影讲述史老爷被大瓜气死，大哥大嫂将大瓜夫妇赶出家门。一次偶然大瓜夫妇误食了十胎药，大瓜生下五个孩子：冬瓜、南瓜、西瓜、地瓜、黄瓜。同一时间，花花亦生下五个兄妹：哈密瓜、香瓜、苦瓜、窝瓜、丝瓜。由宝药化身的十兄妹，各俱凡人所不能的本事。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu8.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu8.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu8.jpg",
+					},
+					"newIndex": "1",
+					"root_category_id": "00000001000000001002000000000022",
+					"score": "6",
+					"subTitle": "",
+					"title": "降魔十兄妹",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "1",
+					"collectionId": "00000001000000001002000000001701",
+					"desc": "讲述患有精神疾病的丹尼·达克在某天晚上受到莫名召唤，让他躲过飞机坠毁在他房间的天花板上。此后他的生活开始有翻天覆地的变化。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu9.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu9.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu9.jpg",
+					},
+					"newIndex": "1",
+					"root_category_id": "00000001000000001002000000000022",
+					"score": "7.4",
+					"subTitle": "",
+					"title": "死亡幻觉",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "1",
+					"collectionId": "00000001000000000002000000083258",
+					"desc": "这天，道歌教练安排了一个任务给水下摩托艇石头两只受训潜水艇——贝贝和与阿力，那就是先将海参们放回珊瑚堆，然后找到一个合适的箱子，去将飞机苏茜运来的鳗鱼运回培训基地。三个小伙伴一开始为了争夺负责人，几乎搞砸了所有事。后来他们认识到自己错了，于是终于完成了任务。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu10.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu10.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu10.jpg",
+					},
+					"newIndex": "1",
+					"root_category_id": "00000001000000001002000000000022",
+					"score": "6.3",
+					"subTitle": "",
+					"title": "潜艇总动员",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "28",
+					"collectionId": "00000001000000000002000000093902",
+					"desc": "1946年3月17日，军统头目戴笠飞机失事，电报泄露惊天秘密：戴笠雇佣日本刺客宫十一来北平刺杀漕帮老大徐德庸……",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu1.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu1.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu1.jpg",
+					},
+					"newIndex": "28",
+					"root_category_id": "00000001000000001002000000000021",
+					"score": "0",
+					"subTitle": "",
+					"title": "神枪手",
+					"videoId": "",
+					"weight": "0"
+				}
+			],
+			"moduleId": "AreaVideoRec"
+		}
+	],
+	"msg": "success",
+	"seqId": ""
+}

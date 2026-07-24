@@ -1,0 +1,31 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1606805238,
+	"seqId": "a925dce1fc844b7a2e248d5668b9004b",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "00000001000000001006000000000028",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:15:20"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "付费"
+			},
+			"desc": "王宝强 唐人街第一神探",
+			"duration": "8120",
+			"image": "",
+			"name": "唐人街探案",
+			"title": "王宝强 唐人街第一神探",
+			"type": "1",
+			"vid": "00000001000000001006000000000027",
+			"videoIndex": "1"
+		}]
+	}
+}

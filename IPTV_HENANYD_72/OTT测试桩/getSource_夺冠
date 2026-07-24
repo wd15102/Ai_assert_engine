@@ -1,0 +1,58 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618195194,
+	"seqId": "f48365e1eea7e19df5b524c47c606f5c",
+	"data": {
+		"playType": "1",
+		"isPreview": "1",
+		"cid": "32020122216115950860406984336977",
+		"vid": "32020122216120080624087954047968",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4000",
+			"ftime": "021445",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000002/32024070911180842089295108518694/index.m3u8?stbid=004903FF001849902204F814FE18EC76",
+			"vf": "H.264",
+			"width": "",
+			"definition": "3"
+		},
+		"trailers": {
+			"st": 0,
+			"pt": 300
+		},
+		"fullScreenTips": {
+			"start": null,
+			"playing": {
+				"msg": "试看中",
+				"skipMsg": "解锁剧集",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://otthnydseminar.yys.mgtv.com:6600/zt/oc/order_product_page.html?assetId=32019092016283012925339885157098\u0026productIds=7,44,34,43,130,20,129,35"
+				}
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "试看结束",
+				"skipMsg": "立即开通",
+				"aidMsg": "",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://otthnydseminar.yys.mgtv.com:6600/zt/oc/order_product_page.html?assetId=32019092016283012925339885157098\u0026productIds=7,44,34,43,130,20,129,35"
+				},
+				"countdown": 120
+			}
+		},
+		"windowedTips": {
+			"start": null,
+			"playing": "试看中",
+			"end": "试看结束"
+		},
+		"isFree": "1",
+		"adsPlay": "1",
+		"ocid": "HUANXIS1000000000000000000046665",
+		"ovid": "HUANXIP1000000000000000000046665"
+	}
+}

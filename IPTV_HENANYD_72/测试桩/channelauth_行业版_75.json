@@ -1,0 +1,12 @@
+{
+	"code": "200",
+	"msg": "成功",
+	"seqId": "7f60964a7c1ab7a38597b2a3641bbe01",
+	"timestamp": 1607048249,
+	"data": {
+		"authStatus": "1",
+		"payTips": "鉴权通过",
+		"channelId": "1",
+		"suId": "75"
+	}
+}

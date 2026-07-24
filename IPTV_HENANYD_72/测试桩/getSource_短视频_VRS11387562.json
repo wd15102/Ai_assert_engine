@@ -1,0 +1,40 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1617087747,
+	"seqId": "b0460f798e6855914857df597cb7b0bb",
+	"data": {
+		"playType": "0",
+		"vid": "32021032011124781777973237198045",
+		"ovid": "VRS11387562",
+		"thirdVid": "",
+		"cpId": "",
+		"files": {
+			"bitrate": "2549",
+			"ftime": "000510",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32021080222324683070260141012208/main.m3u8",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"defTypeValue": "434",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "1",
+		"efid": "",
+		"definition": "3",
+		"result": 0,
+		"isPay": 0,
+		"isPreview": 0,
+		"skipMsg": null,
+		"skipImg": null,
+		"skipType": null,
+		"previewNum": null,
+		"wPreviewTips": null,
+		"fPreviewTips": null,
+		"promoCopy": null,
+		"previewEndTips": null
+	}
+}

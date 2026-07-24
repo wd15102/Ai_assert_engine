@@ -1,0 +1,21 @@
+{
+	"cost": 0.009573968,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1677809900,
+	"serverTime": 1677809900,
+	"seqId": "0_186a5435d9a_dUb6T0Zv",
+	"data": [{
+		"title": "4K",
+		"definition": "9",
+		"corner": "VIP",
+		"cornerColor": "#C79409",
+		"vf": "HEVC",
+		"isDefault": "0",
+		"isPay": "1",
+		"defTypeValue": "434",
+		"defImg": "",
+		"focusImg": "",
+		"selectedImg": ""
+	}]
+}

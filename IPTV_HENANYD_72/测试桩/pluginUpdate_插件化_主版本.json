@@ -1,0 +1,28 @@
+{
+  "errno": "0",
+  "msg": "成功",
+  "serverTime": 1667981697,
+  "data": {
+    "program": {
+      "programId": "8"
+    },
+    "plugins": [
+      {
+        "pluginId": "11",
+        "pluginName": "iptvPlugin",
+        "pkgName": "com.hunantv.operator.plugin",
+        "provider": "MGTV",
+        "pluginEnter": "com.hunantv.operator.plugin",
+        "versionCode": "2024030517",
+        "downloadUrl": "http://10.1.201.95/iptv/apk/tv_iptv/dev4test-hnyd-202403051722/apk/hnyd/release/YYS.7.0.0.Y3.6.HNYDIPTV.0.0_Release_2024030517_Plugin.apk",
+        "downloadUrl2": "",
+        "osChannelId": "",
+        "apkmd5": "3f756d9201b11127f1a9134e589ac9ec",
+        "upSilent": "1",
+        "installType": "1",
+        "ext1": "",
+        "ext2": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+	"areaCode": "",
+	"backupPlayUrl": "http://100.127.251.194:8089/180000001001/00000001000000001002000000000007/main.m3u8",
+	"bitrateType": "",
+	"callsign": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202208/24/20220824180450930.png",
+	"channelId": "00000001000000001002000000000007",
+	"channelName": "抗战剧场",
+	"channelNumber": "28",
+	"hotInfo": "",
+	"hwCms3Id": "",
+	"importId": "00000001000000001002000000000007",
+	"isHaveRecord": "0",
+	"isPay": "0",
+	"isother": "0",
+	"liveRemindContent": "",
+	"logoImg": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728143218575.jpg",
+	"maxShiftTime": "0",
+	"minShiftTime": "0",
+	"originalId": "6ee5725e3b8d4ba486d9dee3fd22f875",
+	"playUrl": "rtp://239.1.0.52:1025",
+	"playUrlBak": "",
+	"result": {
+		"cost": 0.001,
+		"reason": "ok",
+		"state": "0"
+	},
+	"zteCms3Id": ""
+}

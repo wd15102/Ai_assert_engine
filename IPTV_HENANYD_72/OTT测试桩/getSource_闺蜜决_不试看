@@ -1,0 +1,57 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1605172533,
+	"seqId": "63259c241a0e93017be60fc94ad821a0",
+	"data": {
+		"playType": "1",
+		"isPreview":"0",
+		"cid": "32020030217014325688367941790728",
+		"vid": "32020030402253115077438018776694",
+		"st": "85",
+		"et": "2560",
+		"files": {
+			"bitrate": "4316",
+			"ftime": "004439",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000002/32024110722490130777008663293087/index.m3u8?stbid=004903FF001849902204F814FE18EC76",
+			"vf": "",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"st": 60,
+			"pt": 240
+		},
+		"fullScreenTips": {
+			"start": null,
+			"playing": {
+				"msg": "",
+				"skipMsg": "解锁剧集",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019092016283012925339885157098\u0026productIds=7,44,34,43,130,20,129,35"
+				}
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "试看结束",
+				"skipMsg": "立即开通",
+				"aidMsg": "",
+				"skipType": "m_open_web",
+				"skipParams": {
+					"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019092016283012925339885157098\u0026productIds=7,44,34,43,130,20,129,35"
+				},
+				"countdown": ""
+			}
+		},
+		"windowedTips": {
+			"start": null,
+			"playing": "正在试看中",
+			"end": "试看结束，开通会员后可观看正片"
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

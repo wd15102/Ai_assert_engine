@@ -1,0 +1,30 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1616145767,
+	"seqId": "12b7657a68c02be35c576a06d3ae8904",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32021022407322549950484032578057",
+		"vid": "32021022014383621097896306781076",
+		"st": "93",
+		"et": "3000",
+		"files": {
+			"bitrate": "4291",
+			"ftime": "005429",
+			"height": "",
+			"url": "http://192.168.204.121:8080/qzzqskfj_3.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3"
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "VRS356654",
+		"ovid": "VRS10731011"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"cost": 0.003275278,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1648452628,
+	"serverTime": 1648452628,
+	"seqId": "8984e07bb5a60fea78b25356e92cdd3f",
+	"data": {
+		"playType": "0",
+		"vid": "32021020109325171571469400268327",
+		"ovid": "VRS10013854",
+		"thirdVid": "",
+		"cpId": "",
+		"files": {
+			"bitrate": "2523",
+			"ftime": "000048",
+			"height": "",
+			"url": "http://183.215.102.30:6410/180000000210/32021022010541974040521641705914/index.m3u8?",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"defTypeValue": "434",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "1",
+		"efid": "",
+		"definition": "3",
+		"result": 0,
+		"isPay": 0,
+		"isPreview": 0,
+		"skipMsg": null,
+		"skipImg": null,
+		"skipType": null,
+		"previewNum": null,
+		"wPreviewTips": null,
+		"fPreviewTips": null,
+		"promoCopy": null,
+		"previewEndTips": null
+	}
+}

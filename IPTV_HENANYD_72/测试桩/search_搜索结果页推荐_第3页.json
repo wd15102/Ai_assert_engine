@@ -1,0 +1,14 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"cost": 0.034815826,
+	"server_time": 1693812680,
+	"serverTime": 1693812680,
+	"seqId": "91d232ed89e9f080cc570da98f5b2ea6",
+	"data": {
+		"keyword": "A",
+		"pageIndex": "3",
+		"pushtype": "5",
+		"videoList": []
+	}
+}

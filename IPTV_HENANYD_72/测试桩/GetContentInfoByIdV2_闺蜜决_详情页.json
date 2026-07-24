@@ -1,0 +1,84 @@
+{
+	"actor": "王子杰,廖蔚蔚,叶思齐,卢星宇,高宝宝",
+	"allIndex": "28",
+	"area": "内地",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000051",
+		"name": "全部剧集",
+		"originalId": "9853284e25df4cdca9cc850e8b79c0b6",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000041",
+		"name": "同步剧场",
+		"originalId": "2915d3874d154851b1762dc0d61ff61e",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001013000000076911",
+		"name": "VIP专区",
+		"originalId": "bf36126a1b064815959f17ddc471b5e9",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000046",
+		"name": "爱情偶像",
+		"originalId": "2b62ade90afb4276966da0190fbf3b31",
+		"parentId": "00000001000000001002000000000021"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"cornerMarkImg": "http://192.168.168.127:81/picture/zypt/aaa/f17f1e31c0cf4f99afd8ebe4f4df83ed.png",
+	"director": "李克龙",
+	"fstname": "电视剧",
+	"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2020/3/1/dianshiju/336818/20200301095400236-new.jpg_436x322.jpg",
+	"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2020/2/26/dianshiju/336818/20200226170642588-new.jpg_326x482.jpg",
+	"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2020/2/26/dianshiju/336818/20200226170642588-new.jpg_326x482.jpg",
+	"importId": "32020030217014325688367941790728",
+	"isBook": "",
+	"isCollect": "0",
+	"isFree": "1",
+	"kind": "青春",
+	"lastPlayedIndex": "1",
+	"lastPlayedTime": "300",
+	"lastPlayedType": "1",
+	"lastProgramId": "32020030217021665254129429878086",
+	"newIndex": "28",
+	"originalId": "VRS336818",
+	"playProgramId": "32020030217021665254129429878086",
+	"playProgramType": "1",
+	"playStartTime": "300",
+	"point": "7.0",
+	"programOrder": "asc",
+	"programUiStyle": "0",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "32020030217014325688367941790728",
+	"seriesName": "闺蜜决",
+	"showTime": "2020-03-01 00:00:00",
+	"starList": [{
+		"bief": "廖蔚蔚，11月8日出生于湖南，演员，毕业于中央戏剧学院。2014年，主演惊悚电影《花咒》，献唱电影《花咒》主题曲《你永远看不到》。2015年，廖主演的喜剧电影《红包》上映，在片中饰演小荷；6月，受邀录制央视综合频道魔术类综艺节目《魔法奇迹》；12月参加海峡卫视推出的大型两岸美食真人秀节目《味解之谜》。",
+		"originalId": "2be762a772dc4095b95857ce9669271e",
+		"starId": "00000001000000001002000000013413",
+		"starName": "廖蔚蔚",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/liaoweiwei/liaoweiwei20170708105442517.jpg"
+	}, {
+		"bief": "叶思齐，中国内地影视女演员、流行乐歌手、主持人。2009年在浙江传媒学院就读的叶思齐便获得了瑞丽秀校园行十大校园好感女生亚军 。2010年主演了个人的电影处女作《西施》。2012年加入女子团体Idol girls并正式进军乐坛。2014年出演了青春剧《38度青春》。2016年主演的网络喜剧《废柴兄弟3》 。",
+		"originalId": "d53437e4b6064c91821893f488ee79d0",
+		"starId": "00000001000000001002000000023902",
+		"starName": "叶思齐",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/yesiqi/yesiqi20170919153841951.jpg"
+	}, {
+		"bief": "卢星宇，1973年7月22日出生于山东泰安，中国内地男演员，国家二级演员，毕业于北京舞蹈学院。2017年5月《龙珠传奇》播出，月卢星宇饰演双面索额图；6月《军师联盟》开播，卢星宇饰演陆逊；8月《轩辕剑之汉之云》开播，卢星宇演技炸裂饰多闻使。",
+		"originalId": "613316c891a14d659edadabda5c75247",
+		"starId": "00000001000000001002000000036551",
+		"starName": "卢星宇",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2018/luxingyu/luxingyu20181121165248830.jpg"
+	}],
+	"summary": "【版权来源：芒果TV】,依兰怀着对旗袍设计的满腔热情来到秀水镇，意外和董事长的儿子成了室友。初入职场的她，就遭遇了闺蜜的妒忌与陷害，同事的排挤与刁难，董事长的羞辱，室友的欺骗，她还能继续坚持自己的设计梦想吗？",
+	"videoType": "0",
+	"viewType": ""
+}

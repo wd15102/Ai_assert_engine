@@ -1,0 +1,128 @@
+{
+	"cost": 0.128746551,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1721210041,
+	"serverTime": 1721210041,
+	"seqId": "0_190c01cf8d7_GhQjdIeN",
+	"data": {
+		"actor": "黄庆勋/郭富城/林家栋/赖雅妍/谭耀文/吕良伟",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023033109203315667079873158247\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "6,11,1,4,3,2,5,12,7"
+			}, {
+				"datatype": "10",
+				"showtype": "3",
+				"showOrder": "1",
+				"title": "衍生",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/derive/list?cid=32023033109203315667079873158247",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3"
+			}]
+		}],
+		"cid": "32023033109203315667079873158247",
+		"clipTitle": "断网",
+		"rootCateId": "00000001000000001002000000000022",
+		"fstname": "电影",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.0分",
+			"color": "#FF9A4F",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2022",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "area",
+			"value": "中国香港",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "type",
+			"value": "犯罪 • 动作",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "6622",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2022/5/5/dianying/445865/87e77526525c0bcb6ff1e049ddb8ff0b.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2022/5/5/dianying/445865/6dfa10aab9e72e1ec835dc11e780a92f.jpg",
+		"importId": "32023033109203315667079873158247",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "6622",
+			"vid": "32023033109203663221605058059357",
+			"watchTime": "",
+			"tips": ""
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "VRS445865",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2023-03-29",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32023033109203663221605058059357",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/3/29/dianying/445865/18557034/e92e42d4b39296decc2a6ca48fd0dc6d.jpg",
+		"videoTitle": "断网",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "2",
+		"brief": "【版权来源：咪咕视讯】,讲述了网络程序专家员卓家俊在一次针对头部银行的数据攻击中意外被卷入一场黑恶洗钱活动，为保护家人并自证清白，与犯罪分子展开殊死较量的故事。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?productIds=34,35,1395,129,1456,1460,1461\u0026assetId=32023033109203315667079873158247\u0026assetType=0\u0026cpid=1\u0026spfrom="
+			}
+		},
+		"cpId": "1",
+		"cpName": "芒果官方",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "21e945ed2fbc4269b81866d7283b27f2",
+		"topBill": {
+			"prefix": "No.",
+			"topTitle": "",
+			"topId": "",
+			"topOrderNum": "0"
+		},
+		"isFree": "1",
+		"recommendSkus": "34,35,1395,129,1456,1460,1461",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "",
+			"channelId": "BD1F381594B6712D90E53F32C8193A96"
+		}
+	}
+}

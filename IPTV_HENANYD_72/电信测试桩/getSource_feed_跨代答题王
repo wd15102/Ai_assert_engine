@@ -1,0 +1,41 @@
+{
+	"cost": 0.053539017,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647584528,
+	"serverTime": 1647584528,
+	"seqId": "6cdafd26099af94d11b5c7a832fa3282",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32022031615192247029354685479157",
+		"vid": "32022031615192690881085240185844",
+		"ocid": "VRS406147",
+		"ovid": "VRS15026979",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4366",
+			"ftime": "130",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/61eea970f2d84bfc80b280951919acd8/b49750608ae4412b91c5bb7e842cf527?UserToken=04221603587534015041381124093746\u0026UserName=6830018",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": 0,
+			"skipLeftTitel": null,
+			"skipMsg": null,
+			"skipType": null,
+			"skipParams": null,
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": null
+		},
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

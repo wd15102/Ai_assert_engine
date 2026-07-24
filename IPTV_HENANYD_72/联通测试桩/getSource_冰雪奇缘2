@@ -1,0 +1,53 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1600744796,
+	"seqId": "f8b5933e91ddd51f9eb0d509f10aacb5",
+	"data": {
+		"playType": "1",
+		"isPreview":"1",
+		"cid": "32020022611163770566104035612157",
+		"vid": "32020022611163887181657513321490",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4310",
+			"ftime": "013904",
+			"height": "",
+			"url": "http://192.168.204.121:8080/trjta3.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"st": 0,
+			"pt": 300
+		},
+		"fullScreenTips": {
+			"start": null,
+			"playing": {
+				"msg": "正在试看，会员可按“OK键”付费解锁正片",
+				"skipMsg": "解锁剧集",
+				"skipType": "m_open_web",
+				"skipParams": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32020022611163770566104035612157\u0026productIds=7,44,34,43,130,20,129,35"
+			},
+			"end": {
+				"stateMsg": "试看已结束",
+				"msg": "开通VIP即可观看完整视频",
+				"skipMsg": "立即开通",
+				"aidMsg": "",
+				"skipType": "m_open_web",
+				"skipParams": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32020022611163770566104035612157\u0026productIds=7,44,34,43,130,20,129,35",
+				"countdown": "120"
+			}
+		},
+		"windowedTips": {
+			"start": null,
+			"playing": "",
+			"end": "试看结束，开通会员后可观看正片"
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

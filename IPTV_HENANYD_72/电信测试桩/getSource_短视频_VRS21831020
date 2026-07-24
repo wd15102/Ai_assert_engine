@@ -1,0 +1,43 @@
+{
+	"cost": 0.009034079,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1734686336,
+	"serverTime": 1734686336,
+	"seqId": "beta_ttid",
+	"data": {
+		"playType": "0",
+		"vid": "32024102215400769884328094365960",
+		"ovid": "VRS21831020",
+		"thirdVid": "64829011",
+		"cpId": "2000098",
+		"files": {
+			"bitrate": "2566",
+			"ftime": "72",
+			"height": "",
+			"url": "http://124.232.232.145:6060/190ZTE01/c1dd83f167784fd897af5a090dce2d96/index.m3u8?usercode=6750006\u0026programid=6eb6e714b31545ccaaec9b47a3a376f1\u0026vendor=ZTE",
+			"vf": "AVC",
+			"width": "",
+			"definition": "2",
+			"definitionName": "高清",
+			"defTypeValue": "422",
+			"thirdFileId": "",
+			"isDefault": "0",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "0",
+		"efid": "",
+		"definition": "2",
+		"result": 0,
+		"isPay": 0,
+		"isPreview": 0,
+		"skipMsg": null,
+		"skipImg": null,
+		"skipType": null,
+		"previewNum": null,
+		"wPreviewTips": null,
+		"fPreviewTips": null,
+		"promoCopy": null,
+		"previewEndTips": null
+	}
+}

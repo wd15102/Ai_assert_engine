@@ -1,0 +1,27 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613716591,
+	"seqId": "1fc194db3dd77b2d25eba6c0bafeb84e",
+	"data": {
+		"topicId": "18",
+		"subTopicId": "25",
+		"pushtype": "5",
+		"videoList": [{
+			"partId": "VRS10013853",
+			"fdParams": "score:200\u0026fcate:1",
+			"intro": "大芒短视频b测试关联推荐",
+			"imgurl": "http://127.0.0.1:80/hengtu1.jpg",
+			"duration": "48",
+			"cornerColor": "",
+			"cornerText": "",
+			"videoIndex": "18",
+			"originalId": "VRS10013853",
+			"tagId": "0",
+			"tagName": "",
+			"tagType": "0",
+			"dataType": 0,
+			"title": "大芒短视频b测试关联推荐"
+		}]
+	}
+}

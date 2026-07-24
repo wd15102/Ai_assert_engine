@@ -1,0 +1,29 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1602323436,
+	"seqId": "5c622058ecf731144a17fdc9aa596387",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000001009000000196207",
+		"vid": "00000001000000001009000000196206",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4279",
+			"ftime": "0",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32020092111103015738848923348590/index.m3u8",
+			"vf": "3",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

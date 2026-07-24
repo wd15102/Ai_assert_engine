@@ -1,0 +1,112 @@
+{
+	"code": 200,
+	"data": [{
+		"moduleTitle": "直播关联点播",
+		"list": [{
+			"allIndex": "40",
+			"collectionId": "32019112517134787801990686856781",
+			"desc": "讲述三个拥有不同成长背景的医护人员因各自不同的原因来到飞行医疗部，组成了铁三角一般的云端救援小分队，一次次穿梭于各个高危事件中，以热血仁心抢救生命的故事。",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/11/25/dianshiju/334534/20191125114813460-new.jpg_436x322.jpg",
+				"image_v": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/11/25/dianshiju/334534/20191125114725265-new.jpg_326x482.jpg",
+				"image_s": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/11/25/dianshiju/334534/20191125114725265-new.jpg_326x482.jpg"
+			},
+			"newIndex": "40",
+			"score": "7.6",
+			"subTitle": "",
+			"title": "极速救援 DVD版",
+			"videoId": "",
+			"weight": "0"
+		}, {
+			"allIndex": "1",
+			"collectionId": "00000001000000001006000000000028",
+			"desc": "秦风警校落榜，被姥姥遣送泰国找远房表舅——号称“唐人街第一神探”，实则“猥琐”大叔的唐仁散心。不想一夜花天酒地后，唐仁沦为离奇凶案嫌疑人，不得不和秦风亡命天涯……七天！唐仁、秦风这对“欢喜冤家”能否在躲避警察追捕、匪帮追杀、黑帮围剿的同时，完成找到失落的黄金、查明真凶、为自己洗清罪名这些逆天的任务？",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2017/dianying/120668/20171216151257123-new.jpg_436x322.jpg",
+				"image_v": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2016/dianying/120668/20160205143440178-new.jpg_326x482.jpg",
+				"image_s": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2016/dianying/120668/20160205143440178-new.jpg_326x482.jpg"
+			},
+			"newIndex": "1",
+			"score": "8.0",
+			"subTitle": "",
+			"title": "唐人街探案",
+			"videoId": "",
+			"weight": "0"
+		}, {
+			"allIndex": "1",
+			"collectionId": "00000001000000000002000000008311",
+			"desc": "货车司机黄家驹赴美向移居美国的骠叔祝贺新婚之喜，知晓其打算婚后与黑人妻子过安静的晚年生活，经营多年的超级市场也已卖给了年轻寡妇Elaine经营。",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201611/10/20161110170455.jpg",
+				"image_v": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201611/10/20161110170457.jpg",
+				"image_s": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201611/10/20161110170458.jpg"
+			},
+			"newIndex": "1",
+			"score": "8.10",
+			"subTitle": "",
+			"title": "红番区",
+			"videoId": "",
+			"weight": "0"
+		}, {
+			"allIndex": "25",
+			"collectionId": "00000001000000000002000000008314",
+			"desc": "版权来源【佳韵社】,该剧讲述了一个关于成长的故事。在充满神秘色彩、令人向往的红苹果之家，住了五个阳光男孩：他们都是牛耳学院的优质生，个性十足。一天，萧晴误打误撞住进红苹果之家，从此发生了一系列的趣事。",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201811/13/20181113165249665.jpg",
+				"image_v": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201609/26/20160926152703.jpg",
+				"image_s": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201609/26/20160926152706.jpg"
+			},
+			"newIndex": "25",
+			"score": "7.50",
+			"subTitle": "",
+			"title": "红苹果乐园",
+			"videoId": "",
+			"weight": "0"
+		}, {
+			"allIndex": "30",
+			"collectionId": "00000001000000000002000000008317",
+			"desc": "该剧讲述海归教师郎兴，来到同萌高中担任高三八班班主任的故事。",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201612/21/20161221164736.jpg",
+				"image_v": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201612/21/20161221164738.jpg",
+				"image_s": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201612/21/20161221164739.jpg"
+			},
+			"newIndex": "30",
+			"score": "7.10",
+			"subTitle": "",
+			"title": "红色青橄榄",
+			"videoId": "",
+			"weight": "0"
+		}, {
+			"allIndex": "1",
+			"collectionId": "00000001000000000002000000008340",
+			"desc": "故事讲述了地球上的清扫型机器人瓦力偶遇并爱上了机器人夏娃后，追随她进入太空历险的一系列故事……",
+			"extends": {},
+			"icons": {},
+			"images": {
+				"image_h": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201610/17/20161017113429.jpg",
+				"image_v": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201610/17/20161017113430.jpg",
+				"image_s": "http://192.168.168.235:6600/picture/zypt/upstream/cms/resources/upload/201610/17/20161017113433.jpg"
+			},
+			"newIndex": "1",
+			"score": "9.00",
+			"subTitle": "",
+			"title": "机器人总动员",
+			"videoId": "",
+			"weight": "0"
+		}],
+		"moduleId": "LiveVideoRec"
+	}],
+	"msg": "success",
+	"seqId": ""
+}

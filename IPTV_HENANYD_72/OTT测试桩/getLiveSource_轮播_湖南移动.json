@@ -1,0 +1,9 @@
+{
+	"videoId": "00000001000000000063000000211983",
+	"playAddress": "http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047426/main.m3u8?",
+	"authResult": "0",
+	"result": {
+		"state": "0",
+		"reason": "ok"
+	}
+}

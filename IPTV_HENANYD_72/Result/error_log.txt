@@ -1,0 +1,1 @@
+07-15 09:28:35.643 16032 16280 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'java.io.File android.content.Context.getDatabasePath(java.lang.String)' on a null object reference

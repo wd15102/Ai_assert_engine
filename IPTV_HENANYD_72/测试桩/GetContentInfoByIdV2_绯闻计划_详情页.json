@@ -1,0 +1,64 @@
+{
+	"actor": "艾玛·斯通",
+	"allIndex": "1",
+	"area": "美国",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000056",
+		"name": "欧美电影",
+		"originalId": "b3778de19a6343509fc5dd2be3436096",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000059",
+		"name": "爱情喜剧",
+		"originalId": "a085ccce2ab542dab9a9be3fe80850a7",
+		"parentId": "00000001000000001002000000000022"
+	}, {
+		"id": "00000001000000001002000000000063",
+		"name": "全部电影",
+		"originalId": "de8d39ffcfb94c249949b0ddf606a932",
+		"parentId": "00000001000000001002000000000022"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"director": "威尔·古勒",
+	"fstname": "电影",
+	"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/201703/09/20170309143016.jpg",
+	"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/201703/09/20170309143022.jpg",
+	"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/201703/09/20170309143020.jpg",
+	"importId": "00000001000000000001000000108185",
+	"isBook": "0",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "爱情|喜剧",
+	"lastPlayedIndex": "",
+	"lastPlayedType": "",
+	"lastProgramId": "",
+	"newIndex": "1",
+	"originalId": "D00000001201703091411200005098930",
+	"periodsName": "",
+	"playProgramId": "00000001000000000002000000011245",
+	"playProgramType": "1",
+	"playStartTime": "",
+	"point": "7.1",
+	"programOrder": "asc",
+	"programUiStyle": "m4",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "00000001000000000001000000108185",
+	"seriesName": "绯闻计划",
+	"showTime": "2010-11-25 00:00:00",
+	"starList": [{
+		"bief": "艾玛·斯通，1988年出生于美国，美国女演员。2010年，凭借在《绯闻计划》中的表演获得第68届金球奖喜剧类最佳女主角提名。2012年，主演的影片《超凡蜘蛛侠》于7月上映。2014年5月2日，出演的《超凡蜘蛛侠2》上映，2017年2月，凭借在《爱乐之城》中的表演获得第89届奥斯卡金像奖最佳女主角奖。",
+		"originalId": "beba189f895647c78479208efef5d0a9",
+		"starId": "00000001000000001002000000003707",
+		"starName": "艾玛·斯通",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/aimasitong/aimasitong20170908170523486.jpg"
+	}],
+	"summary": "平凡的高中女生奥利芙在学校一直籍籍无名，甚至频繁被当成受气包。一次派对，她为了帮助死党布兰登摆脱同志嫌疑，自编自导了 一处“破处戏”，从而一举成名成为学校的风云人物，再也没有人来欺负她。",
+	"videoType": "0",
+	"viewType": ""
+}

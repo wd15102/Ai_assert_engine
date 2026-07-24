@@ -1,0 +1,66 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1614823794,
+	"seqId": "d838feaf528f5363c13aceba3dadf856",
+	"data": {
+		"totalNumber": "5",
+		"nextIndex": "-1",
+		"videoList": [{
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"partId": "VRS10013853",
+			"originalId": "VRS356603",
+			"title": "短视频跳专题测试",
+			"likeNum": "46",
+			"likeNumStr": "46",
+			"imgurl": "http://111.23.13.95:81/test_cms_backyard/20210226/3904568ca82f41449b6e6686acf38836_6672.png",
+			"duration": "48",
+			"likeStatus": "",
+			"tagPayCornerIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/04/25/20240425161351804.png"
+		}, {
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"partId": "VRS10013579",
+			"originalId": "VRS10013579",
+			"title": "1205 KO",
+			"likeNum": "13",
+			"likeNumStr": "13",
+			"imgurl": "http://111.23.13.95:81/test_cms_backyard/20210226/ac2b29c7850b4443a7358ccd9ff438e3_3099.png",
+			"duration": "15",
+			"likeStatus": "",
+			"tagPayCornerIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/04/25/20240425161351804.png"
+		}, {
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"partId": "VRS10013836",
+			"originalId": "VRS10013836",
+			"title": "跳片库测试",
+			"likeNum": "35",
+			"likeNumStr": "35",
+			"imgurl": "http://111.23.13.95:81/test_cms_backyard/20210224/2db6fc5b706d4b7593ffcca3b79fcd16_8485.png",
+			"duration": "2982",
+			"likeStatus": "",
+			"tagPayCornerIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/04/25/20240425161351804.png"
+		}, {
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"partId": "VRS10013854",
+			"originalId": "VRS356603",
+			"title": "打点小图跳点播详情",
+			"likeNum": "41",
+			"likeNumStr": "41",
+			"imgurl": "http://111.23.13.95:81/test_cms_backyard/20210223/c1e7bd9130db4157aeb98afd65053ded_4625.png",
+			"duration": "48",
+			"likeStatus": "",
+			"tagPayCornerIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/04/25/20240425161351804.png"
+		}, {
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"partId": "VRS10013849",
+			"originalId": "VRS10013849",
+			"title": "打点小图跳专题",
+			"likeNum": "27",
+			"likeNumStr": "27",
+			"imgurl": "http://111.23.13.95:81/test_cms_backyard/20210224/8435d299a21444f68753d0537238298b_3542.png",
+			"duration": "127",
+			"likeStatus": "",
+			"tagPayCornerIcon": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/epg/pic/2024/04/25/20240425161351804.png"
+		}]
+	}
+}

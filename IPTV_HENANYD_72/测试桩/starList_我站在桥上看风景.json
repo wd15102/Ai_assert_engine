@@ -1,0 +1,22 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599732577,
+	"seqId": "3003674f70816508cf1a6461ca41642f",
+	"data": [{
+		"imageV": "http://127.0.0.1:80/yuantu1.jpg",
+		"role": "1",
+		"starId": "2f7ed7c085de4c188aa0ff5a42717728",
+		"title": "姜潮"
+	}, {
+		"imageV": "http://127.0.0.1:80/yuantu2.jpg",
+		"role": "1",
+		"starId": "1b46e894489e427fb7c7419bd8c4ebe3",
+		"title": "李溪芮"
+	}, {
+		"imageV": "http://127.0.0.1:80/yuantu3.jpg",
+		"role": "1",
+		"starId": "ba60667df96745fd97b999388d3a0018",
+		"title": "庞瀚辰"
+	}]
+}

@@ -1,0 +1,80 @@
+{
+	"actor": "常戎,陈小艺,刘佩琦",
+	"allIndex": "29",
+	"area": "内地",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000045",
+		"name": "都市家庭",
+		"originalId": "9bab05f588974756b571fffed9e233a1",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000047",
+		"name": "内地剧场",
+		"originalId": "d6be22fb44f34e8c8948bc206b114558",
+		"parentId": "00000001000000001002000000000021"
+	}, {
+		"id": "00000001000000001002000000000051",
+		"name": "全部剧集",
+		"originalId": "9853284e25df4cdca9cc850e8b79c0b6",
+		"parentId": "00000001000000001002000000000021"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"director": "尹力",
+	"fstname": "电视剧",
+	"imageH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201904/04/20190404113022439.jpg",
+	"imageS": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201904/04/20190404113025260.jpg",
+	"imageV": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201904/04/20190404113023901.jpg",
+	"importId": "00000001000000001009000000196207",
+	"isBook": "0",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "剧情|家庭",
+	"lastPlayedIndex": "1",
+	"lastPlayedTime": "119",
+	"lastPlayedType": "1",
+	"lastProgramId": "00000001000000001009000000196206",
+	"newIndex": "29",
+	"originalId": "D00000001201811300945090006799087",
+	"playProgramId": "00000001000000001009000000196206",
+	"playProgramType": "1",
+	"playStartTime": "",
+	"point": "7.1",
+	"programOrder": "asc",
+	"programUiStyle": "0",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "00000001000000001009000000196207",
+	"seriesName": "母亲",
+	"showTime": "2004-01-01 00:00:00",
+	"starList": [{
+			"bief": "{\"constellation\":\"\\u53cc\\u9c7c\\u5ea7\",\"birthday\":\"1954-02-20\",\"weight\":\"76.0\",\"birthplace\":\"\\u5c71\\u4e1c\\u7701\\u83cf\\u6cfd\\u5e02\",\"bloodtype\":\"O\\u578b\",\"height\":\"178.0\",\"introduction\":\"\\u674e\\u96ea\\u5065\\u4e2d\\u56fd\\u5185\\u5730\\u5f71\\u89c6\\u7537\\u6f14\\u5458\\u4e2d\\u56fd\\u6587\\u5b66\\u827a\\u672f\\u754c\\u8054\\u5408\\u4f1a\\u526f\\u4e3b\\u5e2d\\u4e2d\\u56fd\\u7535\\u5f71\\u5bb6\\u534f\\u4f1a\\u4e3b\\u5e2d\\u4e00\\u7ea7\\u6f14\\u54581990\\u5e74\\u5728\\u7535\\u89c6\\u5267\\u6e34\\u671b\\u4e2d\\u51fa\\u6f14\\u597d\\u4eba\\u5b8b\\u5927\\u6210\\u4e3b\\u6f14\\u7535\\u5f71\\u7126\\u88d5\\u79842011\\u5e74\\u4e3b\\u6f14\\u7535\\u5f71\\u6768\\u5584\\u6d322012\\u5e74\\u51fa\\u6f14\\u7535\\u5f71\\u4e00\\u4e5d\\u56db\\u4e8c2015\\u5e74\\u4e3b\\u6f14\\u7535\\u89c6\\u5267\\u563f\\u8001\\u5934\\u5c11\\u5e052018\\u5e7411\\u6708\\u5165\\u9009100\\u540d\\u6539\\u9769\\u5f00\\u653e\\u6770\\u51fa\\u8d21\\u732e\\u5bf9\\u8c61\",\"story\":\"\\u674e\\u96ea\\u50651973\\u5e74\\u5165\\u4f0d1977\\u5e74\\u8003\\u5165\\u7a7a\\u653f\\u6587\\u5de5\\u56e21978\\u5e74\\u5165\\u4e2d\\u592e\\u5b9e\\u9a8c\\u8bdd\\u5267\\u96621980\\u5e74\\u56e0\\u5728\\u8bdd\\u5267\\u4e5d\\u00b7\\u4e00\\u4e09\\u4e8b\\u4ef6\\u4e2d\\u626e\\u6f14\\u6797\\u5f6a\\u593a\\u5f97\\u4e2d\\u56fd\\u620f\\u5267\\u6700\\u9ad8\\u5956\\u6885\\u82b1\\u59562016\\u5e7412\\u6708\\u5f53\\u9009\\u4e2d\\u56fd\\u6587\\u5b66\\u827a\\u672f\\u754c\\u8054\\u5408\\u4f1a\\u7b2c\\u5341\\u5c4a\\u5168\\u59d4\\u4f1a\\u59d4\\u5458\\u526f\\u4e3b\\u5e2d\",\"college\":\"\\u7a7a\\u653f\\u6587\\u5de5\\u56e2\"}",
+			"originalId": "b650d00d5fe8403a939edc7c148df2e8",
+			"starId": "00000001000000001002000000000700",
+			"starName": "李雪健",
+			"starType": "actor",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/lixuejian/lixuejian20170901165357510.jpg"
+		},
+		{
+			"bief": "{\"constellation\":\"\\u72ee\\u5b50\\u5ea7\",\"birthday\":\"1978-08-11\",\"weight\":\"48.0\",\"birthplace\":\"\\u8425\\u53e3\\u5e02\",\"bloodtype\":\"A\\u578b\",\"height\":\"165.0\",\"introduction\":\"\\u79e6\\u6d77\\u7490\\u6f14\\u54581978\\u5e74\\u51fa\\u751f\\u4e8e\\u4e2d\\u56fd\\u8fbd\\u5b81\\u6bd5\\u4e1a\\u4e8e\\u4e2d\\u592e\\u620f\\u5267\\u5b66\\u96622000\\u5e74\\u51ed\\u501f\\u7535\\u5f71\\u69b4\\u83b2\\u98d8\\u98d8\\u83b7\\u5f97\\u91d1\\u9a6c\\u5956\\u6700\\u4f73\\u5973\\u4e3b\\u89d2\\u540e\\u8363\\u83b7\\u9999\\u6e2f\\u91d1\\u50cf\\u5956\\u9999\\u6e2f\\u91d1\\u7d2b\\u8346\\u5956\\u9999\\u6e2f\\u5f71\\u8bc4\\u4eba\\u534f\\u4f1a\\u5956\\u5f71\\u540e\\u4ee3\\u8868\\u4f5c\\u54c1\\u6709\\u94a2\\u7684\\u7434\\u56db\\u4e16\\u540c\\u5802\\u5230\\u961c\\u9633\\u516d\\u767e\\u91cc\\u7b49\\u5e76\\u4e14\\u53d1\\u5e03\\u97f3\\u4e50\\u4e13\\u8f91\\u5e78\\u798f\\u56de\\u5473\\u5355\\u884c\\u7ebf2019\\u5e74\\u53c2\\u4e0e\\u771f\\u4eba\\u79c0\\u8282\\u76ee\\u4e2d\\u9910\\u5385\\u7b2c\\u4e09\\u5b63\",\"story\":\"\",\"college\":\"\\u4e2d\\u592e\\u620f\\u5267\\u5b66\\u9662\"}",
+			"originalId": "493ca0cd3cb548228a22f5d12ee30d6b",
+			"starId": "00000001000000001002000000004243",
+			"starName": "秦海璐",
+			"starType": "actor",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/qinhailu/qinhailu20170808180112518.jpg"
+		},
+		{
+			"bief": "{\"constellation\":\"\\u9b54\\u7faf\\u5ea7\",\"birthday\":\"1971-01-01\",\"weight\":\"82.0\",\"birthplace\":\"\\u7518\\u8083\\u5170\\u5dde\",\"bloodtype\":\"\\u4e0d\\u8be6\",\"height\":\"182.0\",\"introduction\":\"\\u738b\\u65b0\\u519b1971\\u5e74\\u51fa\\u751f\\u4e8e\\u7518\\u8083\\u5170\\u5dde\\u6f14\\u54582003\\u5e74\\u53c2\\u6f14\\u5386\\u53f2\\u7684\\u5929\\u7a7a2005\\u5e74\\u53c2\\u6f14\\u519b\\u65c5\\u5267\\u5782\\u76f4\\u6253\\u51fb2007\\u5e74\\u53c2\\u6f14\\u6c38\\u8fdc\\u7684\\u7530\\u91ce2008\\u5e74\\u53c2\\u6f14\\u65b0\\u7248\\u4e09\\u56fd2009\\u5e74\\u53c2\\u6f14\\u7f8e\\u4e3d\\u9c9c\\u82b1\\u5728\\u5f00\\u653e2011\\u5e74\\u53c2\\u6f14\\u6297\\u65e5\\u4f20\\u5947\\u5927\\u5267\\u72ec\\u7acb\\u7eb5\\u961f\\u9970\\u6f14\\u5b5f\\u4e91\\u97042013\\u5e74\\u53c2\\u6f14\\u94c1\\u8840\\u72ec\\u7acb\\u8425\\u9970\\u6f14\\u6c5f\\u96ea\\u539f1\\u670823\\u65e5\\u4e0e\\u5973\\u6f14\\u5458\\u79e6\\u6d77\\u7490\\u7ed3\\u5a5a\",\"story\":\"\\u6bd5\\u4e1a\\u4e8e\\u5317\\u4eac\\u7535\\u5f71\\u5b66\\u9662\\u8868\\u6f14\\u7cfb\\u672c\\u79d1\\u5c31\\u804c\\u4e8e\\u4e2d\\u56fd\\u56fd\\u5bb6\\u8bdd\\u5267\\u9662\",\"college\":\"\\u5317\\u4eac\\u7535\\u5f71\\u5b66\\u9662\\u8868\\u6f14\\u7cfb\"}",
+			"originalId": "469c76f93af84addb8010424b49816c0",
+			"starId": "00000001000000001002000000001030",
+			"starName": "王新军",
+			"starType": "actor",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/wangxinjun/wangxinjun20170726184623537.jpg"
+		}],
+	"summary": "【版权来源：芒果TV】,该剧塑造一位为了把孩子抚养成人而付出一生心血的平凡而伟大的母亲，以现实社会的判断标准来看，她的一生也许不是成功的。但是作为母亲，她的光辉应该可以唤醒每天为了金钱忙碌的人们。",
+	"videoType": "0",
+	"viewType": ""
+}

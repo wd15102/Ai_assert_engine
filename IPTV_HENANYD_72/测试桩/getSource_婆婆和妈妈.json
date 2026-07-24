@@ -1,0 +1,40 @@
+{
+	"cost": 0.028588518,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1650768655,
+	"serverTime": 1650768655,
+	"seqId": "0_180597a9d72_tUrgEBTS",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32020052312401226697293331023660",
+		"vid": "32020052319541362949503471146124",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4342",
+			"ftime": "3378",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32022090817505037726210375547088/main.m3u8?\u0026stbid=00490300000298800002748F1B6E6000",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "VRS338575",
+		"ovid": "VRS8171702",
+		"thirdCid": "",
+		"thirdVid": "",
+		"tencentUserInfo": {
+			"access_token": "gGVhvsHAn4Vy2BbqwxnxkY/K7IQ1qjLomfUgOuBEUhlarfsEb5uM+MmDfD6Dxyre5nIOFVHjZuCirsjA2/al8n4hwSCrFibKRwaW363K4/c=",
+			"vtoken": "0B6FE45ABF53483633B1887188949519",
+			"vuid": "1914641597"
+		}
+	}
+}

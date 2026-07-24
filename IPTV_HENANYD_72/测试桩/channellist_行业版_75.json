@@ -1,0 +1,46 @@
+{
+	"code": "200",
+	"msg": "成功",
+	"seqId": "049abca8cab087a445e9e5920c24067e",
+	"timestamp": 1607048249,
+	"data": {
+		"orgList": [{
+			"suId": "75",
+			"channelId": "1",
+			"channelTitle": "行业1",
+			"bgImg": "http://192.168.168.55:80584",
+			"firstOrganizationId": "6",
+			"firstOrgName": "北雅中学99466666",
+			"organizationId": "13",
+			"orgName": "初中三年级",
+			"mobile": "18689523366",
+			"serviceName": "张卓",
+			"homepagePositionSort": "0"
+		}, {
+			"suId": "70",
+			"channelId": "41ba214f730f482eb019cb6cb4c611e6",
+			"channelTitle": "行业2",
+			"bgImg": "http://127.0.0.1:80/beijingtu.jpg",
+			"firstOrganizationId": "6",
+			"firstOrgName": "北雅中学No1",
+			"organizationId": "13",
+			"orgName": "初中三年级",
+			"mobile": "18588210321",
+			"serviceName": "李川",
+			"homepagePositionSort": "0"
+		}, {
+			"suId": "77",
+			"channelId": "a079a5baf7f046d593c669de849fdca0",
+			"channelTitle": "行业3",
+			"bgImg": "",
+			"firstOrganizationId": "6",
+			"firstOrgName": "北雅中学No2",
+			"organizationId": "13",
+			"orgName": "初中三年级",
+			"mobile": "18588210321",
+			"serviceName": "李川",
+			"homepagePositionSort": "0"
+		}],
+		"pageDesc": "本页面是行业机构管理页面（机构指校园、社区等等），如果您的机顶盒登记办理了相关机构功能，可以在此处新增机顶盒与机构的绑定，通过填写在机构登记的手机号与短信验证码，实现对应登记机构内容在此机顶盒上展现。"
+	}
+}

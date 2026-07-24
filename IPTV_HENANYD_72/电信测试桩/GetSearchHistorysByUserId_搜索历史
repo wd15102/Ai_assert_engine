@@ -1,0 +1,55 @@
+{
+	"countNums": "2",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesList": [
+		{
+			"addTime": "2020-04-07 14:57:05",
+			"allIndex": "1",
+			"cornerMarkImg": "",
+			"historyId": "9af8394a70584fe8a8d389600818fbdf",
+			"imageH": "http://127.0.0.1:80/shutu1.jpg",
+			"imageS": "http://127.0.0.1:80/shutu1.jpg",
+			"imageV": "http://127.0.0.1:80/shutu1.jpg",
+			"newIndex": "1",
+			"originalId": "D00000001201610281101420046499999",
+			"playedIndex": "",
+			"playedTime": "",
+			"point": "8.80",
+			"programDuration": "",
+			"programId": "",
+			"programType": "1",
+			"rootCategoryId": "f8d92a2c92314db6a384ad4791d58158",
+			"seriesId": "00000000000000000001000000036387",
+			"seriesName": "七月与安生",
+			"version": "YYS.6.1.0.Y3.6.HNYDIPTV.0.0_Pre_Release",
+			"videoType": "0",
+			"viewType": ""
+		},
+		{
+			"addTime": "2020-04-07 14:55:31",
+			"allIndex": "29",
+			"cornerMarkImg": "",
+			"historyId": "cdcc60310aff401c934ee24c8b7a2f77",
+			"imageH": "http://127.0.0.1:80/shutu2.jpg",
+			"imageS": "http://127.0.0.1:80/shutu2.jpg",
+			"imageV": "http://127.0.0.1:80/shutu2.jpg",
+			"newIndex": "29",
+			"originalId": "D00000001201811300945090006799087",
+			"playedIndex": "",
+			"playedTime": "",
+			"point": "7.1",
+			"programDuration": "",
+			"programId": "",
+			"programType": "1",
+			"rootCategoryId": "00000001000000001002000000000021",
+			"seriesId": "00000001000000001009000000196207",
+			"seriesName": "母亲",
+			"version": "YYS.6.1.0.Y3.6.HNYDIPTV.0.0_Pre_Release",
+			"videoType": "0",
+			"viewType": ""
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1601189447,
+	"seqId": "7a4adc947785b735dbe9f735a8389bbb",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000001000000112017",
+		"vid": "00000001000000000001000000135024",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4166",
+			"ftime": "000122",
+			"height": "",
+			"url": "http://192.168.204.121:8080/short_207.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

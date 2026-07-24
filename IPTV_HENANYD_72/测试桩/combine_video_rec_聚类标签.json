@@ -1,0 +1,133 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"moduleTitle": "聚类标签1",
+			"list": [
+				{
+					"allIndex": "12",
+					"collectionId": "00000001000000001012000000124853",
+					"desc": "版权来源【芒果TV】,《妻子的浪漫旅行》第二季浪漫再出发，这一次老公们成为妻子的私人旅行规划师，悉心定制专属于自己妻子的浪漫之旅，老公视角版将带你全方位打卡治愈之旅。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu1.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu1.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu1.jpg",
+					},
+					"newIndex": "9",
+					"root_category_id": "variety",
+					"score": "8.5",
+					"subTitle": "",
+					"title": "妻子的浪漫旅行2 老公视角版",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "25",
+					"collectionId": "00000001000000000001000000152973",
+					"desc": "版权来源【芒果TV】,变形计禀承“换位思考”这一理念，而且更推至极致，在节目中，你不仅要站在对方立场去设想和理解对方，你还要去过对方的生活，真正体验对方世界的大小风云，品察对方思想最微妙的情绪触动。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu2.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu2.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu2.jpg",
+					},
+					"newIndex": "25",
+					"root_category_id": "variety",
+					"score": "0",
+					"subTitle": "",
+					"title": "变形计 第十三季",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "50",
+					"collectionId": "00000000000000010000000000961122",
+					"desc": "芒果TV独家探班栏目《果酱爱探班》，走进片场，三百六十度体验偶像的工作，深入台前幕后，分享最新鲜最有趣的电视剧动态。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu3.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu3.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu3.jpg",
+					},
+					"newIndex": "38",
+					"root_category_id": "variety",
+					"score": "0",
+					"subTitle": "",
+					"title": "果酱爱探班",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "25",
+					"collectionId": "32019111617281326287448732823558",
+					"desc": "【版权来源：芒果TV】,芒果TV美食探寻类真人秀",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu4.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu4.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu4.jpg",
+					},
+					"newIndex": "24",
+					"root_category_id": "variety",
+					"score": "0",
+					"subTitle": "",
+					"title": "野生厨房 第二季",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "29",
+					"collectionId": "32019110415115167164084905264315",
+					"desc": "芒果TV《明星大侦探》第五季11月8日起每周五中午12点上线！悬疑搞笑，掀起脑洞风暴！",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu5.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu5.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu5.jpg",
+					},
+					"newIndex": "29",
+					"root_category_id": "variety",
+					"score": "8.3",
+					"subTitle": "",
+					"title": "明星大侦探 第五季",
+					"videoId": "",
+					"weight": "0"
+				},
+				{
+					"allIndex": "13",
+					"collectionId": "00000001000000001002000000000454",
+					"desc": "版权来源【芒果TV】,全网首档偶像剧综艺，为年轻人量身定制的恋爱高阶课堂。",
+					"extends": {},
+					"fdParams": "strategy:303&score:0.32&seqid:123&pagenum:2",
+					"icons": {},
+					"images": {
+						"image_h": "http://127.0.0.1:80/shutu6.jpg",
+						"image_v": "http://127.0.0.1:80/hengtu6.jpg",
+						"image_s": "http://127.0.0.1:80/fangtu6.jpg",
+					},
+					"newIndex": "13",
+					"root_category_id": "variety",
+					"score": "8",
+					"subTitle": "",
+					"title": "真心大冒险",
+					"videoId": "",
+					"weight": "0"
+				}
+			],
+			"moduleId": "CombineVideoRec1"
+		}
+	],
+	"msg": "success",
+	"seqId": ""
+}

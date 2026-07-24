@@ -1,0 +1,373 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1601189447,
+	"seqId": "f5abb3eafb77f6a6b549e02f93cced8b",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "60",
+		"pageTotal": "1",
+		"total": "20",
+		"rows": [{
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "43"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "餐前甜点：安吉魔术技术高超",
+			"duration": "43",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3867009/20170316155644014.jpg",
+			"name": "胡可花絮031703",
+			"title": "餐前甜点：安吉魔术技术高超",
+			"type": "4",
+			"vid": "32019111113390672856317549459489",
+			"videoIndex": "21"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "61"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "坑爹：沙溢老爸变大哥？安吉再坑爹",
+			"duration": "61",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3865409/20170315155333627.jpg",
+			"name": "胡可花絮031608",
+			"title": "坑爹：沙溢老爸变大哥？安吉再坑爹",
+			"type": "4",
+			"vid": "32019111113390475112164779213540",
+			"videoIndex": "15"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1658"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "胡可特辑：安吉小鱼儿火拼争宠",
+			"duration": "1658",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3884413/20170330151956877.jpg",
+			"name": "胡可01花絮20170401",
+			"title": "胡可特辑：安吉小鱼儿火拼争宠",
+			"type": "4",
+			"vid": "32019111113385726837920204799702",
+			"videoIndex": "37"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "119"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "兄长力：安吉变身宠弟狂魔兄长力MAX",
+			"duration": "119",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3865406/20170315154826510.jpg",
+			"name": "胡可花絮031606",
+			"title": "兄长力：安吉变身宠弟狂魔兄长力MAX",
+			"type": "4",
+			"vid": "32019111113385426402822942557657",
+			"videoIndex": "13"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "餐前甜点：鲫鱼兄弟家庭录像",
+			"duration": "9",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3867006/20170316155924064.jpg",
+			"name": "胡可花絮031701",
+			"title": "餐前甜点：鲫鱼兄弟家庭录像",
+			"type": "4",
+			"vid": "32019111113384436868024675630966",
+			"videoIndex": "19"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "28"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "小鱼儿：胡可家的“纯爷们”之小鱼儿篇",
+			"duration": "28",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3865400/20170315154808346.jpg",
+			"name": "胡可花絮031602",
+			"title": "小鱼儿：胡可家的“纯爷们”之小鱼儿篇",
+			"type": "4",
+			"vid": "32019111113383879873218952379032",
+			"videoIndex": "9"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "341"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "妈妈手册：胡可接安吉迟到",
+			"duration": "341",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3888908/20170404162324859.jpg",
+			"name": "胡可09花絮20170406",
+			"title": "妈妈手册：胡可接安吉迟到",
+			"type": "4",
+			"vid": "32019111113382145662179919521543",
+			"videoIndex": "51"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "59"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "花絮：安吉小鱼儿的斗萌日常！",
+			"duration": "59",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3877574/20170324180339909.jpg",
+			"name": "胡可01花絮20170327",
+			"title": "花絮：安吉小鱼儿的斗萌日常！",
+			"type": "4",
+			"vid": "32019111113323361851384389984589",
+			"videoIndex": "29"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "700"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "胡可特辑：鲫鱼魔王属性爆发",
+			"duration": "700",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3875704/20170323152851343.jpg",
+			"name": "胡可03花絮20170324",
+			"title": "胡可特辑：鲫鱼魔王属性爆发",
+			"type": "4",
+			"vid": "32019111113323084797589138029976",
+			"videoIndex": "27"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "146"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "摔跤：小鱼儿鞋被穿反惨摔跤",
+			"duration": "146",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3958232/20170603114448298.jpg",
+			"name": "胡可06花絮20170606",
+			"title": "摔跤：小鱼儿鞋被穿反惨摔跤",
+			"type": "4",
+			"vid": "32019111113321969006599752065325",
+			"videoIndex": "119"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "33"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "父子：沙溢父子玩转“狗粮”这一梗！",
+			"duration": "33",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3865412/20170315155721002.jpg",
+			"name": "胡可花絮031610",
+			"title": "父子：沙溢父子玩转“狗粮”这一梗！",
+			"type": "4",
+			"vid": "32019111113321443706891900956249",
+			"videoIndex": "17"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "70"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "花絮：“鲫鱼组合”兄弟大战",
+			"duration": "70",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3865402/20170315155113315.jpg",
+			"name": "胡可花絮031604",
+			"title": "花絮：“鲫鱼组合”兄弟大战",
+			"type": "4",
+			"vid": "32019111113315951982510504279717",
+			"videoIndex": "11"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "100"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "出生：安吉梦回出生时刻",
+			"duration": "100",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3894570/20170410112120938.jpg",
+			"name": "胡可11花絮20170410",
+			"title": "出生：安吉梦回出生时刻",
+			"type": "4",
+			"vid": "32019111113314064385361465545333",
+			"videoIndex": "74"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "57"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "蛋糕：胡可娘仨给沙溢备了个大寿蛋糕",
+			"duration": "57",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3908934/20170422140011434.jpg",
+			"name": "胡可03花絮20170424",
+			"title": "蛋糕：胡可娘仨给沙溢备了个大寿蛋糕",
+			"type": "4",
+			"vid": "32019111113313444979631338955131",
+			"videoIndex": "96"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "58"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "扛把子：小鱼儿晋升吃货届扛把子",
+			"duration": "58",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3891302/20170406182322895.jpg",
+			"name": "胡可01花絮20170407",
+			"title": "扛把子：小鱼儿晋升吃货届扛把子",
+			"type": "4",
+			"vid": "00000001000000000001000000144592",
+			"videoIndex": "63"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "95"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "未播：变脸技能我只服影帝小鱼儿",
+			"duration": "95",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3888889/20170404152738733.jpg",
+			"name": "胡可13花絮20170406",
+			"title": "未播：变脸技能我只服影帝小鱼儿",
+			"type": "4",
+			"vid": "00000001000000000001000000144015",
+			"videoIndex": "47"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "111"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "未播：小鱼儿痛哭：我要找姥姥",
+			"duration": "111",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3886729/20170401122323903.jpg",
+			"name": "胡可01花絮20170404",
+			"title": "未播：小鱼儿痛哭：我要找姥姥",
+			"type": "4",
+			"vid": "00000001000000000001000000138254",
+			"videoIndex": "39"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "144"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "未播：小鱼儿竟迷上化妆？",
+			"duration": "144",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3886732/20170401123125727.jpg",
+			"name": "胡可03花絮20170404",
+			"title": "未播：小鱼儿竟迷上化妆？",
+			"type": "4",
+			"vid": "00000001000000000001000000138252",
+			"videoIndex": "41"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "81"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "未播：安吉拒吃早餐秒变委屈小媳妇",
+			"duration": "81",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3886735/20170401113547663.jpg",
+			"name": "胡可05花絮20170404",
+			"title": "未播：安吉拒吃早餐秒变委屈小媳妇",
+			"type": "4",
+			"vid": "00000001000000000001000000138250",
+			"videoIndex": "43"
+		}, {
+			"cid": "00000001000000000001000000112017",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "50"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": ""
+			},
+			"desc": "未播：小鱼儿为抢扫把被安吉胖揍",
+			"duration": "50",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2017/zongyi/312733/3886795/20170401160237088.jpg",
+			"name": "胡可07花絮20170404",
+			"title": "未播：小鱼儿为抢扫把被安吉胖揍",
+			"type": "4",
+			"vid": "00000001000000000001000000138248",
+			"videoIndex": "45"
+		}]
+	}
+}

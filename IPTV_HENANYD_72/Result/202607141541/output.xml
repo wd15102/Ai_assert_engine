@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.9.13 on win32)" generated="2026-07-14T15:41:47.312210" rpa="false" schemaversion="5">
+<suite id="s1" name="DP_AutoTest" source="D:\WorkCode\DP\DP_AutoTest\IPTV_HENANYD_72\测试用例\功能测试\01_首页模板功能\测试.robot">
+<kw name="启动应用" owner="公共方法" type="SETUP">
+<kw name="Register Keyword To Run On Failure" owner="AppiumLibrary">
+<msg time="2026-07-14T15:41:47.529759" level="INFO">Nothing will be run on failure.</msg>
+<arg>Nothing</arg>
+<doc>Sets the keyword to be executed when an AppiumLibrary keyword fails.</doc>
+<status status="PASS" start="2026-07-14T15:41:47.525760" elapsed="0.003999"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${reconnet}==1</arg>
+<arg>重新连接设备</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:41:47.529759" elapsed="0.000000"/>
+</kw>
+<kw name="解除网络限速" owner="专项测试">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:41:47.530762" level="INFO">${adb_net_command1} = tc qdisc del dev eth0 root;tc class del dev eth0 root</msg>
+<var>${adb_net_command1}</var>
+<arg>tc qdisc del dev eth0 root;tc class del dev eth0 root</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:41:47.530762" elapsed="0.000000"/>
+</kw>
+<kw name="Adb Shell Command" owner="android_common">
+<msg time="2026-07-14T15:41:48.019281" level="INFO">RTNETLINK answers: No such file or directory
+RTNETLINK answers: No such file or directory</msg>
+<msg time="2026-07-14T15:41:48.019281" level="INFO">${info1} = (b'', b'RTNETLINK answers: No such file or directory\r\nRTNETLINK answers: No such file or directory\r\n')</msg>
+<var>${info1}</var>
+<arg>${adb_net_command1}</arg>
+<status status="PASS" start="2026-07-14T15:41:47.530762" elapsed="0.488519"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>关闭限速</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:41:48.019281" elapsed="0.001334"/>
+</kw>
+<kw name="等待" owner="公共方法">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:41:53.022375" level="INFO">Slept 5 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:41:48.020615" elapsed="5.001760"/>
+</kw>
+<arg>${time}</arg>
+<status status="PASS" start="2026-07-14T15:41:48.020615" elapsed="5.001760"/>
+</kw>
+<doc>网络限速配置</doc>
+<status status="PASS" start="2026-07-14T15:41:47.529759" elapsed="5.492616"/>
+</kw>
+<for flavor="IN RANGE">
+<iter>
+<kw name="清除历史上报数据" owner="公共方法">
+<kw name="Delete Data" owner="TestLibrary">
+<arg>${platform}</arg>
+<status status="PASS" start="2026-07-14T15:41:53.022375" elapsed="0.018000"/>
+</kw>
+<doc>清除历史上报的数据</doc>
+<status status="PASS" start="2026-07-14T15:41:53.022375" elapsed="0.018000"/>
+</kw>
+<kw name="清除设备缓存" owner="公共方法">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:41:53.041375" level="INFO">${adb_clear_sync} = adb shell sync</msg>
+<var>${adb_clear_sync}</var>
+<arg>adb shell sync</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:41:53.040375" elapsed="0.001000"/>
+</kw>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:41:53.041375" level="INFO">${adb_clear_cache} = adb shell "echo 3 &gt; /proc/sys/vm/drop_caches"</msg>
+<var>${adb_clear_cache}</var>
+<arg>adb shell "echo 3 &gt; /proc/sys/vm/drop_caches"</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:41:53.041375" elapsed="0.000000"/>
+</kw>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:41:53.042375" level="INFO">${adb_pm_clear} = adb shell pm clear com.huawei.tvbox</msg>
+<var>${adb_pm_clear}</var>
+<arg>adb shell pm clear ${app_package}</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:41:53.041375" elapsed="0.001000"/>
+</kw>
+<kw name="Cmd Command" owner="android_common">
+<msg time="2026-07-14T15:41:53.259320" level="INFO">${info0} = </msg>
+<var>${info0}</var>
+<arg>${adb_clear_sync}</arg>
+<status status="PASS" start="2026-07-14T15:41:53.042375" elapsed="0.216945"/>
+</kw>
+<kw name="Cmd Command" owner="android_common">
+<msg time="2026-07-14T15:41:53.727684" level="INFO">${info1} = </msg>
+<var>${info1}</var>
+<arg>${adb_clear_cache}</arg>
+<status status="PASS" start="2026-07-14T15:41:53.259320" elapsed="0.468364"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Cmd Command" owner="android_common">
+<arg>${adb_pm_clear}</arg>
+<status status="PASS" start="2026-07-14T15:41:53.728668" elapsed="0.535949"/>
+</kw>
+<msg time="2026-07-14T15:41:54.264617" level="INFO">${info2} = Success
+</msg>
+<var>${info2}</var>
+<arg>${plugin_apk}==0 and ${hotup_apk}==0</arg>
+<arg>cmd command</arg>
+<arg>${adb_pm_clear}</arg>
+<arg>ELSE</arg>
+<arg>log to console</arg>
+<arg>不清空缓存</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:41:53.727684" elapsed="0.536933"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>不强制重启应用</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:41:54.265617" elapsed="0.000000"/>
+</kw>
+<arg>${force_reboot}!=0</arg>
+<arg>强制重启应用</arg>
+<arg>ELSE</arg>
+<arg>log to console</arg>
+<arg>不强制重启应用</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:41:54.265617" elapsed="0.000000"/>
+</kw>
+<doc>清除设备缓存</doc>
+<status status="PASS" start="2026-07-14T15:41:53.040375" elapsed="1.226242"/>
+</kw>
+<kw name="等待" owner="公共方法">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:42:09.268590" level="INFO">Slept 15 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:41:54.266617" elapsed="15.001973"/>
+</kw>
+<arg>15</arg>
+<status status="PASS" start="2026-07-14T15:41:54.266617" elapsed="15.001973"/>
+</kw>
+<kw name="Open Application" owner="AppiumLibrary">
+<arg>http://${appium_server}/wd/hub</arg>
+<arg>deviceName=${device_id}</arg>
+<arg>platformName=Android</arg>
+<arg>platformVersion=${platform_version}</arg>
+<arg>appPackage=${appPackage}</arg>
+<arg>noReset=true appActivity=${appActivity} appWaitActivity=${appActivity}</arg>
+<arg>newCommandTimeout=1200</arg>
+<arg>automationName=${automationName}</arg>
+<arg>unicodeKeyboard=false</arg>
+<arg>resetKeyboard=false</arg>
+<arg>noReset=${noReset}</arg>
+<doc>Opens a new application to the given Appium server.
+Capabilities of appium server, Android and iOS,
+Please check https://appium.io/docs/en/2.19/guides/caps/
+| *Option*            | *Man.* | *Description*     |
+| remote_url          | Yes    | Appium server url |
+| alias               | No     | alias             |</doc>
+<status status="PASS" start="2026-07-14T15:42:09.268590" elapsed="16.398206"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${zhengqi_apk}!=0</arg>
+<arg>home键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:42:25.667788" elapsed="0.000000"/>
+</kw>
+<kw name="home键" owner="遥控按键">
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Press Keycode" owner="AppiumLibrary">
+<arg>3</arg>
+<doc>Sends a press of ``keycode`` to the device.</doc>
+<status status="PASS" start="2026-07-14T15:42:25.667788" elapsed="0.139629"/>
+</kw>
+<arg>Press Keycode</arg>
+<arg>3</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:42:25.667788" elapsed="0.139629"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:42:27.814424" level="INFO">Slept 2 seconds.</msg>
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:42:25.807417" elapsed="2.007007"/>
+</kw>
+<status status="PASS" start="2026-07-14T15:42:25.667788" elapsed="2.146636"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>按了home键</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:42:27.814424" elapsed="0.001005"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${zhengqi_apk}!=0</arg>
+<arg>从政企进入首页</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:42:27.815429" elapsed="0.000000"/>
+</kw>
+<kw name="检查是否进入首页并关闭广告" owner="公共方法">
+<kw name="Run Keyword And Ignore Error" owner="BuiltIn">
+<kw name="等待文本出现" owner="等待相关">
+<kw name="Wait Until Page Contains" owner="AppiumLibrary">
+<msg time="2026-07-14T15:42:55.549614" level="FAIL">Text '预约节目上线提醒' did not appear in 20 seconds</msg>
+<arg>${text}</arg>
+<arg>${time}</arg>
+<doc>Waits until the ``text`` appears on the current page.</doc>
+<status status="FAIL" start="2026-07-14T15:42:27.815429" elapsed="27.734185">Text '预约节目上线提醒' did not appear in 20 seconds</status>
+</kw>
+<arg>预约节目上线提醒</arg>
+<doc>判断页面中文字是否出现</doc>
+<status status="FAIL" start="2026-07-14T15:42:27.815429" elapsed="27.734185">Text '预约节目上线提醒' did not appear in 20 seconds</status>
+</kw>
+<arg>等待文本出现</arg>
+<arg>预约节目上线提醒</arg>
+<doc>Runs the given keyword with the given arguments and ignores possible error.</doc>
+<status status="PASS" start="2026-07-14T15:42:27.815429" elapsed="27.734185"/>
+</kw>
+<for flavor="IN RANGE">
+<iter>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:06.584811" level="FAIL">Text '预约节目上线提醒' did not appear in 2 seconds</msg>
+<arg>预约节目上线提醒</arg>
+<arg>2</arg>
+<doc>Waits until the ``text`` appears on the current page.</doc>
+<status status="FAIL" start="2026-07-14T15:42:55.550614" elapsed="11.034197">Text '预约节目上线提醒' did not appear in 2 seconds</status>
+</kw>
+<msg time="2026-07-14T15:43:06.585804" level="INFO">${statusValue1} = False</msg>
+<var>${statusValue1}</var>
+<arg>wait until page contains</arg>
+<arg>预约节目上线提醒</arg>
+<arg>2</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:42:55.549614" elapsed="11.036190"/>
+</kw>
+<kw name="Exit For Loop If" owner="BuiltIn">
+<msg time="2026-07-14T15:43:06.585804" level="INFO">Exiting for loop altogether.</msg>
+<arg>${statusValue1}==False</arg>
+<doc>Stops executing the enclosing FOR loop if the ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:06.585804" elapsed="0.000000"/>
+</kw>
+<kw name="按次数返回" owner="公共方法">
+<arg>1</arg>
+<arg>0</arg>
+<status status="NOT RUN" start="2026-07-14T15:43:06.586811" elapsed="0.000000"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:42:55.549614" elapsed="11.037197"/>
+</iter>
+<var>${i}</var>
+<value>5</value>
+<status status="PASS" start="2026-07-14T15:42:55.549614" elapsed="11.037197"/>
+</for>
+<for flavor="IN RANGE">
+<iter>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:17.040635" level="INFO">criteria is com.huawei.tvbox:id/top_menu_view</msg>
+<arg>${首页logo}</arg>
+<arg>2</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:06.586811" elapsed="10.453824"/>
+</kw>
+<msg time="2026-07-14T15:43:17.040635" level="INFO">${statusValue} = True</msg>
+<var>${statusValue}</var>
+<arg>wait until page contains element</arg>
+<arg>${首页logo}</arg>
+<arg>2</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:06.586811" elapsed="10.453824"/>
+</kw>
+<kw name="Exit For Loop If" owner="BuiltIn">
+<msg time="2026-07-14T15:43:17.040635" level="INFO">Exiting for loop altogether.</msg>
+<arg>${statusValue}</arg>
+<doc>Stops executing the enclosing FOR loop if the ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:17.040635" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${plugin_apk}!=0</arg>
+<arg>等待</arg>
+<arg>10</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="NOT RUN" start="2026-07-14T15:43:17.041641" elapsed="0.000000"/>
+</kw>
+<kw name="Go Back" owner="AppiumLibrary">
+<doc>Goes one step backward in the browser history.</doc>
+<status status="NOT RUN" start="2026-07-14T15:43:17.041641" elapsed="0.000000"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:43:06.586811" elapsed="10.454830"/>
+</iter>
+<var>${i}</var>
+<value>20</value>
+<status status="PASS" start="2026-07-14T15:43:06.586811" elapsed="10.454830"/>
+</for>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${plugin_apk}!=0 or ${hotup_apk}!=0</arg>
+<arg>判断是否在其他模式下</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:17.041641" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:27.887305" level="FAIL">Text '按返回关闭广告' did not appear in 2 seconds</msg>
+<arg>按返回关闭广告</arg>
+<arg>2</arg>
+<doc>Waits until the ``text`` appears on the current page.</doc>
+<status status="FAIL" start="2026-07-14T15:43:17.042634" elapsed="10.845671">Text '按返回关闭广告' did not appear in 2 seconds</status>
+</kw>
+<msg time="2026-07-14T15:43:27.888305" level="INFO">${statusValue1} = False</msg>
+<var>${statusValue1}</var>
+<arg>wait until page contains</arg>
+<arg>按返回关闭广告</arg>
+<arg>2</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:17.041641" elapsed="10.846664"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${statusValue1}</arg>
+<arg>返回键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:27.888305" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains" owner="AppiumLibrary">
+<arg>关闭</arg>
+<arg>2</arg>
+<doc>Waits until the ``text`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:27.888305" elapsed="10.984727"/>
+</kw>
+<msg time="2026-07-14T15:43:38.873032" level="INFO">${statusValue2} = True</msg>
+<var>${statusValue2}</var>
+<arg>wait until page contains</arg>
+<arg>关闭</arg>
+<arg>2</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:27.888305" elapsed="10.984727"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="返回键" owner="遥控按键">
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Press Keycode" owner="AppiumLibrary">
+<arg>4</arg>
+<doc>Sends a press of ``keycode`` to the device.</doc>
+<status status="PASS" start="2026-07-14T15:43:38.874037" elapsed="10.273044"/>
+</kw>
+<arg>Press keycode</arg>
+<arg>4</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:38.874037" elapsed="10.273044"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:43:51.156993" level="INFO">Slept 2 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:43:49.147081" elapsed="2.009912"/>
+</kw>
+<status status="PASS" start="2026-07-14T15:43:38.874037" elapsed="12.282956"/>
+</kw>
+<arg>${statusValue2}</arg>
+<arg>返回键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:38.873032" elapsed="12.283961"/>
+</kw>
+<status status="PASS" start="2026-07-14T15:42:27.815429" elapsed="83.341564"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="等待页面出现内容描述信息" owner="系统方法">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:43:51.158994" level="INFO">${locator} = //*[@content-desc='少儿频道']</msg>
+<var>${locator}</var>
+<arg>//*[@content-desc='${content-desc}']</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:43:51.157998" elapsed="0.000996"/>
+</kw>
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:53.473764" level="INFO">xpath criteria: //*[@content-desc='少儿频道']</msg>
+<arg>${locator}</arg>
+<arg>${timeout}</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:51.158994" elapsed="2.314770"/>
+</kw>
+<arg>少儿频道</arg>
+<arg>1</arg>
+<status status="PASS" start="2026-07-14T15:43:51.157998" elapsed="2.315766"/>
+</kw>
+<msg time="2026-07-14T15:43:53.473764" level="INFO">${statusValue1} = True</msg>
+<var>${statusValue1}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>少儿频道</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:51.156993" elapsed="2.316771"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="等待页面出现内容描述信息" owner="系统方法">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:43:53.474760" level="INFO">${locator} = //*[@content-desc='电竞']</msg>
+<var>${locator}</var>
+<arg>//*[@content-desc='${content-desc}']</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.474760" elapsed="0.000000"/>
+</kw>
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:53.979778" level="INFO">xpath criteria: //*[@content-desc='电竞']</msg>
+<arg>${locator}</arg>
+<arg>${timeout}</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.474760" elapsed="0.505018"/>
+</kw>
+<arg>电竞</arg>
+<arg>1</arg>
+<status status="PASS" start="2026-07-14T15:43:53.474760" elapsed="0.505018"/>
+</kw>
+<msg time="2026-07-14T15:43:53.979778" level="INFO">${statusValue2} = True</msg>
+<var>${statusValue2}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>电竞</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.473764" elapsed="0.506014"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="等待页面出现内容描述信息" owner="系统方法">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:43:53.980799" level="INFO">${locator} = //*[@content-desc='二级菜单']</msg>
+<var>${locator}</var>
+<arg>//*[@content-desc='${content-desc}']</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.980799" elapsed="0.000000"/>
+</kw>
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:54.547629" level="INFO">xpath criteria: //*[@content-desc='二级菜单']</msg>
+<arg>${locator}</arg>
+<arg>${timeout}</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.980799" elapsed="0.566830"/>
+</kw>
+<arg>二级菜单</arg>
+<arg>1</arg>
+<status status="PASS" start="2026-07-14T15:43:53.980799" elapsed="0.566830"/>
+</kw>
+<msg time="2026-07-14T15:43:54.547629" level="INFO">${statusValue3} = True</msg>
+<var>${statusValue3}</var>
+<arg>等待页面出现内容描述信息</arg>
+<arg>二级菜单</arg>
+<arg>1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:53.979778" elapsed="0.567851"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Exit For Loop" owner="BuiltIn">
+<msg time="2026-07-14T15:43:54.548633" level="INFO">Exiting for loop altogether.</msg>
+<doc>Stops executing the enclosing FOR loop.</doc>
+<status status="PASS" start="2026-07-14T15:43:54.547629" elapsed="0.001004"/>
+</kw>
+<arg>${statusValue1}==True and ${statusValue2}==True and ${statusValue3}==True</arg>
+<arg>exit for loop</arg>
+<arg>ELSE</arg>
+<arg>Run Keywords</arg>
+<arg>log to console</arg>
+<arg>启动异常，重新启动</arg>
+<arg>AND</arg>
+<arg>设置本地映射</arg>
+<arg>enable</arg>
+<arg>AND</arg>
+<arg>退出应用</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:54.547629" elapsed="0.001004"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:41:53.022375" elapsed="121.526258"/>
+</iter>
+<var>${i}</var>
+<value>3</value>
+<status status="PASS" start="2026-07-14T15:41:53.022375" elapsed="121.526258"/>
+</for>
+<doc>盒端启用应用程序</doc>
+<status status="PASS" start="2026-07-14T15:41:47.524755" elapsed="127.023878"/>
+</kw>
+<test id="s1-t1" name=" case_005 新直播居中模板页面检查" line="14">
+<kw name="按次数返回" owner="公共方法">
+<for flavor="IN RANGE">
+<iter>
+<kw name="返回键" owner="遥控按键">
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Press Keycode" owner="AppiumLibrary">
+<arg>4</arg>
+<doc>Sends a press of ``keycode`` to the device.</doc>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="0.112839"/>
+</kw>
+<arg>Press keycode</arg>
+<arg>4</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="0.113843"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:43:56.664041" level="INFO">Slept 2 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:43:54.663477" elapsed="2.000564"/>
+</kw>
+<arg>${sec}</arg>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="2.114407"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="2.114407"/>
+</iter>
+<var>${i}</var>
+<value>${num}</value>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="2.114407"/>
+</for>
+<arg>1</arg>
+<status status="PASS" start="2026-07-14T15:43:54.549634" elapsed="2.114407"/>
+</kw>
+<kw name="返回首页" owner="公共方法">
+<kw name="Run Keyword If" owner="BuiltIn">
+<arg>${zhengqi_apk}!=0</arg>
+<arg>Run Keywords</arg>
+<arg>菜单键</arg>
+<arg>AND</arg>
+<arg>确认键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.664041" elapsed="0.001017"/>
+</kw>
+<for flavor="IN RANGE">
+<iter>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:43:56.882836" level="INFO">criteria is com.huawei.tvbox:id/top_menu_view</msg>
+<arg>${首页logo}</arg>
+<arg>3</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.665058" elapsed="0.217778"/>
+</kw>
+<msg time="2026-07-14T15:43:56.882836" level="INFO">${statusValue} = True</msg>
+<var>${statusValue}</var>
+<arg>wait until page contains element</arg>
+<arg>${首页logo}</arg>
+<arg>3</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.665058" elapsed="0.217778"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Exit For Loop" owner="BuiltIn">
+<msg time="2026-07-14T15:43:56.883868" level="INFO">Exiting for loop altogether.</msg>
+<doc>Stops executing the enclosing FOR loop.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.883868" elapsed="0.000000"/>
+</kw>
+<arg>${statusValue}</arg>
+<arg>exit for loop</arg>
+<arg>ELSE</arg>
+<arg>返回键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.882836" elapsed="0.001032"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:43:56.665058" elapsed="0.218810"/>
+</iter>
+<var>${i}</var>
+<value>5</value>
+<status status="PASS" start="2026-07-14T15:43:56.665058" elapsed="0.218810"/>
+</for>
+<kw name="等待" owner="公共方法">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:44:01.889558" level="INFO">Slept 5 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:43:56.883868" elapsed="5.005690"/>
+</kw>
+<arg>5</arg>
+<status status="PASS" start="2026-07-14T15:43:56.883868" elapsed="5.005690"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:44:02.114373" level="INFO">criteria is com.huawei.tvbox:id/top_menu_view</msg>
+<arg>${首页logo}</arg>
+<arg>3</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:44:01.890570" elapsed="0.223803"/>
+</kw>
+<msg time="2026-07-14T15:44:02.114373" level="INFO">${statusValue1} = True</msg>
+<var>${statusValue1}</var>
+<arg>wait until page contains element</arg>
+<arg>${首页logo}</arg>
+<arg>3</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:44:01.889558" elapsed="0.224815"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>已返回首页</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:44:02.115378" elapsed="0.000000"/>
+</kw>
+<arg>${statusValue1}==False</arg>
+<arg>Run Keywords</arg>
+<arg>菜单键</arg>
+<arg>AND</arg>
+<arg>确认键</arg>
+<arg>AND</arg>
+<arg>返回精选页</arg>
+<arg>ELSE</arg>
+<arg>log to console</arg>
+<arg>已返回首页</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:44:02.114373" elapsed="0.001005"/>
+</kw>
+<kw name="循环判断顶部图片是否消失" owner="首页">
+<for flavor="IN RANGE">
+<iter>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:44:04.836775" level="INFO">xpath criteria: //*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView
+xpath criteria: //*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView
+xpath criteria: //*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView
+xpath criteria: //*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView</msg>
+<msg time="2026-07-14T15:44:04.836775" level="FAIL">Element '//*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView' did not appear in 2 seconds</msg>
+<arg>${顶部通栏}</arg>
+<arg>2</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="FAIL" start="2026-07-14T15:44:02.116381" elapsed="2.720394">Element '//*[@resource-id="com.huawei.tvbox:id/fashion_channels"]/../android.widget.ImageView' did not appear in 2 seconds</status>
+</kw>
+<msg time="2026-07-14T15:44:04.836775" level="INFO">${status} = False</msg>
+<var>${status}</var>
+<arg>wait until page contains element</arg>
+<arg>${顶部通栏}</arg>
+<arg>2</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:44:02.115378" elapsed="2.721397"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Exit For Loop" owner="BuiltIn">
+<msg time="2026-07-14T15:44:04.837780" level="INFO">Exiting for loop altogether.</msg>
+<doc>Stops executing the enclosing FOR loop.</doc>
+<status status="PASS" start="2026-07-14T15:44:04.837780" elapsed="0.000000"/>
+</kw>
+<arg>${status}==False</arg>
+<arg>exit for loop</arg>
+<arg>ELSE</arg>
+<arg>等待</arg>
+<arg>${time}</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:44:04.837780" elapsed="0.000000"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:44:02.115378" elapsed="2.722402"/>
+</iter>
+<var>${i}</var>
+<value>20</value>
+<status status="PASS" start="2026-07-14T15:44:02.115378" elapsed="2.722402"/>
+</for>
+<status status="PASS" start="2026-07-14T15:44:02.115378" elapsed="2.722402"/>
+</kw>
+<doc>返回到APP首,失败的情况才返回到精选</doc>
+<status status="PASS" start="2026-07-14T15:43:56.664041" elapsed="8.173739"/>
+</kw>
+<kw name="返回精选页" owner="公共方法">
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="home键" owner="遥控按键">
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Press Keycode" owner="AppiumLibrary">
+<arg>3</arg>
+<doc>Sends a press of ``keycode`` to the device.</doc>
+<status status="PASS" start="2026-07-14T15:44:04.838799" elapsed="0.186683"/>
+</kw>
+<arg>Press Keycode</arg>
+<arg>3</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:44:04.838799" elapsed="0.186683"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:44:07.039586" level="INFO">Slept 2 seconds.</msg>
+<arg>2</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:44:05.025482" elapsed="2.014104"/>
+</kw>
+<status status="PASS" start="2026-07-14T15:44:04.838799" elapsed="2.200787"/>
+</kw>
+<arg>${zhengqi_apk}==0</arg>
+<arg>home键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:44:04.838799" elapsed="2.200787"/>
+</kw>
+<for flavor="IN RANGE">
+<iter>
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:44:07.039586" level="INFO">${locator} = //*[@focused="true" and @focusable="true" and @content-desc="精选"]</msg>
+<var>${locator}</var>
+<arg>//*[@focused="true" and @focusable="true" and @content-desc="精选"]</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.039586" elapsed="0.000000"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Wait Until Page Contains Element" owner="AppiumLibrary">
+<msg time="2026-07-14T15:44:07.749470" level="INFO">xpath criteria: //*[@focused="true" and @focusable="true" and @content-desc="精选"]</msg>
+<arg>${locator}</arg>
+<doc>Waits until the element specified by the ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.040865" elapsed="0.708605"/>
+</kw>
+<msg time="2026-07-14T15:44:07.749470" level="INFO">${statusValue} = True</msg>
+<var>${statusValue}</var>
+<arg>wait until page contains element</arg>
+<arg>${locator}</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.040865" elapsed="0.708605"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Exit For Loop" owner="BuiltIn">
+<msg time="2026-07-14T15:44:07.750470" level="INFO">Exiting for loop altogether.</msg>
+<doc>Stops executing the enclosing FOR loop.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.750470" elapsed="0.000000"/>
+</kw>
+<arg>${statusValue}</arg>
+<arg>exit for loop</arg>
+<arg>ELSE</arg>
+<arg>返回键</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.749470" elapsed="0.001000"/>
+</kw>
+<var name="${i}">0</var>
+<status status="PASS" start="2026-07-14T15:44:07.039586" elapsed="0.710884"/>
+</iter>
+<var>${i}</var>
+<value>5</value>
+<status status="PASS" start="2026-07-14T15:44:07.039586" elapsed="0.710884"/>
+</for>
+<kw name="等待频道内容出现" owner="首页">
+<msg time="2026-07-14T15:44:07.753464" level="FAIL">Variable '${选片大师内容}' not found.</msg>
+<arg>${内容框}</arg>
+<arg>${选片大师内容}</arg>
+<doc>等待元素加载出现</doc>
+<status status="FAIL" start="2026-07-14T15:44:07.750470" elapsed="0.002994">Variable '${选片大师内容}' not found.</status>
+</kw>
+<status status="FAIL" start="2026-07-14T15:44:04.837780" elapsed="2.915684">Variable '${选片大师内容}' not found.</status>
+</kw>
+<kw name="返回首页" owner="公共方法">
+<doc>返回到APP首,失败的情况才返回到精选</doc>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<kw name="切换频道" owner="首页">
+<arg>直播</arg>
+<doc>根据频道名称切换频道并等待频道内容加载完毕</doc>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<kw name="等待页面出现元素信息" owner="系统方法">
+<arg>${直播小窗播放器}</arg>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<kw name="等待页面出现元素信息" owner="系统方法">
+<arg>${直播小窗口正在播放的节目}</arg>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<kw name="按次数下移" owner="公共方法">
+<arg>2</arg>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<kw name="等待页面出现元素信息" owner="系统方法">
+<arg>${回看}</arg>
+<status status="NOT RUN" start="2026-07-14T15:44:07.753464" elapsed="0.000000"/>
+</kw>
+<doc>首页通栏模板-新直播居中模板  common_live_mid2_template</doc>
+<tag>smoke</tag>
+<status status="FAIL" start="2026-07-14T15:43:54.548633" elapsed="13.205832">Variable '${选片大师内容}' not found.</status>
+</test>
+<kw name="退出应用" owner="公共方法" type="TEARDOWN">
+<kw name="解除网络限速" owner="专项测试">
+<kw name="Set Variable" owner="BuiltIn">
+<msg time="2026-07-14T15:44:07.754465" level="INFO">${adb_net_command1} = tc qdisc del dev eth0 root;tc class del dev eth0 root</msg>
+<var>${adb_net_command1}</var>
+<arg>tc qdisc del dev eth0 root;tc class del dev eth0 root</arg>
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.754465" elapsed="0.000000"/>
+</kw>
+<kw name="Adb Shell Command" owner="android_common">
+<msg time="2026-07-14T15:44:07.886163" level="INFO">RTNETLINK answers: No such file or directory
+RTNETLINK answers: No such file or directory</msg>
+<msg time="2026-07-14T15:44:07.887157" level="INFO">${info1} = (b'', b'RTNETLINK answers: No such file or directory\r\nRTNETLINK answers: No such file or directory\r\n')</msg>
+<var>${info1}</var>
+<arg>${adb_net_command1}</arg>
+<status status="PASS" start="2026-07-14T15:44:07.754465" elapsed="0.132692"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>关闭限速</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.887157" elapsed="0.000000"/>
+</kw>
+<kw name="等待" owner="公共方法">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-07-14T15:44:12.887848" level="INFO">Slept 5 seconds.</msg>
+<arg>${sec}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-07-14T15:44:07.887157" elapsed="5.000691"/>
+</kw>
+<arg>${time}</arg>
+<status status="PASS" start="2026-07-14T15:44:07.887157" elapsed="5.000691"/>
+</kw>
+<doc>网络限速配置</doc>
+<status status="PASS" start="2026-07-14T15:44:07.754465" elapsed="5.133383"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Close Application" owner="AppiumLibrary">
+<doc>Closes the current application and the webdriver session.</doc>
+<status status="PASS" start="2026-07-14T15:44:12.887848" elapsed="0.942528"/>
+</kw>
+<msg time="2026-07-14T15:44:13.830376" level="INFO">${status_value} = True</msg>
+<var>${status_value}</var>
+<arg>Close Application</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-07-14T15:44:12.887848" elapsed="0.942528"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-07-14T15:44:13.830376" level="INFO">应用关闭成功</msg>
+<arg>应用关闭成功</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-07-14T15:44:13.830376" elapsed="0.000000"/>
+</kw>
+<arg>${status_value}</arg>
+<arg>log</arg>
+<arg>应用关闭成功</arg>
+<arg>ELSE</arg>
+<arg>log</arg>
+<arg>应用关闭失败</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-07-14T15:44:13.830376" elapsed="0.000000"/>
+</kw>
+<doc>盒端退出应用程序</doc>
+<status status="PASS" start="2026-07-14T15:44:07.754465" elapsed="6.075911"/>
+</kw>
+<doc>Suite description</doc>
+<status status="FAIL" start="2026-07-14T15:41:47.313210" elapsed="146.518168"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">smoke</stat>
+</tag>
+<suite>
+<stat name="DP_AutoTest" id="s1" pass="0" fail="1" skip="0">DP_AutoTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,38 @@
+{
+	"times": 1609123700311,
+	"ad": [{
+		"aid": 6000000,
+		"creative": [{
+			"duration": 15,
+			"err": "http://192.168.168.71:6600/err?_serverid=215118194&adid=&adtotal=1&adtype=1&appver=YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release&b=50000&bid=&cc=1156110000&cd=847&ch=&channel=0&ck=&ct=745&cxid=&d=74-8F-1B-6E-60-00&did=&dtype=103&from=yg&grade=B&hid=0&id=X-lHdF-wVXbTSgOl&idfa=&imei=&ip=10.2.219.223&iscontinue=0&isintact=0&isshort=0&mac=F35193459A23AB315A018FFF6D83BFAA&mn=M301A_UM9_HUNAN&mt=0&net=0&o=2020031301&os=3&osver=4.4.2&postion=0&rch=&rdc=&s=6000000&sdkver=&sid=&sts=1609123700&t=10000&tags=sdk&tn=1&type=5&udid=&uname=&v=0&video_len=0&errc=[ERRORCODE]&errm=[ERRORMSG]&erru=[ERRORURL]&st=[STATUS]&ct_use=[CT_USE]&ct_index=[CT_INDEX]&ct_index=0",
+			"impression": ["http://192.168.168.71:6600/app/impression?_serverid=215118194&adid=&adtotal=1&adtype=1&appver=YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release&b=50000&bid=&cc=1156110000&cd=847&ch=&channel=0&ck=&ct=745&cxid=&d=74-8F-1B-6E-60-00&did=&dtype=103&from=yg&grade=B&hid=0&id=X-lHdF-wVXbTSgOl&idfa=&imei=&ip=10.2.219.223&iscontinue=0&isintact=0&isshort=0&mac=F35193459A23AB315A018FFF6D83BFAA&mn=M301A_UM9_HUNAN&mt=0&net=0&o=2020031301&os=3&osver=4.4.2&postion=0&rch=&rdc=&s=6000000&sdkver=&sid=&sts=1609123700&t=0&tags=sdk&tn=1&type=5&udid=&uname=&v=0&video_len=0&st=[STATUS]&ct_use=[CT_USE]&ct_index=0"],
+			"end": ["http://192.168.168.71:6600/app/complete?_serverid=215118194&adid=&adtotal=1&adtype=1&appver=YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release&b=50000&bid=&cc=1156110000&cd=847&ch=&channel=0&ck=&ct=745&cxid=&d=74-8F-1B-6E-60-00&did=&dtype=103&from=yg&grade=B&hid=0&id=X-lHdF-wVXbTSgOl&idfa=&imei=&ip=10.2.219.223&iscontinue=0&isintact=0&isshort=0&mac=F35193459A23AB315A018FFF6D83BFAA&mn=M301A_UM9_HUNAN&mt=0&net=0&o=2020031301&os=3&osver=4.4.2&postion=0&rch=&rdc=&s=6000000&sdkver=&sid=&sts=1609123700&t=3600&tags=sdk&tn=1&type=5&udid=&uname=&v=0&video_len=0&st=[STATUS]&ct_use=[CT_USE]&ct_index=0"],
+			"adformat": "vr",
+			"click": ["http://192.168.168.71:6600/app/click?_serverid=215118194&adid=&adtotal=1&adtype=1&appver=YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Release&b=50000&bid=&cc=1156110000&cd=847&ch=&channel=0&ck=&ct=745&cxid=&d=74-8F-1B-6E-60-00&did=&dtype=103&from=yg&grade=B&hid=0&id=X-lHdF-wVXbTSgOl&idfa=&imei=&ip=10.2.219.223&iscontinue=0&isintact=0&isshort=0&mac=F35193459A23AB315A018FFF6D83BFAA&mn=M301A_UM9_HUNAN&mt=0&net=0&o=2020031301&os=3&osver=4.4.2&postion=0&rch=&rdc=&s=6000000&sdkver=&sid=&sts=1609123700&t=0&tags=sdk&tn=1&type=5&udid=&uname=&v=0&video_len=0&st=[STATUS]&ct_use=[CT_USE]&cs=[CLICK_STATUS]&ct_index=0"],
+			"mediafiles": [{
+				"w": 0,
+				"h": 0,
+				"type": "",
+				"event": 34,
+				"value": "",
+				"url": "http://100.127.255.135:8089/180000000111/32020081716490728767573193247438/main.m3u8"
+			}],
+			"cid": 745
+		}],
+		"Success": true
+	}],
+	"success": "1",
+	"product_list": [{
+		"auto_buy": 1,
+		"order_url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?productIds=3",
+		"memtext": "开通会员免广告",
+		"price": 59.9,
+		"button_name": "开通会员",
+		"name": "钻石会员",
+		"bag": "zuanshi_bag",
+		"id": 3,
+		"time": 30,
+		"adtext": "广告详情",
+		"portal_ad_text": "按返回键关闭广告"
+	}]
+}

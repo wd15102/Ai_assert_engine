@@ -1,0 +1,46 @@
+{
+	"cost": 0.013500464,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1731552913,
+	"serverTime": 1731552913,
+	"seqId": "0_193289878da_VDvTA4qu",
+	"data": {
+		"playType": "1",
+		"vid": "32023090503270647972158792110312",
+		"ovid": "VRS19150383",
+		"thirdVid": "",
+		"cpId": "1",
+		"files": {
+			"bitrate": "4432",
+			"ftime": "39",
+			"height": "",
+			"url": "http://124.232.231.172:8089/000000000000/b4e2e92ec83c447cb4596f23083965db/index.m3u8",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"definitionName": "超清",
+			"defTypeValue": "超清",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "0",
+		"efid": "",
+		"definition": "3",
+		"result": -1,
+		"isPay": 1,
+		"isPreview": 1,
+		"skipMsg": "购买会员",
+		"skipImg": "http://192.168.168.121:81/picuture/zypt/aaa/pic/202307/1688524721176_ns8gan.png",
+		"skipType": "m_open_web",
+		"skipParams": {
+			"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?spfrom=SV\u0026skuIds=487,420\u0026productIds=487,420"
+		},
+		"previewNum": 6,
+		"wPreviewTips": "试看中，今日还可试看*条短视频",
+		"fPreviewTips": "今日还可试看*条短视频，按【ok】键开通会员",
+		"promoCopy": "每月仅1元",
+		"previewEndTips": "今日试看特权已使用完，请开通会员观看"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"status": "0",
+	"msg": "成功",
+	"data": [{
+		"showName": "跳转收银台-全屏打开WEB页面展示",
+		"imgUrl1": "http://127.0.0.1:80/huiyuantoufang.jpg",
+		"imgUrl2": "http://127.0.0.1:80/huiyuantoufang.jpg",
+		"imgBgUrl": "",
+		"btnText": "",
+		"qrcodeType": 0,
+		"jumpType": "m_open_web",
+		"jumpPara": "{\"action\":\"m_open_web\",\"appCode\":\"\",\"appName\":\"\",\"appPackage\":\"\",\"artistId\":\"\",\"beginTime\":\"\",\"bindInstanceId\":\"\",\"bindInstanceName\":\"\",\"bindTemplateId\":\"\",\"bindTemplateName\":\"\",\"busId\":\"\",\"categoryId\":\"\",\"channelId\":\"\",\"className\":\"\",\"cpId\":\"\",\"downloadUrl\":\"\",\"exInfo\":\"\",\"fullScreen\":\"\",\"isTurnPlay\":\"\",\"md5\":\"\",\"ovid\":\"\",\"programId\":\"\",\"rootCategoryId\":\"\",\"specialId\":\"\",\"starId\":\"\",\"subtopicId\":\"\",\"timeLen\":\"\",\"topicId\":\"\",\"turnplayTimeSwitch\":\"\",\"version\":\"\",\"videoId\":\"\",\"videoIndex\":\"\",\"videoType\":\"\",\"webUrl\":\"http://192.168.168.160:8080/poster/oc/order_product_page.html?productIds=7,44,34,43,130,20,129,35\"}",
+		"abt": "",
+		"extend": "",
+		"place": "19",
+		"taskId": "54",
+		"strategyId": ""
+	}],
+	"traceId": "57655e876d0f4873994a2f901bf762be",
+	"serverTime": 1642581645150
+}

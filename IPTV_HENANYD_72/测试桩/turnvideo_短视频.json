@@ -1,0 +1,23 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613701762,
+	"seqId": "a927a10507ad55a408c435d74b375495",
+	"data": [{
+		"topicId": "18",
+		"pushtype": "5",
+		"videoList": [{
+			"partId": "VRS10013854",
+			"subTopicId": "25",
+			"fdParams": "score:100",
+			"title": "大芒短视频测试推荐1",
+			"upTime": "02-20"
+		}, {
+			"partId": "VRS10013854",
+			"subTopicId": "25",
+			"fdParams": "score:100",
+			"title": "大芒短视频测试推荐2",
+			"upTime": "02-21"
+		}]
+	}]
+}

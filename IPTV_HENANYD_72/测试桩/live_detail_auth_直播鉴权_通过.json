@@ -1,0 +1,10 @@
+{
+	"status": "0000",
+	"err": 0,
+	"msg": {
+		"type": "pass",
+		"authTimestamp": "1608604717162",
+		"playAuthSign": "a220df0057165ceb6f73521f9b83d5b6",
+		"authCode": ""
+	}
+}

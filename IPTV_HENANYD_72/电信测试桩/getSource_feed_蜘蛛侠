@@ -1,0 +1,43 @@
+{
+	"cost": 0.056503466,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647850927,
+	"serverTime": 1647850927,
+	"seqId": "4887575d79b53e111d927839c66a36c7",
+	"data": {
+		"playType": "1",
+		"isPreview": "1",
+		"cid": "00000001000000001012000000056930",
+		"vid": "00000001000000001012000000056929",
+		"ocid": "D00000001201901290945030044699862",
+		"ovid": "E3226332",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4285",
+			"ftime": "6931",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/5d78b7931e662d21943e1c7355254508/acc3e2111b78470486d45928ac49f73a?UserToken=04293820406593735869710804155356\u0026UserName=6830018",
+			"vf": "3",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": -1,
+			"skipLeftTitel": "试看结束，开通会员可观看全片",
+			"skipMsg": "开通会员",
+			"skipType": "m_open_web",
+			"skipParams": {
+				"webUrl": "http://192.168.168.160:8080/poster/oc_test/order_product_page.html?assetId=00000001000000001012000000056930\u0026assetType=0\u0026spfrom=XPDS\u0026productIds="
+			},
+			"isPreview": 1,
+			"st": 0,
+			"pt": 300,
+			"countdown": 65
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

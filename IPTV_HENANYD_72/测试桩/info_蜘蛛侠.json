@@ -1,0 +1,116 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599705804,
+	"seqId": "f35d28f0a255319c818a48881e4aab9f",
+	"data": {
+		"actor": "",
+		"attach": {
+			"default": "3",
+			"displays": [{
+				"name": "3",
+				"type": "4285"
+			}],
+			"force": "3"
+		},
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000001012000000056930\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "00000001000000001012000000056930",
+		"clipTitle": "蜘蛛侠：平行宇宙",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.8分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2018",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "美国",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "动作 ▪ 科幻",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "6931",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201901/29/20190129094720352.jpg",
+		"imgV": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201901/29/20190129094721709.jpg",
+		"importId": "00000001000000001012000000056930",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "6931",
+			"vid": "00000001000000001012000000056929",
+			"watchTime": "60",
+			"tips": "上次观看：{蜘蛛侠：平行宇宙}"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "D00000001201901290945030044699862",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2019-02-27",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": "蜘蛛侠不止一个"
+		},
+		"vid": "00000001000000001012000000056929",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "",
+		"videoTitle": "蜘蛛侠：平行宇宙",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：百视通】,该片讲述了普通高中生迈尔斯·莫拉斯如何师从蜘蛛侠彼得·帕克，成长为新一代超级英雄的故事。影片中迈尔斯和从其它平行宇宙中穿越而来的彼得、女蜘蛛侠格温、暗影蜘蛛侠、潘妮·帕克和蜘猪侠集结成团，六位蜘蛛侠首次同框大银幕，对抗蜘蛛侠宇宙最强反派。",
+		"btns": {
+			"order": {
+				"tips": "立即订购",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=00000001000000001012000000056930\u0026productIds=34,35,43,129,1456,1460\u0026assetType=0\u0026cpid=1\u0026spfrom="
+			}
+		},
+		"cpId": "0",
+		"cpName": "",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "00000001000000001002000000000053",
+		"isFree": "1",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

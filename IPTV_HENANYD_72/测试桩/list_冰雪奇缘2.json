@@ -1,0 +1,31 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1609750476,
+	"seqId": "ad2a3cb0ac9a86375121ae942c81520e",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32020022611163770566104035612157",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "01:39:04"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "冰雪奇缘2 原声版",
+			"duration": "5944",
+			"image": "",
+			"name": "冰雪奇缘2 原声版",
+			"title": "",
+			"type": "1",
+			"vid": "32020022611163887181657513321490",
+			"videoIndex": "1"
+		}]
+	}
+}

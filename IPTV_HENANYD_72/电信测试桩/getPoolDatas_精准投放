@@ -1,0 +1,613 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1611557589,
+	"seqId": "45ac6be0c40f20b3323b4b9899e10060",
+	"data": {
+		"poolList": [
+			{
+				"poolId": "1",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "",
+						"jumpDefaultParam": [
+							{
+								"key": "cp_id",
+								"value": "ZTEORHW"
+							},
+							{
+								"key": "videoType",
+								"value": "0"
+							},
+							{
+								"key": "originalId",
+								"value": "VRS333778"
+							},
+							{
+								"key": "auto_play",
+								"value": "0"
+							},
+							{
+								"key": "rootCategoryId",
+								"value": ""
+							},
+							{
+								"key": "categoryId",
+								"value": ""
+							},
+							{
+								"key": "videoId",
+								"value": "5e17f6c6cc376b049b3f81824f16f69b"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_detail_page",
+						"positionID": "",
+						"sourceID": "1782",
+						"subtitle": "免费电视剧",
+						"title": "精准投放-母亲",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "starId",
+								"value": "f9742eff66914bc5845190d76b0581d5"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_star_detail_page",
+						"positionID": "",
+						"sourceID": "1773",
+						"subtitle": "打开明星2",
+						"title": "wt-自研精投-明星2",
+						"updateInfo": ""
+					}
+				]
+			},
+			{
+				"poolId": "2",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "",
+							"imgPosterSquare": "",
+							"imgPosterTransverse": "",
+							"imgPosterVertical": ""
+						},
+						"introduction": "",
+						"jumpDefaultParam": [
+							{
+								"key": "cp_id",
+								"value": "ZTEORHW"
+							},
+							{
+								"key": "videoType",
+								"value": "2"
+							},
+							{
+								"key": "originalId",
+								"value": "64c70ae26d374a42ab62808c0ffe30ea"
+							},
+							{
+								"key": "videoIndex",
+								"value": "1"
+							},
+							{
+								"key": "beginTime",
+								"value": ""
+							},
+							{
+								"key": "timeLen",
+								"value": ""
+							},
+							{
+								"key": "rootCategoryId",
+								"value": ""
+							},
+							{
+								"key": "categoryId",
+								"value": ""
+							}
+						],
+						"jumpDefaultTypeID": "m_open_player",
+						"positionID": "",
+						"sourceID": "1782",
+						"subtitle": "wt-自研web-打开回看播放器",
+						"title": "wt-自研web-打开回看播放器",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "爱仕达多撒",
+						"jumpDefaultParam": null,
+						"jumpDefaultTypeID": "m_to_top",
+						"positionID": "",
+						"sourceID": "1779",
+						"subtitle": "回到顶部2",
+						"title": "wt-自研精投-回到顶部2",
+						"updateInfo": ""
+					}
+				]
+			},
+			{
+				"poolId": "3",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "爱仕达多撒",
+						"jumpDefaultParam": null,
+						"jumpDefaultTypeID": "m_open_search_page",
+						"positionID": "",
+						"sourceID": "1775",
+						"subtitle": "打开搜索2",
+						"title": "wt-自研精投-搜索2",
+						"updateInfo": ""
+					}
+				]
+			},
+			{
+				"poolId": "4",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "爱仕达多撒",
+						"jumpDefaultParam": null,
+						"jumpDefaultTypeID": "m_open_message_system",
+						"positionID": "",
+						"sourceID": "1777",
+						"subtitle": "打开消息2",
+						"title": "wt-自研精投-消息2",
+						"updateInfo": ""
+					}
+				]
+			},
+			{
+				"poolId": "5",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "appName",
+								"value": "com.vunke.apptvstore"
+							},
+							{
+								"key": "className",
+								"value": ""
+							},
+							{
+								"key": "appPackage",
+								"value": ""
+							},
+							{
+								"key": "version",
+								"value": ""
+							},
+							{
+								"key": "downloadUrl",
+								"value": ""
+							},
+							{
+								"key": "appCode",
+								"value": ""
+							},
+							{
+								"key": "md5",
+								"value": ""
+							},
+							{
+								"key": "exInfo",
+								"value": "{\"appId\":\"777777\",\"outDown\":\"1\",\"defaultPackage\":\"com.vunke.apptvstore\",\"defaultActivity\":\"com.vunke.apptvstore.MainActivity\",\"defaultValue\":\"{\\\"appId\\\":\\\"777777\\\",\\\"outDown\\\":\\\"1\\\",\\\"loadURL\\\":\\\"http://124.232.135.225:8082/AppStoreTV4/service/queryOrderBranchInfo.do?spId=99999999&userIdType=0&url=tiePhone&userId=1334861564826&userToken=08256704762268739836481219215748\\\",\\\"mangoJson\\\":\\\"\\\"}\"}"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_app",
+						"positionID": "",
+						"sourceID": "1769",
+						"subtitle": "打开APP2",
+						"title": "wt-自研精投-打开APP2",
+						"updateInfo": ""
+					}
+				]
+			},
+			{
+				"poolId": "272",
+				"sourceList": [
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "appName",
+								"value": "com.vunke.apptvstore"
+							},
+							{
+								"key": "className",
+								"value": ""
+							},
+							{
+								"key": "appPackage",
+								"value": ""
+							},
+							{
+								"key": "version",
+								"value": ""
+							},
+							{
+								"key": "downloadUrl",
+								"value": ""
+							},
+							{
+								"key": "appCode",
+								"value": ""
+							},
+							{
+								"key": "md5",
+								"value": ""
+							},
+							{
+								"key": "exInfo",
+								"value": "{\"appId\":\"1904121000\",\"outDown\":\"1\",\"mg_action\":\"com.mgtv.view.customizedorschedule.CustomizedOrScheduleActivity\",\"mg_isSchedule\": false,\"mg_index\": -1}"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_app",
+						"positionID": "",
+						"sourceID": "1769",
+						"subtitle": "打开APP2",
+						"title": "wt-自研精投-打开APP2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "categoryId",
+								"value": "598c9241292a0b0907619b433842d72c"
+							},
+							{
+								"key": "rootCategoryId",
+								"value": "Opera"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_asset_category_page",
+						"positionID": "",
+						"sourceID": "1761",
+						"subtitle": "打开栏目2",
+						"title": "wt-自研精投-打开栏目2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "categoryId",
+								"value": "5002"
+							},
+							{
+								"key": "rootCategoryId",
+								"value": ""
+							}
+						],
+						"jumpDefaultTypeID": "m_open_playbill_page",
+						"positionID": "",
+						"sourceID": "1767",
+						"subtitle": "打开回看展示2",
+						"title": "wt-自研精投-回看展示2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "categoryId",
+								"value": "598c9241292a0b0907619b433842d72c"
+							},
+							{
+								"key": "rootCategoryId",
+								"value": "Opera"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_tstv_page",
+						"positionID": "",
+						"sourceID": "1765",
+						"subtitle": "打开直播展示2",
+						"title": "wt-自研精投-直播展示2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "cp_id",
+								"value": "ZTEORHW"
+							},
+							{
+								"key": "videoType",
+								"value": "0"
+							},
+							{
+								"key": "originalId",
+								"value": "D00000001201802081430570032099997"
+							},
+							{
+								"key": "videoIndex",
+								"value": "1"
+							},
+							{
+								"key": "beginTime",
+								"value": ""
+							},
+							{
+								"key": "timeLen",
+								"value": ""
+							},
+							{
+								"key": "rootCategoryId",
+								"value": ""
+							},
+							{
+								"key": "categoryId",
+								"value": ""
+							}
+						],
+						"jumpDefaultTypeID": "m_open_player",
+						"positionID": "",
+						"sourceID": "1763",
+						"subtitle": "打开点播播放器2",
+						"title": "wt-自研精投-打开播放器2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "cp_id",
+								"value": "ZTEORHW"
+							},
+							{
+								"key": "videoType",
+								"value": "0"
+							},
+							{
+								"key": "originalId",
+								"value": "D00000001201802081430570032099997"
+							},
+							{
+								"key": "auto_play",
+								"value": "0"
+							},
+							{
+								"key": "rootCategoryId",
+								"value": ""
+							},
+							{
+								"key": "categoryId",
+								"value": ""
+							}
+						],
+						"jumpDefaultTypeID": "m_open_detail_page",
+						"positionID": "",
+						"sourceID": "1759",
+						"subtitle": "打开视频详情2",
+						"title": "wt-自研web-打开视频详情2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "wt-自研web-星期5",
+						"jumpDefaultParam": [
+							{
+								"key": "webUrl",
+								"value": "http://10.255.0.219/en/zbw/dxorder/index.html"
+							},
+							{
+								"key": "exInfo",
+								"value": ""
+							}
+						],
+						"jumpDefaultTypeID": "m_open_web",
+						"positionID": "",
+						"sourceID": "1732",
+						"subtitle": "wt-自研web-星期5",
+						"title": "wt-自研web-星期5",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "specialId",
+								"value": "5a9e38c13caa30da8670c89a0a617c92"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_special_page",
+						"positionID": "",
+						"sourceID": "1771",
+						"subtitle": "打开专题2",
+						"title": "wt-自研精投-打开专题2",
+						"updateInfo": ""
+					},
+					{
+						"cornerIcon": "",
+						"drmFlag": "0",
+						"imgPosters": {
+							"imgChecked": "http://127.0.0.1:80/shutu1.jpg",
+							"imgFocus": "http://127.0.0.1:80/shutu1.jpg",
+							"imgGif": "",
+							"imgPosterCustom": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterSquare": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterTransverse": "http://127.0.0.1:80/shutu1.jpg",
+							"imgPosterVertical": "http://127.0.0.1:80/shutu1.jpg"
+						},
+						"introduction": "啊实打实大",
+						"jumpDefaultParam": [
+							{
+								"key": "starId",
+								"value": "00000001000000001002000000000958"
+							}
+						],
+						"jumpDefaultTypeID": "m_open_star_detail_page",
+						"positionID": "",
+						"sourceID": "1773",
+						"subtitle": "打开明星2",
+						"title": "wt-自研精投-明星2",
+						"updateInfo": ""
+					}
+				]
+			}
+		]
+	}
+}

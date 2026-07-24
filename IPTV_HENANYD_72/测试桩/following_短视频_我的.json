@@ -1,0 +1,55 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613701762,
+	"seqId": "6467518c16294b7344583bde97627680",
+	"data": {
+		"followType": "1",
+		"tips": "您还没有任何关注|赶紧关注TA，实时获取最新动态",
+		"artists": [{
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"nickName": "产品测试账号",
+			"avatar": "http://127.0.0.1:80/yuantu1.jpg",
+			"introduction": "大家好，欢迎来到我的个人空间",
+			"cornerIcon": "http://127.0.0.1:80/renzhengbiao.jpg",
+			"cornerName": "认证创作者",
+			"source": "",
+			"fansNum": "",
+			"videoNum": "",
+			"fdParams": "score:200^fcate:3"
+		}, {
+			"artistId": "1892406cf4b44322c8e86af18d940dfe",
+			"nickname": "abcdef",
+			"avatar": "http://127.0.0.1:80/yuantu2.jpg",
+			"introduction": "大家好，欢迎来到我的个人空间",
+			"cornerIcon": "http://127.0.0.1:80/renzhengbiao.jpg",
+			"cornerName": "认证创作者",
+			"source": "",
+			"fansNum": "61",
+			"videoNum": "0",
+			"fdParams": "score:200^fcate:3"
+		}, {
+			"artistId": "7356a938579b4069abe5320e636cf95b",
+			"nickname": "我是谁呢能写多少字呢我要试试试试就试试",
+			"avatar": "http://127.0.0.1:80/yuantu3.jpg",
+			"introduction": "我是一个粉刷匠，粉刷本领强",
+			"cornerIcon": "http://127.0.0.1:80/renzhengbiao.jpg",
+			"cornerName": "蓝M角标",
+			"source": "",
+			"fansNum": "37",
+			"videoNum": "0",
+			"fdParams": "score:200^fcate:3"
+		}, {
+			"artistId": "016b9a76ab7648d08967c1a07f6de8c9",
+			"nickname": "232132321",
+			"avatar": "http://127.0.0.1:80/yuantu4.jpg",
+			"introduction": "大家好，欢迎来到我的个人空间",
+			"cornerIcon": "",
+			"cornerName": "",
+			"source": "",
+			"fansNum": "",
+			"videoNum": "",
+			"fdParams": "score:200^fcate:3"
+		}]
+	}
+}

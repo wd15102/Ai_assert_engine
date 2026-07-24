@@ -1,0 +1,19 @@
+{
+	"code": 200,
+	"msg": "",
+	"seqId": "070fa44e1c5f45fba0b7d0bb615b4a94",
+	"data": {
+		"list": [{
+			"id": "067f1d2d2b0c479fa9e07c000e13b8d5",
+			"title": "第二个分类"
+		}, {
+			"id": "0e4c555cd97741fc9e1ed568dde70eb1",
+			"title": "跳转片库"
+		}, {
+			"id": "44217403c0504993a83cb392e05e70ba",
+			"title": "第三个分类"
+		}]
+	},
+	"timestamp": 1611191859,
+	"serverTime": 1611191859
+}

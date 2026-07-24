@@ -1,0 +1,27 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1611214419,
+	"seqId": "b4e604e8f1fc075e866a025336c4dd3b",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000025000000171896",
+		"vid": "00000001000000000025000000171895",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "1025",
+			"ftime": "0",
+			"height": "",
+			"url": "",
+			"vf": "1",
+			"width": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

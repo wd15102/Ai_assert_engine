@@ -1,0 +1,22 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"cost": 0.088656809,
+	"server_time": 1655436940,
+	"serverTime": 1655436940,
+	"seqId": "84546d24d8f467ea8c9ca18754884713",
+	"data": {
+		"cornerName": "认证创作者",
+		"source": "",
+		"photo": "http://127.0.0.1:80/fangtu7.jpg",
+		"isFollowed": 2,
+		"cornerIcon": "http://127.0.0.1:80/renzhengbiao.jpg",
+		"fansNum": "4",
+		"videoNum": "5",
+		"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+		"nickName": "产品测试账号",
+		"introduction": "大家好，欢迎来到我的个人空间",
+		"canFollowing": "1",
+		"isOfficial": "1"
+	}
+}

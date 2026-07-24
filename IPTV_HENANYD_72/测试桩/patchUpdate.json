@@ -1,0 +1,16 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1594710717,
+	"data": {
+		"state": "1",
+		"url": "http://192.168.168.235:6600/picture/apk/patchInfo-YYS.6.2.0.Y3.6.HNYDIPTV.0.0_Pre_Release-20071414.json",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "湖南移动IPTV6.2.0版本热修复",
+		"ver": "湖南移动IPTV6.2.0版本热修复（测试）",
+		"operators": "",
+		"update_time": "2020-07-14 00:00:00",
+		"apkmd5": "111111"
+	}
+}

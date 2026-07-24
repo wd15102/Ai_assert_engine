@@ -1,0 +1,41 @@
+{
+	"cost": 0.005921024,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1648005660,
+	"serverTime": 1648005660,
+	"seqId": "105d6d49c03f2e5b91c51a2c4ea58f91",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000001002000000009649",
+		"vid": "00000001000000001006000000041847",
+		"ocid": "D00000001201803042010390042396312",
+		"ovid": "E2089401",
+		"st": "118",
+		"et": "2594",
+		"files": {
+			"bitrate": "2039",
+			"ftime": "2743",
+			"height": "",
+			"url": "http://192.168.204.121:8080/qzzqskfj_3.mp4?UserToken=26A@tv28182366053124021404122501\u0026UserName=073108098986A@tv",
+			"vf": "2",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": 0,
+			"skipLeftTitel": null,
+			"skipMsg": null,
+			"skipType": null,
+			"skipParams": null,
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": null
+		},
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

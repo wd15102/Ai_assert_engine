@@ -1,0 +1,109 @@
+{
+	"cost": 0.162803796,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1651045715,
+	"serverTime": 1651045715,
+	"seqId": "0_18069fe4d03_YB1QhDok",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32019120218453721714414311973909\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "32019120218453721714414311973909",
+		"clipTitle": "中国机长",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.6分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "剧情 ▪ 灾难",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "6623",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/6/21/dianying/330234/a1fc9f2f22e7f96f773f99c210fe396e.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/12/3/dianying/330234/4c0629a00674c34f93fcbbfd7078e799.jpg",
+		"importId": "32019120218453721714414311973909",
+		"isBook": "1",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "6623",
+			"vid": "32019120218453970205808996412263",
+			"watchTime": "",
+			"tips": "上次观看：中国机长"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "VRS330234",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2019-12-02",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32019120218453970205808996412263",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2019/12/2/dianying/330234/7149408/c9a84fefa2073f89c841b5c2de350f7c.jpg",
+		"videoTitle": "中国机长",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：咪咕视讯】,《中国机长》取材于2018年引发全球关注的川航备降、机组全体人员被授予“中国民航英雄机组”荣誉的真实事件。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019120218453721714414311973909\u0026assetType=0\u0026productIds=7,34,44,43,130,129,20,35"
+			}
+		},
+		"cpId": "0",
+		"cpName": "",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "00000001000000001013000000076912",
+		"isFree": "1",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

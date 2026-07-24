@@ -1,0 +1,40 @@
+{
+	"cost": 0.021563522,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1684309947,
+	"serverTime": 1684309947,
+	"seqId": "c609bad9231f58d63d3bafaaee168050",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000005000000166936",
+		"vid": "10000001000000001007000000232583",
+		"st": "87",
+		"et": "2630",
+		"files": {
+			"bitrate": "4328",
+			"ftime": "2781",
+			"height": "",
+			"url": "http://192.168.204.121:8080/qzzqskfj_40.mp4?UserToken=26A@tv28182366053124021404122501\u0026UserName=073108098986A@tv",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "D00000001201801231815250041299413",
+		"ovid": "VRS4332936",
+		"thirdCid": "",
+		"thirdVid": "",
+		"tencentUserInfo": {
+			"access_token": "iDfjLs4YvZPs3yy8I2gVFHr3EfekoHmZitj9b4dBAvgz6WD61fCc4slUxtOGSvHnCJavsCrf5nLW6FFa7mwrLuqTFhNTSxw2",
+			"vtoken": "0B6FE45ABF53483633B1887188949519",
+			"vuid": "1914641597"
+		}
+	}
+}

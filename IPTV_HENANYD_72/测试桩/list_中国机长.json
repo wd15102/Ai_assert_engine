@@ -1,0 +1,37 @@
+{
+	"cost": 0.019910031,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1651045715,
+	"serverTime": 1651045715,
+	"seqId": "0_18069fe4d03_oc170CGZ",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "1",
+		"rows": [{
+			"cid": "32019120218453721714414311973909",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "01:50:23"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "致敬川航3U8633英雄机组",
+			"duration": "6623",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2019/12/2/dianying/330234/7149408/c9a84fefa2073f89c841b5c2de350f7c.jpg",
+			"name": "中国机长",
+			"title": "致敬川航3U8633英雄机组",
+			"type": "1",
+			"vid": "32019120218453970205808996412263",
+			"videoIndex": "1",
+			"ocid": "VRS330234",
+			"ovid": "VRS7149408",
+			"thirdCid": "",
+			"thirdVid": ""
+		}]
+	}
+}

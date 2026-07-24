@@ -1,0 +1,9 @@
+{
+	"authResult": "0",
+	"playAddress": "http://10.16.13.214:8082/EDS/RedirectPlay/112/live/10000100000000050000000000000137/?UserToken=88A@tv53992324064124101744364241&UserName=073108098986A@tv&",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"videoId": "00000001000000001001000000000041"
+}

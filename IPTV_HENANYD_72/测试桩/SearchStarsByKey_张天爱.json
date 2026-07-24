@@ -1,0 +1,18 @@
+{
+	"result": {
+		"state": "0",
+		"reason": "success"
+	},
+	"countNums": "1",
+	"countPages": "1",
+	"curPage": "1",
+	"searchKey": "",
+	"verFlag": "self_plat",
+	"starList": [{
+		"starId": "ef46b647e3594ca3aa234574b790da8d",
+		"originalId": "ef46b647e3594ca3aa234574b790da8d",
+		"starName": "张天爱",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2021/11/25/202111251612327529987.jpg",
+		"brief": "张天爱，出生于黑龙江，演员。2015年主演古装网剧《太子妃升职记》被大众欢迎，其后主演电影《从你的全世界路过》《武动乾坤》等影视作品。2018年开始参加《勇敢的世界》《哎呀好身材》等节目录制。2021年主演的都市爱情剧《我的漂亮朋友》、现代军旅剧《和平之舟》播出，2022年参与芒果TV《乘风破浪 第三季》节目录制。"
+	}]
+}

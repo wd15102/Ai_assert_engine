@@ -1,0 +1,517 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1602486429,
+	"seqId": "e7a1abfce4b7bbee6e2dea185b471bc6",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "28",
+		"rows": [{
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "1",
+			"duration": "2680",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/1/dianshiju/336818/7610892/dc4b4c1cd9ee47d8939ee50206b59404.jpg",
+			"name": "闺蜜决 第1集",
+			"title": "连依兰上岗当天遭暗算失业",
+			"type": "1",
+			"vid": "32020030217021665254129429878086",
+			"videoIndex": "1"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "2",
+			"duration": "2685",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/1/dianshiju/336818/7631971/05cedb447bd04dd6a7af8e7325104d71.jpg",
+			"name": "闺蜜决 第2集",
+			"title": "连依兰救唐丹枫",
+			"type": "1",
+			"vid": "32020030217015653611068148497644",
+			"videoIndex": "2"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "3",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/2/dianshiju/336818/7637414/e2bb9271a6d34e178685e8088b504f80.jpg",
+			"name": "闺蜜决 第3集",
+			"title": "连依兰误把唐丹枫当小偷",
+			"type": "1",
+			"vid": "32020030217015011968973264905690",
+			"videoIndex": "3"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "4"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "4",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/2/dianshiju/336818/7637421/cafee8e456f34f8d9f8d3b09afc4badf.jpg",
+			"name": "闺蜜决 第4集",
+			"title": "嫱媛找丹枫巧遇连依兰",
+			"type": "1",
+			"vid": "32020030222410232455863230675770",
+			"videoIndex": "4"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "5"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "5",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/3/dianshiju/336818/7645296/1297cc7a38ff4cd1afbf9e3f32e2a3e4.jpg",
+			"name": "闺蜜决 第5集",
+			"title": "陈嫱媛暗中诬陷连依兰偷设计稿",
+			"type": "1",
+			"vid": "32020030402253115077438018776694",
+			"videoIndex": "5"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "6"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "6",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/3/dianshiju/336818/7645300/3be6166fed5e47adba18fb181c7efe4d.jpg",
+			"name": "闺蜜决 第6集",
+			"title": "连依兰重新被录取",
+			"type": "1",
+			"vid": "32020030402253639677631529115716",
+			"videoIndex": "6"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "7"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "7",
+			"duration": "2685",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/4/dianshiju/336818/7648959/a113837415bd4e51a5160ab4af3fa263.jpg",
+			"name": "闺蜜决 第7集",
+			"title": "嫱媛为依兰抱不平",
+			"type": "1",
+			"vid": "32020030423223519674039448249239",
+			"videoIndex": "7"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "8"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "8",
+			"duration": "2685",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/4/dianshiju/336818/7648961/28110275b62046d780eddb8e44303710.jpg",
+			"name": "闺蜜决 第8集",
+			"title": "唐丹枫请陈嫱媛吃饭",
+			"type": "1",
+			"vid": "32020030423223331560955558477461",
+			"videoIndex": "8"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "9",
+			"duration": "2695",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/5/dianshiju/336818/7656778/86387068c2764c1ba2fc1beafc19de44.jpg",
+			"name": "闺蜜决 第9集",
+			"title": "连依兰唐丹枫互生好感",
+			"type": "1",
+			"vid": "32020030700533747725677418538590",
+			"videoIndex": "9"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "10"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "10",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/5/dianshiju/336818/7656779/d2f69a92e62343ea99fc2bab7afec443.jpg",
+			"name": "闺蜜决 第10集",
+			"title": "连依兰给唐丹枫买礼物",
+			"type": "1",
+			"vid": "32020030700533233846004941846507",
+			"videoIndex": "10"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "11"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "11",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/6/dianshiju/336818/7662398/bd3c5242d6d245e0a2849b5681894884.jpg",
+			"name": "闺蜜决 第11集",
+			"title": "唐丹枫事业受挫",
+			"type": "1",
+			"vid": "32020030623160318341360308300636",
+			"videoIndex": "11"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "12"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "12",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/6/dianshiju/336818/7662400/b03814ad83ad4ec3a19359021f9cb64f.jpg",
+			"name": "闺蜜决 第12集",
+			"title": "唐丹枫怀疑连依兰动了文件",
+			"type": "1",
+			"vid": "32020030623155724973680017150817",
+			"videoIndex": "12"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "13"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "13",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/7/dianshiju/336818/7668485/44bb3e7dc572498db2b608d9d1b4606c.jpg",
+			"name": "闺蜜决 第13集",
+			"title": "连依兰和陈嫱媛的旗袍之争",
+			"type": "1",
+			"vid": "32020030722511386708728917588409",
+			"videoIndex": "13"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "14"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "14",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/7/dianshiju/336818/7668486/ad3d94e931fb445ba137e3007a40794f.jpg",
+			"name": "闺蜜决 第14集",
+			"title": "杨改玲执意要开除连依兰",
+			"type": "1",
+			"vid": "32020030722511031238670281628098",
+			"videoIndex": "14"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "15"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "15",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/8/dianshiju/336818/7672716/d8b4d827ffab4afeb6cab93c4052535f.jpg",
+			"name": "闺蜜决 第15集",
+			"title": "连依兰唐丹枫结束同居生活",
+			"type": "1",
+			"vid": "32020030820430381142821797177843",
+			"videoIndex": "15"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "16"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "16",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/8/dianshiju/336818/7672721/34096bc8a3e14783aeca5cd8c7f60e2e.jpg",
+			"name": "闺蜜决 第16集",
+			"title": "依兰约丹枫吃饭被爽约",
+			"type": "1",
+			"vid": "32020030820430914032383134053304",
+			"videoIndex": "16"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "17"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "17",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/9/dianshiju/336818/7677985/e62c29b6855e4696963690ec1303d13a.jpg",
+			"name": "闺蜜决 第17集",
+			"title": "陈嫱媛偷走连依兰的书",
+			"type": "1",
+			"vid": "32020030921351640818923963111975",
+			"videoIndex": "17"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "18"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "18",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/9/dianshiju/336818/7677996/ab142c3eb7d04850b7740930bf51089d.jpg",
+			"name": "闺蜜决 第18集",
+			"title": "连依兰进设计部被处处刁难",
+			"type": "1",
+			"vid": "32020030921351151430951964502995",
+			"videoIndex": "18"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "19"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "19",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/10/dianshiju/336818/7683892/3dbc151e006f4af09e0b62573325df5d.jpg",
+			"name": "闺蜜决 第19集",
+			"title": "连依兰替刘主任打抱不平",
+			"type": "1",
+			"vid": "32020031022525314180722354218237",
+			"videoIndex": "19"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "20"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "20",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/10/dianshiju/336818/7683893/91ff5d01504c46188db9fdeb9c4b8c05.jpg",
+			"name": "闺蜜决 第20集",
+			"title": "依兰质问嫱媛为什么设计陷害",
+			"type": "1",
+			"vid": "32020031022524761060538861567659",
+			"videoIndex": "20"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "21"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "21",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/11/dianshiju/336818/7691848/8bd6054b60484a049c16a51c5e69e0c9.jpg",
+			"name": "闺蜜决 第21集",
+			"title": "连依兰事业感情“双丰收”",
+			"type": "1",
+			"vid": "32020031121062673743694486846187",
+			"videoIndex": "21"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "22"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "22",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/11/dianshiju/336818/7691849/b04c240e81324b5e8a25f318b7de9e5c.jpg",
+			"name": "闺蜜决 第22集",
+			"title": "依兰被开除 嫱媛表白唐丹枫",
+			"type": "1",
+			"vid": "32020031121062944583367150411281",
+			"videoIndex": "22"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "23"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "23",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/12/dianshiju/336818/7697616/df4226fde2a74ccdae2c7f43e748e380.jpg",
+			"name": "闺蜜决 第23集",
+			"title": "连依兰和陈嫱媛的斗争拉开序幕",
+			"type": "1",
+			"vid": "32020031219582332438691598637305",
+			"videoIndex": "23"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "24"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "24",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/12/dianshiju/336818/7697626/c6d52d1df56342599909aabba6a12d14.jpg",
+			"name": "闺蜜决 第24集",
+			"title": "连依兰和陈嫱媛再次比赛",
+			"type": "1",
+			"vid": "32020031219581732118001625602238",
+			"videoIndex": "24"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "25"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "25",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/13/dianshiju/336818/7703458/e9c2e2f356c144e6b2f25997c998bfba.jpg",
+			"name": "闺蜜决 第25集",
+			"title": "唐丹枫拒绝陈嫱媛",
+			"type": "1",
+			"vid": "32020031323471028816476494848576",
+			"videoIndex": "25"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "26"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "26",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/13/dianshiju/336818/7703462/279139ae368f424da3d1c4deccb28ed1.jpg",
+			"name": "闺蜜决 第26集",
+			"title": "连依兰引咎辞职",
+			"type": "1",
+			"vid": "32020031323471275765458902607804",
+			"videoIndex": "26"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "27"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "27",
+			"duration": "2690",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/14/dianshiju/336818/7709446/64638ea9506c416c9ba1e18da501c948.jpg",
+			"name": "闺蜜决 第27集",
+			"title": "唐丹枫识破陈嫱媛谎言",
+			"type": "1",
+			"vid": "32020031423543639381171399881461",
+			"videoIndex": "27"
+		}, {
+			"cid": "32020030217014325688367941790728",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "28"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "VIP"
+			},
+			"desc": "28",
+			"duration": "2700",
+			"image": "http://192.168.168.121:81/zypt/upstream/sp_images/2020/3/14/dianshiju/336818/7709449/04812dba7861457a94d57038e73ff5ef.jpg",
+			"name": "闺蜜决 第28集",
+			"title": "唐丹枫发现连依兰才是救命恩人",
+			"type": "1",
+			"vid": "32020031423545034839533611011737",
+			"videoIndex": "28"
+		}]
+	}
+}

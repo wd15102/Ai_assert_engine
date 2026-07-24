@@ -1,0 +1,13 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1602647430,
+	"seqId": "4954731f42d3983c535c175cc4aab1e8",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "0",
+		"total": "0",
+		"rows": []
+	}
+}

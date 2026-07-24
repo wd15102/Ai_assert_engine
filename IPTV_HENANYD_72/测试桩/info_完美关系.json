@@ -1,0 +1,131 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1600308552,
+	"seqId": "00543e31866d0e0de04e35827eb8656b",
+	"data": {
+		"actor": "安建/黄轩/佟丽娅/陈数/高露/袁子芸",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32020021815182083190295616899049\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-30",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-40",
+					"headTail": "31-40",
+					"headTailType": "1-1"
+				}, {
+					"title": "41-50",
+					"headTail": "41-50",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=32020021815182083190295616899049\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "32020021815182083190295616899049",
+		"clipTitle": "完美关系 DVD版",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.0分",
+			"color": "#0000",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2020",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "都市▪ 职场",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2699",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2020/2/11/dianshiju/336461/20200211135043031-new.jpg_436x322.jpg",
+		"imgV": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2020/2/11/dianshiju/336461/20200211135034619-new.jpg_326x482.jpg",
+		"importId": "32020021815182083190295616899049",
+		"isBook": "",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2699",
+			"vid": "32020021815182919037095569041614",
+			"watchTime": "370",
+			"tips": "上次观看：完美关系 第1集"
+		},
+		"latestIndex": "50",
+		"latestShowTime": "",
+		"originalId": "VRS336461",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2020-02-17",
+		"totalNumber": "50",
+		"updateDetail": {
+			"info": "更新至50集/共50集",
+			"desc": ""
+		},
+		"vid": "32020021815182919037095569041614",
+		"videoImgH": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/sp_images/2020/2/18/dianshiju/336461/7557530/adfc92904b5f42ac960e90843c278f3f.jpg",
+		"videoTitle": "完美关系 第1集",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,女孩江达琳从没干过一天公关，却临危受命接任了父亲的公关传媒公司。生性耿直的她刚刚走马上任，不仅面临诸多优秀员工的审视，还肩负着带领DL公关从负面新闻中走出、重振旗鼓的重任。为了能够抗衡这一切压力，达琳费尽心机请来行业内著名的危机公关专家卫哲，成为DL公关的第四名合伙人。",
+		"btns": {
+			"order": {
+				"tips": "立即订购",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32020030217014325688367941790728\u0026productIds=7,44,34,43,130,20,129,35"
+			}
+		},
+		"isFree": "1",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

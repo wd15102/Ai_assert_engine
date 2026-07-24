@@ -1,0 +1,16 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1623115720,
+	"data": {
+		"state": "1",
+		"url": "http://116.129.248.202/apk/patch-YYS.6.4.0.Y28.6.HNLTIPTV.0.0_Pre_Release-20210602.json",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "湖南联通6.4.0热修复测试",
+		"ver": "湖南联通6.4.0热修复测试",
+		"operators": "CNC",
+		"update_time": "2021-06-02 00:00:00",
+		"apkmd5": "149cd2ef4e7c41a53bb9ad8f8c5b066b"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"cost": 0.011192412,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1731555058,
+	"serverTime": 1731555058,
+	"seqId": "0_19328b964d6_X2vuIQHu",
+	"data": {
+		"playType": "1",
+		"vid": "32024011714500790714006395641895",
+		"ovid": "VRS20400318",
+		"thirdVid": "",
+		"cpId": "1",
+		"files": {
+			"bitrate": "4419",
+			"ftime": "27",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32024011714500714796509476733217/main.m3u8?",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"defTypeValue": "434",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "0",
+		"efid": "",
+		"definition": "3",
+		"result": -1,
+		"isPay": 1,
+		"isPreview": 1,
+		"skipMsg": "购买会员",
+		"skipImg": "http://192.168.168.121:81/picuture/zypt/aaa/pic/202307/1688524721176_ns8gan.png",
+		"skipType": "m_open_web",
+		"skipParams": {
+			"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?spfrom=SV\u0026skuIds=487,420\u0026productIds=487,420"
+		},
+		"previewNum": 6,
+		"wPreviewTips": "试看中，今日还可试看*条短视频",
+		"fPreviewTips": "今日还可试看*条短视频，按【ok】键开通会员",
+		"promoCopy": "每月仅1元",
+		"previewEndTips": "今日试看特权已使用完，请开通会员观看"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599724706,
+	"seqId": "154331abdd6500e3bc9d026168c07eac",
+	"data": [{
+		"imageV": "http://127.0.0.1:80/yuantu1.jpg",
+		"role": "1",
+		"starId": "bd7704cc6e8f474daf4befc62b8c6ef9",
+		"title": "陈赫"
+	}]
+}

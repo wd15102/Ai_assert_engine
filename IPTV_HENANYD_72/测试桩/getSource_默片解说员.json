@@ -1,0 +1,30 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618194906,
+	"seqId": "4c97ceed685a310cd7186720ba372ab3",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32021012214522435053872924626112",
+		"vid": "32021012214522540067589989254849",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4000",
+			"ftime": "020013",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32021012214522710284198515560146/main.m3u8",
+			"vf": "H.264",
+			"width": "",
+			"definition": "3"
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "HUANXIS1000000000000000000046886",
+		"ovid": "HUANXIP1000000000000000000046886"
+	}
+}

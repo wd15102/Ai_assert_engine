@@ -1,0 +1,28 @@
+{
+	"areaCode": "",
+	"backupPlayUrl": "http://100.127.251.194:8089/180000001001/00000001000000001002000000000010/main.m3u8",
+	"bitrateType": "",
+	"callsign": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202208/24/20220824175106431.png",
+	"channelId": "00000001000000001002000000000010",
+	"channelName": "古装剧场",
+	"channelNumber": "29",
+	"hotInfo": "",
+	"hwCms3Id": "",
+	"importId": "00000001000000001002000000000010",
+	"isHaveRecord": "0",
+	"isPay": "0",
+	"isother": "0",
+	"liveRemindContent": "",
+	"logoImg": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728143254298.jpg",
+	"maxShiftTime": "0",
+	"minShiftTime": "0",
+	"originalId": "88b082982282452a905ddb2f0bf8a203",
+	"playUrl": "rtp://239.1.0.58:1025",
+	"playUrlBak": "",
+	"result": {
+		"cost": 0.001,
+		"reason": "ok",
+		"state": "0"
+	},
+	"zteCms3Id": ""
+}

@@ -1,0 +1,93 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"cost": 36,
+	"server_time": 1731553025,
+	"serverTime": 1731553025,
+	"seqId": "0_193289a2e5a_OS5jz50o",
+	"data": {
+		"cornerImgUrl": "",
+		"duration": "354",
+		"onlineTime": "10-31",
+		"cpId": "2000162",
+		"cpInfo": "CIBN酷视频",
+		"likeNum": "0",
+		"likeNumStr": "",
+		"likeStatus": "0",
+		"partId": "VRS21765888",
+		"recommend": {
+			"terminalId": "6",
+			"text": "看正片",
+			"bubbleText": "",
+			"jumpDefaultTypeId": "m_open_player",
+			"jumpDefaultParam": [{
+				"value": "ZTEORHW",
+				"key": "cp_id"
+			}, {
+				"value": "0",
+				"key": "videoType"
+			}, {
+				"value": "VRS356603",
+				"key": "originalId"
+			}, {
+				"value": "",
+				"key": "originalProgramId"
+			}, {
+				"value": "1",
+				"key": "videoIndex"
+			}, {
+				"value": "",
+				"key": "beginTime"
+			}, {
+				"value": "",
+				"key": "timeLen"
+			}, {
+				"value": "",
+				"key": "rootCategoryId"
+			}, {
+				"value": "",
+				"key": "categoryId"
+			}]
+		},
+		"seekPoints": [{
+			"imgQrcodeUrl": "http://inottproxy.api.mgtv.com/tool/generateQrcode?content=http://www.baidu.com/",
+			"imgBgUrl": "http://mgtv-cms-img.oss-cn-beijing.aliyuncs.com/test_cms_backyard/20210222/4465997e47a248729c3488e5455966be_4934.jpg",
+			"pointTime": "30",
+			"showSecond": "5",
+			"jumpDefaultTypeId": "m_open_detail_page",
+			"jumpDefaultParam": [{
+				"value": "ZTEORHW",
+				"key": "cp_id"
+			}, {
+				"value": "0",
+				"key": "videoType"
+			}, {
+				"value": "D00000001201612090949260068699995",
+				"key": "originalId"
+			}, {
+				"value": "",
+				"key": "programId"
+			}, {
+				"value": "0",
+				"key": "auto_play"
+			}, {
+				"value": "",
+				"key": "rootCategoryId"
+			}, {
+				"value": "",
+				"key": "categoryId"
+			}],
+			"terminalId": "6",
+			"promotionType": "0"
+		}],
+		"artistInfo": {
+			"artistId": "874ab2b50cc64cd9a2d2b156e44f4b31",
+			"nickName": "产品测试账号",
+			"photo": "http://111.23.13.95:81/3/2102040946294B31/13250.jpeg",
+			"isFollowed": 2,
+			"cornerIcon": "http://111.23.13.95:81/dm/icon_up.png",
+			"cornerName": "认证创作者",
+			"source": ""
+		}
+	}
+}

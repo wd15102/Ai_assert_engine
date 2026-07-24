@@ -1,0 +1,35 @@
+{
+	"countNums": "4",
+	"countPages": "1",
+	"curPage": "0",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"searchKey": "aa",
+	"starList": [{
+		"brief": "余安安，女，香港著名演员、歌手，原名余德缨，1959年生于香港，她主演的电视剧有《大地恩情》、《陈真》、《天蚕变》、《彩云深处》、《书剑恩仇录》、《武侠帝女花》等。",
+		"originalId": "df57632ce99948f1a9ad532e632369ab",
+		"starId": "df57632ce99948f1a9ad532e632369ab",
+		"starName": "余安安",
+		"vertFig": "http://127.0.0.1:80/mingxin1.jpg"
+	}, {
+		"brief": "许安安，中国台湾女演员、模特儿。代表作《爱情来了》《温柔的慈悲》《乱世豪门》。",
+		"originalId": "564a1e2bdcb04ef786ddee3bdbfdadff",
+		"starId": "564a1e2bdcb04ef786ddee3bdbfdadff",
+		"starName": "胡安安",
+		"vertFig": "http://127.0.0.1:80/mingxin2.jpg"
+	}, {
+		"brief": "吉莉安·阿姆斯特朗（1950—），澳大利亚女导演。代表作品有《我的璀璨生涯》、《我们的最后时光》、《索菲太太》、《乱世有情天》等。",
+		"originalId": "121f29ffacae4b76bbc76d3a828426a6",
+		"starId": "121f29ffacae4b76bbc76d3a828426a6",
+		"starName": "吉莉安·阿姆斯特朗",
+		"vertFig": "http://127.0.0.1:80/mingxin3.jpg"
+	}, {
+		"brief": "胡安·安东尼奥·巴亚纳，西班牙男演员、导演。2007年推出第一部长片《灵异孤儿院》；2012年，巴亚纳的第一部英语电影《海啸奇迹》在西班牙本土一经上映，便登顶当年票房冠军，同时也成为西班牙影史上最卖座的本土影片。目前正在导演拍摄2013好莱坞大片《末日之战》的续集《僵尸世界大战2》。",
+		"originalId": "d09c08a853c14933bca4607d8dd2e93f",
+		"starId": "d09c08a853c14933bca4607d8dd2e93f",
+		"starName": "胡安·安东尼奥·巴亚纳",
+		"vertFig": "http://127.0.0.1:80/mingxin4.jpg"
+	}]
+}

@@ -1,0 +1,116 @@
+{
+	"cost": 0.062957999,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685093171,
+	"serverTime": 1685093171,
+	"seqId": "0_188576144dd_YZ8BhWaF",
+	"data": {
+		"actor": "瑞恩·库格勒/露皮塔·尼永奥/安吉拉·贝塞特",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023050611425981123386204235004\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "6,1,3"
+			}]
+		}],
+		"cid": "32023050611425981123386204235004",
+		"clipTitle": "黑豹2：瓦坎达万岁",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.0分",
+			"color": "#FF9A4F",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2023",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "area",
+			"value": "美国",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "type",
+			"value": "动作 • 科幻",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "9289",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/outsite/2023/05/05/0645aa06517c45dd9b29b61857b5c255.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/outsite/2023/05/05/515122b415b24926976e1a85d2480c84.jpg",
+		"importId": "32023050611425981123386204235004",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "9289",
+			"vid": "32023050614574061854322018467391",
+			"watchTime": "10",
+			"tips": "上次观看：黑豹2：瓦坎达万岁 00:00:10"
+		},
+		"latestIndex": "2",
+		"latestShowTime": "",
+		"originalId": "VRS546096",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2023-01-01",
+		"totalNumber": "2",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32023050614574061854322018467391",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/mediapicture/access/2023/05/1416e112fe95f2ba5221e30e0cf15091.jpg",
+		"videoTitle": "黑豹2：瓦坎达万岁",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "3",
+		"brief": "【版权来源：华数】,在“黑豹”特查拉国王不幸去世后，苏睿、奥克耶、拉玛达王太后、姆巴库为了保护瓦坎达而战。",
+		"btns": {
+			"order": {
+				"tips": "购买影片",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32023050611425981123386204235004\u0026assetType=0\u0026productIds=1495\u0026cpid=2000062"
+			}
+		},
+		"cpId": "2000062",
+		"cpName": "华数",
+		"thirdCid": "Mango000000000010000000000394459",
+		"thirdVid": "Mango000000000020003944592955724",
+		"childCateId": "06a40dfeb890416cbc5b92788a3fc6cd",
+		"topBill": {
+			"prefix": "No.",
+			"topTitle": "电影热播榜",
+			"topId": "13",
+			"topOrderNum": "5"
+		},
+		"isFree": "1",
+		"recommendSkus": "1495",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

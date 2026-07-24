@@ -1,0 +1,73 @@
+{
+	"msg": "success",
+	"code": 200,
+	"time": 1648634609104,
+	"data": [{
+		"feedType": 1,
+		"recomReason": null,
+		"recomParams": "moduleId:2&id:af882f11db41466db05b725be3b5b549&type:1&partId:VRS585796&assetId:VRS47361&strategy:202&st:c1.7.0&bucket:100&channel:5&serverType:2",
+		"cpId": "0",
+		"rootCateId": "",
+		"childCateId": "",
+		"cid": "32021040808452843846969163093718",
+		"ocid": "VRS47361",
+		"clipName": "妻子的秘密_推荐正片",
+		"vid": "32021040808460813269912254489218",
+		"ovid": "VRS585796",
+		"partName": "妻子的秘密 第31集",
+		"aliasName": "宁夏离间黎江二人",
+		"tabIndex": "3",
+		"pageIndex": "3",
+		"totalNumber": "55",
+		"seriesno": "31",
+		"showTime": "2014-11-15",
+		"keepPlayType": "",
+		"showMode": "0",
+		"modules": [{
+			"datatype": "1",
+			"showtype": "1",
+			"showOrder": "1",
+			"title": "选集",
+			"refresh": "1",
+			"url": "http://feedvodepg.ng.iptvhnyd.imgo.tv/iptv_epg/video/list?module=1",
+			"isTab": "1",
+			"tabSize": "10",
+			"tabs": [{
+				"title": "1-10"
+			}, {
+				"title": "11-20"
+			}, {
+				"title": "21-30"
+			}, {
+				"title": "31-40"
+			}, {
+				"title": "41-50"
+			}, {
+				"title": "51-55"
+			}]
+		}, {
+			"datatype": "2",
+			"showtype": "2",
+			"showOrder": "1",
+			"title": "片花",
+			"refresh": "1",
+			"url": "http://feedvodepg.ng.iptvhnyd.imgo.tv/iptv_epg/video/list?module=2",
+			"isTab": "0",
+			"tabSize": "0",
+			"tabs": []
+		}],
+		"hotPointId": "ed7392ccfba04189973e4fc1d9af0de8",
+		"pointTitle": "解气！明朗怒斥心机女二",
+		"pointImg": "http://127.0.0.1:80/hengtu1.jpg",
+		"pointStartTime": "0",
+		"pointEndTime": "900",
+		"openingTime": "",
+		"endingTime": "",
+		"buttonText": null,
+		"buttonAction": null,
+		"labelType": null,
+		"label": null,
+		"oPointId": "af882f11db41466db05b725be3b5b549"
+	}],
+	"ok": true
+}

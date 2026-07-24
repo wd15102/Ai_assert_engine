@@ -1,0 +1,165 @@
+{
+	"cost": 0.299882545,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1701241673,
+	"serverTime": 1701241673,
+	"seqId": "0_18c19e7db2a_wcOwQIbr",
+	"data": {
+		"actor": "汪俊/黄磊/海清/陶虹/王砚辉/咏梅",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=00000001000000001018000000199407\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-30",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-40",
+					"headTail": "31-40",
+					"headTailType": "1-1"
+				}, {
+					"title": "41-49",
+					"headTail": "41-49",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "花絮",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=00000001000000001018000000199407\u0026module=2",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "4"
+			}, {
+				"datatype": "6",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "看点",
+				"refresh": "2",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=00000001000000001018000000199407\u0026module=6",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "2"
+			}, {
+				"datatype": "10",
+				"showtype": "3",
+				"showOrder": "1",
+				"title": "衍生",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/derive/list?cid=00000001000000001018000000199407",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3"
+			}]
+		}],
+		"cid": "00000001000000001018000000199407",
+		"clipTitle": "小欢喜",
+		"rootCateId": "00000001000000001002000000000021",
+		"fstname": "电视剧",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.2分",
+			"color": "#FF9A4F",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "type",
+			"value": "都市 • 家庭",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2671",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/7/29/dianshiju/329967/0a96b0c46ef34f4994daa37d1a643550.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/7/29/dianshiju/329967/9aa8553f58870a2676bfd2a72df0024f.jpg",
+		"importId": "00000001000000001018000000199407",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2671",
+			"vid": "32019092615191154803273460192028",
+			"watchTime": "",
+			"tips": "上次观看：小欢喜 第1集"
+		},
+		"latestIndex": "49",
+		"latestShowTime": "",
+		"originalId": "VRS329967",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2019-07-31",
+		"totalNumber": "49",
+		"updateDetail": {
+			"info": "49集全",
+			"desc": ""
+		},
+		"vid": "32019092615191154803273460192028",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/aicrop/2019/07/31/3968251/06502c6365d06c03943c7b3f92871514.jpg",
+		"videoTitle": "小欢喜 第1集",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "2",
+		"brief": "【版权来源：芒果TV】,《小欢喜》是由汪俊执导，黄磊、海清、陶虹、王砚辉、咏梅领衔主演的都市情感剧。该剧改编自鲁引弓的同名小说，以方圆、童文洁夫妇的视角，讲述了方家、季家、乔家等几个高三考生家庭在高三这一年的故事。",
+		"btns": {},
+		"cpId": "1",
+		"cpName": "芒果官方",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "7c60263ad4374deeafb9802d8880ad3f",
+		"topBill": {
+			"prefix": "No.",
+			"topTitle": "",
+			"topId": "",
+			"topOrderNum": "0"
+		},
+		"isFree": "1",
+		"recommendSkus": "34,35,43,129,1456,1460",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "",
+			"channelId": "D5ED4972D847E9CCE9F40EDC250EC911"
+		}
+	}
+}

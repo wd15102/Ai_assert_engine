@@ -1,0 +1,125 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1602323435,
+	"seqId": "902bbeb44fedcd918ee25cd9270fd454",
+	"data": {
+		"actor": "尹力/常戎/陈小艺/刘佩琦",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000001009000000196207\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-29",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000001000000001009000000196207\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "00000001000000001009000000196207",
+		"clipTitle": "母亲",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "7.1分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2004",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "剧情 ▪ 家庭",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2806",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201904/04/20190404113022439.jpg",
+		"imgV": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201904/04/20190404113023901.jpg",
+		"importId": "00000001000000001009000000196207",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2806",
+			"vid": "00000001000000001009000000196206",
+			"watchTime": "32",
+			"tips": "上次观看：母亲第1集"
+		},
+		"latestIndex": "29",
+		"latestShowTime": "",
+		"originalId": "D00000001201811300945090006799087",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2018-12-12",
+		"totalNumber": "29",
+		"updateDetail": {
+			"info": "29集全",
+			"desc": ""
+		},
+		"vid": "00000001000000001009000000196206",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "",
+		"videoTitle": "母亲第1集",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "这是一个母亲和四个孩子坚强生活的故事。六十年代初，文师傅为了给孩子们打鱼充饥，失足掉进了冰窟窿，剩下淑贞一个人和两个孩子，大林和大秀。善良的杨师傅出于同情，无私地帮助淑贞一家，两个人逐渐产生了爱情，并最终结合到了一起。婚后，两人相敬如宾，又生下女儿小秀。这时候，文革开始，在一次两派武斗中，杨师傅不幸丧生。淑贞此时已经怀孕，不久，她生下了“遗腹子”小林，从此家中有了四个孩子……",
+		"btns": {
+			"order": {
+				"tips": "",
+				"url": ""
+			}
+		},
+		"isFree": "0",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1609143713,
+	"seqId": "b323e3c1062219c6855a551456815ecf",
+	"data": {
+		"actor": "姜秀琼/张荣吉/周青元/梁靖康/杨超越/祝子杰/郭子凡/邓恩熙",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=00000001000000001019000000003469\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10"
+				}, {
+					"title": "11-20"
+				}, {
+					"title": "21-30"
+				}, {
+					"title": "31-36"
+				}]
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=00000001000000001019000000003469\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": []
+			}]
+		}],
+		"cid": "00000001000000001019000000003469",
+		"clipTitle": "极限17",
+		"rootCateId": "00000001000000001002000000000021",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.1分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "青春",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "2168",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/9/24/dianshiju/328944/20190924152240745-new.jpg_436x322.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/9/24/dianshiju/328944/20190924152229529-new.jpg_326x482.jpg",
+		"importId": "00000001000000001019000000003469",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "2168",
+			"vid": "32019090618461828548713350095038",
+			"watchTime": "",
+			"tips": "上次观看：极限17 羽你同行 第1集"
+		},
+		"latestIndex": "36",
+		"latestShowTime": "",
+		"originalId": "VRS328944",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2019-08-12",
+		"totalNumber": "36",
+		"updateDetail": {
+			"info": "36集全",
+			"desc": ""
+		},
+		"vid": "32019090618461828548713350095038",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2019/8/12/dianshiju/328944/6183635/c6d19b29d2e94b27a21c781e14968aad.jpg",
+		"videoTitle": "极限17 羽你同行 第1集",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,《极限17》系列剧展现了青春中的男女们遇到的困难与挫折，最终冲破困境实现自我成长。《极限17 羽你同行》提出“青少年在成长过程中如何面对爱的缺失”的问题。《极限17 扣杀》呈现了“自我与集体、友情”的关系。滑板篇《极限17 滑魂》聚焦“青少年该如何突破心理困境”，从跌倒到站起来再走出困境。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=00000001000000001019000000003469\u0026productIds=7,44,34,43,20,130,35,129"
+			}
+		}
+	}
+}

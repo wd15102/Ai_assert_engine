@@ -1,0 +1,10 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1650765127,
+	"serverTime": 0,
+	"seqId": "dd08a3eb4289f899f8a5c1ef40786d53",
+	"data": {
+		"codeUrl": "http://192.168.168.74:9010/tool/generateQrcode?content=http://www.baidu.com"
+	}
+}

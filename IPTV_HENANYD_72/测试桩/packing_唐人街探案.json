@@ -1,0 +1,86 @@
+{
+	"cost": 0.0198614,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1724222505,
+	"serverTime": 1724222505,
+	"seqId": "beta_ttid",
+	"data": {
+		"cid": "00000001000000001006000000000028",
+		"playerLogo": "http://127.0.0.1:80/bofangtubiao.png",
+		"progressBarColor": "#55A759",
+		"topBill": {
+			"prefix": "NO.",
+			"topTitle": "",
+			"topId": "",
+			"topOrderNum": ""
+		},
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		},
+		"dataSource": {
+			"title": "选集推荐位",
+			"subTitle": "",
+			"jumpParam": [{
+				"name": "影片的内容提供商的ID",
+				"value": "ZTEORHW",
+				"key": "cp_id",
+				"valueName": ""
+			}, {
+				"name": "视频类型",
+				"value": "0",
+				"key": "videoType",
+				"valueName": ""
+			}, {
+				"name": "合集ID",
+				"value": "VRS334727",
+				"key": "videoId",
+				"valueName": "快乐大本营 2020"
+			}, {
+				"name": "分集ID",
+				"value": "",
+				"key": "programId",
+				"valueName": ""
+			}, {
+				"name": "是否直接播放视频",
+				"value": "0",
+				"key": "auto_play",
+				"valueName": ""
+			}, {
+				"name": "根栏目ID（媒资包）",
+				"value": "",
+				"key": "rootCategoryId",
+				"valueName": ""
+			}, {
+				"name": "栏目ID",
+				"value": "",
+				"key": "categoryId",
+				"valueName": ""
+			}, {
+				"name": "扩展信息",
+				"value": "",
+				"key": "exInfo",
+				"valueName": ""
+			}, {
+				"name": "cpID",
+				"value": "",
+				"key": "cpId",
+				"valueName": ""
+			}, {
+				"name": "清晰度",
+				"value": "",
+				"key": "definition",
+				"valueName": ""
+			}],
+			"jumpTypeId": "m_open_detail_page"
+		},
+		"retainModuleId": "758896",
+		"playEndModuleId": "758896",
+		"extendParam": [{
+			"type": "string",
+			"key": "qakeyOther",
+			"value": "qaValueOther"
+		}]
+	}
+}

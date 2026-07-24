@@ -1,0 +1,47 @@
+{
+	"countNums": "26",
+	"countPages": "1",
+	"curPage": "1",
+	"programList": [
+		{
+			"aliasName": "淑贞和刘薪羽二人要登记结婚",
+			"currentIndex": "1",
+			"movieList": [],
+			"originalId": "VRS395093",
+			"point": "",
+			"programId": "5e17f7811686693b5bada504db74f3b1",
+			"programName": "淑贞和刘薪羽二人要登记结婚",
+			"programType": "4",
+			"showTime": "20191024",
+			"summary": "淑贞和刘薪羽二人要登记结婚"
+		},
+		{
+			"aliasName": "杨铁钧和淑贞成为一家人",
+			"currentIndex": "2",
+			"movieList": [],
+			"originalId": "VRS395094",
+			"point": "",
+			"programId": "5e17f76e2f241981d184581a4b34c92c",
+			"programName": "杨铁钧和淑贞成为一家人",
+			"programType": "4",
+			"showTime": "20191025",
+			"summary": "杨铁钧和淑贞成为一家人"
+		},
+		{
+			"aliasName": "家中添新丁",
+			"currentIndex": "3",
+			"movieList": [],
+			"originalId": "VRS395055",
+			"point": "",
+			"programId": "5e17f75b229829c6ac1d579e4982f729",
+			"programName": "家中添新丁",
+			"programType": "4",
+			"showTime": "20191025",
+			"summary": "家中添新丁"
+		}
+	],
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	}
+}

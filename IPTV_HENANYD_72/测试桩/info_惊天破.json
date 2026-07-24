@@ -1,0 +1,99 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599703936,
+	"seqId": "3c954e292cddb010ca4669b76cb38bc3",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://192.168.168.55:6060/iptv_epg/video/list?cid=00000000000000000001000000064296\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "1"
+			}]
+		}],
+		"cid": "00000000000000000001000000064296",
+		"clipTitle": "惊天破",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "6.90分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2016",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "悬疑 ▪ 动作",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "6124",
+		"hisStart": "1",
+		"imgH": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201612/09/20161209095521.jpg",
+		"imgV": "http://192.168.168.121:81http://192.168.168.121:81/zypt/upstream/cms/resources/upload/201612/09/20161209095522.jpg",
+		"importId": "00000000000000000001000000064296",
+		"isBook": "1",
+		"bookId": "",
+		"isCollect": "1",
+		"collectId": "0687929acd894e899f1f8c511621ccf8",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "6124",
+			"vid": "00000000000000000001000000064297",
+			"watchTime": "60",
+			"tips": "上次观看：惊天破国语"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "D00000001201612090949260068699995",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "00000000000000000001000000064297",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://192.168.168.121:81http://192.168.168.121:81/mango/2/20161209/00000000000000000001000000064296/2/zh_CN/1481253900027.jpg",
+		"videoTitle": "惊天破国语",
+		"videoType": "0",
+		"authResult": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "香港警察马进在一次行动中击毙恐怖分子黑曼巴时心脏受伤，与一名患者车家伟在医院分别接受了黑曼巴的心脏和肝脏的器官移植，并由此引发出一连串奇巧曲折、扣人心弦的事件。影片情节跌宕起伏、悬念环生、精彩纷呈。",
+		"btns": {
+		},
+		"isFree": "0",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

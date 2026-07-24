@@ -1,0 +1,41 @@
+{
+	"cost": 0.062843782,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647584831,
+	"serverTime": 1647584831,
+	"seqId": "c85f46c336fc81eb0196615bb98d4ffd",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000001018000000199407",
+		"vid": "32019091615184432875079048384784",
+		"ocid": "VRS329967",
+		"ovid": "VRS6279986",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4291",
+			"ftime": "2637",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000002/32022101121020619454997240400195/index.m3u8?stbid=004903FF001849902204F814FE18EC76",
+			"vf": "",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": 0,
+			"skipLeftTitel": null,
+			"skipMsg": null,
+			"skipType": null,
+			"skipParams": null,
+			"isPreview": 0,
+			"st": null,
+			"pt": null,
+			"countdown": 0
+		},
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

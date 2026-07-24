@@ -1,0 +1,116 @@
+{
+	"cost": 0.121579599,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685093091,
+	"serverTime": 1685093091,
+	"seqId": "0_18857600bac_TWmrE22B",
+	"data": {
+		"actor": "郭帆/吴京/刘德华/李雪健/沙溢/宁理",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com:6600/iptv_epg/video/list?cid=32023041409231430030030361287291\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": [],
+				"videoTypes": "6,1,3"
+			}]
+		}],
+		"cid": "32023041409231430030030361287291",
+		"clipTitle": "流浪地球2",
+		"rootCateId": "00000001000000001002000000000022",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "8.4分",
+			"color": "#FF9A4F",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2023",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " • "
+		}, {
+			"kind": "type",
+			"value": "科幻 • 冒险",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "10392",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/04/12/f95012e919be6b427385cf032f403e54.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/04/12/9ff1de57df270ff5856799d0f472e974.jpg",
+		"importId": "32023041409231430030030361287291",
+		"isBook": "0",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "10392",
+			"vid": "32023041409231749717604081199218",
+			"watchTime": "1012",
+			"tips": "上次观看：流浪地球2 00:16:52"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "VRS353601",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "2023-04-12",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32023041409231749717604081199218",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/4/12/dianying/353601/18642419/64b382158ca5ac12f962dfbf0377d71f.jpg",
+		"videoTitle": "流浪地球2",
+		"videoType": "0",
+		"authResult": "-1",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "3",
+		"brief": "【版权来源：咪咕视讯】,太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32023041409231430030030361287291\u0026assetType=0\u0026productIds=7,20,34,35,43,44,129,130\u0026cpid=1"
+			}
+		},
+		"cpId": "1",
+		"cpName": "芒果官方",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "06a40dfeb890416cbc5b92788a3fc6cd",
+		"topBill": {
+			"prefix": "No.",
+			"topTitle": "电影热播榜",
+			"topId": "13",
+			"topOrderNum": "10"
+		},
+		"isFree": "1",
+		"recommendSkus": "7,20,34,35,43,44,129,130",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

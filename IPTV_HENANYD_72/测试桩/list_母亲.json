@@ -1,0 +1,535 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1607481424,
+	"seqId": "0695ab901215c6b91855308325ea0e80",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "29",
+		"rows": [{
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "1"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "1",
+			"duration": "2620",
+			"image": "",
+			"name": "母亲 第1集",
+			"title": "文中和工作中意外受伤",
+			"type": "1",
+			"vid": "00000001000000000033000000121933",
+			"videoIndex": "1"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "2"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "2",
+			"duration": "2612",
+			"image": "",
+			"name": "母亲 第2集",
+			"title": "老文去世",
+			"type": "1",
+			"vid": "00000001000000000033000000121944",
+			"videoIndex": "2"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "3"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "3",
+			"duration": "2619",
+			"image": "",
+			"name": "母亲 第3集",
+			"title": "淑贞家门外是非多",
+			"type": "1",
+			"vid": "00000001000000000033000000121927",
+			"videoIndex": "3"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "4"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "4",
+			"duration": "2615",
+			"image": "",
+			"name": "母亲 第4集",
+			"title": "淑贞和刘薪羽二人要登记结婚",
+			"type": "1",
+			"vid": "00000001000000000033000000121943",
+			"videoIndex": "4"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "5"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "5",
+			"duration": "2590",
+			"image": "",
+			"name": "母亲 第5集",
+			"title": "杨铁钧和淑贞成为一家人",
+			"type": "1",
+			"vid": "00000001000000000033000000121930",
+			"videoIndex": "5"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "6"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "6",
+			"duration": "2613",
+			"image": "",
+			"name": "母亲 第6集",
+			"title": "家中添新丁",
+			"type": "1",
+			"vid": "00000001000000000033000000121883",
+			"videoIndex": "6"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "7"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "7",
+			"duration": "2590",
+			"image": "",
+			"name": "母亲 第7集",
+			"title": "杨铁钧遇到危险",
+			"type": "1",
+			"vid": "00000001000000000033000000121915",
+			"videoIndex": "7"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "8"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "8",
+			"duration": "2602",
+			"image": "",
+			"name": "母亲 第8集",
+			"title": "淑贞找到工作",
+			"type": "1",
+			"vid": "00000001000000000033000000121921",
+			"videoIndex": "8"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "9"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "9",
+			"duration": "2592",
+			"image": "",
+			"name": "母亲 第9集",
+			"title": "淑贞回船厂做清洁工",
+			"type": "1",
+			"vid": "00000001000000000033000000121890",
+			"videoIndex": "9"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "10"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "10",
+			"duration": "2604",
+			"image": "",
+			"name": "母亲 第10集",
+			"title": "老苏递给淑贞一张招工表",
+			"type": "1",
+			"vid": "00000001000000000033000000121951",
+			"videoIndex": "10"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "11"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "11",
+			"duration": "2618",
+			"image": "",
+			"name": "母亲 第11集",
+			"title": "老苏和淑贞",
+			"type": "1",
+			"vid": "00000001000000000033000000121940",
+			"videoIndex": "11"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "12"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "12",
+			"duration": "2610",
+			"image": "",
+			"name": "母亲 第12集",
+			"title": "大秀决定去内蒙古插队",
+			"type": "1",
+			"vid": "00000001000000000033000000121949",
+			"videoIndex": "12"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "13"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "13",
+			"duration": "2619",
+			"image": "",
+			"name": "母亲 第13集",
+			"title": "陈凯诚心要与大林和好",
+			"type": "1",
+			"vid": "00000001000000000033000000121893",
+			"videoIndex": "13"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "14"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "14",
+			"duration": "2619",
+			"image": "",
+			"name": "母亲 第14集",
+			"title": "仇科长对大林和陈凯恭敬有加",
+			"type": "1",
+			"vid": "00000001000000000033000000121907",
+			"videoIndex": "14"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "15"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "15",
+			"duration": "2615",
+			"image": "",
+			"name": "母亲 第15集",
+			"title": "陈凯和淑贞一家就像亲人般相处",
+			"type": "1",
+			"vid": "00000001000000000033000000121917",
+			"videoIndex": "15"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "16"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "16",
+			"duration": "2590",
+			"image": "",
+			"name": "母亲 第16集",
+			"title": "大林想开一家面点铺",
+			"type": "1",
+			"vid": "00000001000000000033000000121947",
+			"videoIndex": "16"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "17"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "17",
+			"duration": "2602",
+			"image": "",
+			"name": "母亲 第17集",
+			"title": "大林的未婚妻",
+			"type": "1",
+			"vid": "00000001000000000033000000121889",
+			"videoIndex": "17"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "18"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "18",
+			"duration": "2609",
+			"image": "",
+			"name": "母亲 第18集",
+			"title": "陈凯及时出手才令小秀免遭毒手",
+			"type": "1",
+			"vid": "00000001000000000033000000121899",
+			"videoIndex": "18"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "19"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "19",
+			"duration": "2605",
+			"image": "",
+			"name": "母亲 第19集",
+			"title": "大林和陈凯到小煤窑",
+			"type": "1",
+			"vid": "00000001000000000033000000121941",
+			"videoIndex": "19"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "20"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "20",
+			"duration": "2611",
+			"image": "",
+			"name": "母亲 第20集",
+			"title": "陈凯和小秀谈恋爱",
+			"type": "1",
+			"vid": "00000001000000000033000000121910",
+			"videoIndex": "20"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "21"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "21",
+			"duration": "1290",
+			"image": "",
+			"name": "母亲 第21集",
+			"title": "大林出车 陈凯陪同前往",
+			"type": "1",
+			"vid": "00000001000000000033000000121900",
+			"videoIndex": "21"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "22"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "22",
+			"duration": "1909",
+			"image": "",
+			"name": "母亲 第22集",
+			"title": "淑贞说服大林主动投案自首",
+			"type": "1",
+			"vid": "00000001000000000033000000121880",
+			"videoIndex": "22"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "23"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "23",
+			"duration": "1566",
+			"image": "",
+			"name": "母亲 第23集",
+			"title": "陈凯、大林的交通肇事逃逸案",
+			"type": "1",
+			"vid": "00000001000000000033000000121878",
+			"videoIndex": "23"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "24"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "24",
+			"duration": "2616",
+			"image": "",
+			"name": "母亲 第24集",
+			"title": "淑贞劝大秀举家迁回城里",
+			"type": "1",
+			"vid": "00000001000000000033000000121926",
+			"videoIndex": "24"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "25"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "25",
+			"duration": "2594",
+			"image": "",
+			"name": "母亲 第25集",
+			"title": "淑贞决定陪老苏走完最后的日子",
+			"type": "1",
+			"vid": "00000001000000000033000000121909",
+			"videoIndex": "25"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "26"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "26",
+			"duration": "1147",
+			"image": "",
+			"name": "母亲 第26集",
+			"title": "淑贞一家人和老苏欢聚一堂",
+			"type": "1",
+			"vid": "00000001000000000033000000121875",
+			"videoIndex": "26"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "27"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "27",
+			"duration": "2615",
+			"image": "",
+			"name": "母亲 第27集",
+			"title": "大林和周莉的婚礼",
+			"type": "1",
+			"vid": "00000001000000000033000000121898",
+			"videoIndex": "27"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "28"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "28",
+			"duration": "2619",
+			"image": "",
+			"name": "母亲 第28集",
+			"title": "小秀和刘文超的婚姻终于破裂",
+			"type": "1",
+			"vid": "00000001000000000033000000121887",
+			"videoIndex": "28"
+		}, {
+			"cid": "00000001000000000033000000121874",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "29"
+			},
+			"cornerTop": {
+				"color": "#2FA56D",
+				"text": ""
+			},
+			"desc": "29",
+			"duration": "2593",
+			"image": "",
+			"name": "母亲 第29集",
+			"title": "淑贞瘫痪在床",
+			"type": "1",
+			"vid": "00000001000000000033000000121936",
+			"videoIndex": "29"
+		}]
+	}
+}

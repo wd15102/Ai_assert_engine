@@ -1,0 +1,15 @@
+{
+	"code": 200,
+	"msg": "",
+	"seqId": "c55b3f96091f423181a83e4501100e18",
+	"data": {
+		"createTime": "2020-12-01 20:41:38",
+		"imgurl3": "/hermes_image/2020/12/01/5dcc586cad8c44b0b01a711b88c0b52a.jpeg",
+		"fileUrl": "http://192.168.168.55:8056/epg/imgtext/detailhtml?abt=6%7CAB1&account_identity=13574812528&app_version=YYS.6.3.1.Y3.6.HNYDIPTV.0.0_Pre_Release&area_code=0731&channel_code=HNYD&city_code=A31D0&imagetext_id=7e3c8057f75541f4b61aaca17407acd3&mac=74-8F-1B-6E-5F-F7&mf=CMIOT_JIULIAN&mod=M301A_UM9_HUNAN&stb_id=00490300000298800002748F1B6E5FF7&user_group=g19A31D00000&user_id=0122365602571204305&user_ip=100.115.1.195&user_token=e229dd8131e43c71b20cc8dfc977641d19hn&version=YYS.6.2.0.Y3.6.HNYDIPTV.0.0_Pre_Release",
+		"updateTime": "2020-12-03 22:38:49",
+		"imagetextId": "7e3c8057f75541f4b61aaca17407acd3",
+		"title": "第三单元重点词语"
+	},
+	"timestamp": 1607073702,
+	"serverTime": 1607073702
+}

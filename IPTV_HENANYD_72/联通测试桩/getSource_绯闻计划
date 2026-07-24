@@ -1,0 +1,29 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1604558855,
+	"seqId": "ae07d9b40d655e71345f31ed4dee6bbe",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "00000001000000000001000000108185",
+		"vid": "00000001000000000002000000011245",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4237",
+			"ftime": "",
+			"height": "",
+			"url": "http://192.168.204.121:8080/trjta3.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "3",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"actor": "李艾",
+	"allIndex": "31",
+	"area": "内地",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000037",
+		"name": "芒果独家",
+		"originalId": "df3d95393ec94a838ae3096f5a5234b4",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000035",
+		"name": "本周热播",
+		"originalId": "c282732a6c27425da593dd9ef4b0d7c7",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001013000000076914",
+		"name": "VIP专区",
+		"originalId": "1e6b1a522c534818bd6b394418dbb0f1",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000038",
+		"name": "真人秀",
+		"originalId": "72b19748930e41bebc11d926473a1b75",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000036",
+		"name": "全部综艺",
+		"originalId": "de2ac0d3d6c44634934b7d0a286ef278",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000039",
+		"name": "内地综艺",
+		"originalId": "68df669a6cf54b76b18b7fe1f4a6efc6",
+		"parentId": "00000001000000001002000000000020"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"cornerMarkImg": "http://192.168.168.127:81/picture/zypt/aaa/f17f1e31c0cf4f99afd8ebe4f4df83ed.png",
+	"director": "谢娜,李娜",
+	"fstname": "综艺",
+	"imageH": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/11/5/zongyi/332032/20191105155232547-new.jpg_436x322.jpg",
+	"imageS": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/11/5/zongyi/332032/20191105155215645-new.jpg_326x482.jpg",
+	"imageV": "http://192.168.168.121:81/zypt/upstream/internettv/sp_images/ott/2019/11/5/zongyi/332032/20191105155215645-new.jpg_326x482.jpg",
+	"importId": "32019110510272447872382097413045",
+	"isBook": "0",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "情感|旅游|真人秀",
+	"lastPlayedIndex": "",
+	"lastPlayedType": "",
+	"lastProgramId": "",
+	"newIndex": "31",
+	"originalId": "VRS332032",
+	"playProgramId": "32020021412445237002106473394646",
+	"playProgramType": "1",
+	"playStartTime": "",
+	"point": "8.2",
+	"programOrder": "desc",
+	"programUiStyle": "m2",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "32019110510272447872382097413045",
+	"seriesName": "妻子的浪漫旅行 第三季",
+	"showTime": "2019-11-06 00:00:00",
+	"starList": [
+		{
+			"bief": "{\"constellation\":\"\\u6469\\u7faf\\u5ea7\",\"birthday\":\"1979-01-04\",\"weight\":\"61.0\",\"birthplace\":\"\\u5e7f\\u4e1c\\u7701\\u5e7f\\u5dde\\u5e02\",\"bloodtype\":\"O\\u578b\",\"height\":\"175.0\",\"introduction\":\"\\u674e\\u827e\\u6a21\\u7279\\u6f14\\u5458\\u4e3b\\u6301\\u4eba1979\\u5e74\\u51fa\\u751f\\u4e8e\\u5e7f\\u4e1c\\u7701\\u5e7f\\u5dde\\u5e021999\\u5e74\\u5f00\\u59cb\\u6a21\\u7279\\u4e4b\\u8def2002\\u5e74\\u83b7\\u5f97\\u63a8\\u51fa\\u4e2a\\u4eba\\u9996\\u652f\\u5355\\u66f2\\u6211\\u559c\\u6b22\\u6211\\u81ea\\u5df1\\u8fd9\\u6837\\u5e76\\u5f00\\u59cb\\u4e3b\\u6301\\u751f\\u6daf2010\\u5e74\\u4e3b\\u6301\\u8c08\\u8bdd\\u7c7b\\u8282\\u76ee\\u5e78\\u798f\\u665a\\u70b9\\u540d\\u540c\\u5e74\\u56e0\\u7535\\u5f71\\u675c\\u62c9\\u62c9\\u5347\\u804c\\u8bb0\\u5165\\u56f4\\u91d1\\u9e21\\u767e\\u82b1\\u7535\\u5f71\\u8282\\u65b0\\u4eba\\u59562012\\u5e74\\u5f00\\u59cb\\u62c5\\u4efb\\u9535\\u9535\\u4e09\\u4eba\\u884c\\u5609\\u5bbe2019\\u5e74\\u53c2\\u4e0e\\u8282\\u76ee\\u65b0\\u751f\\u65e5\\u8bb0\\u8282\\u76ee\\u5f55\\u5236\",\"story\":\"1999\\u5e74\\u83b7\\u5f97FORD\\u4e16\\u754c\\u8d85\\u7ea7\\u6a21\\u7279\\u5927\\u8d5b\\u4e2d\\u56fd\\u603b\\u51a0\\u519b\\u5f00\\u59cb\\u6a21\\u7279\\u4e4b\\u8def2001\\u5e74\\u83b7\\u5f97\\u56fd\\u9645\\u54c1\\u724c\\u4e2d\\u56fd\\u5341\\u5927\\u540d\\u6a21\\u59562002\\u5e74\\u83b7\\u5f97\\u4e2d\\u56fd\\u804c\\u4e1a\\u5341\\u5927\\u540d\\u6a21\\u79f0\\u53f7\\u540c\\u5e74\\u63a8\\u51fa\\u4e2a\\u4eba\\u9996\\u652f\\u5355\\u66f2\\u6211\\u559c\\u6b22\\u6211\\u81ea\\u5df1\\u8fd9\\u6837\\u968f\\u540e\\u5f00\\u59cb\\u4e3b\\u6301\\u751f\\u6daf\",\"college\":\"\\u5e7f\\u4e1c\\u5de5\\u4e1a\\u5927\\u5b66\\u5de5\\u5546\\u7ba1\\u7406\\u7cfb\"}",
+			"originalId": "85fe71c15bf34b5f9d96f18c41479d7c",
+			"starId": "00000001000000001002000000006511",
+			"starName": "李艾",
+			"starType": "actor",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2014/liai/liai20141226101429776.jpg"
+		},
+		{
+			"bief": "谢娜，2002年起，因主持湖南卫视《快乐大本营》被观众熟知；2008年，参演古装武侠剧《射雕英雄传》。2016年，参与明星女神生活体验真人秀《我们来了》。2017年，以补位歌手的身份加盟明星跨界音乐真人秀节目《跨界歌王第二季》并获得亚军。2018年起参与《妻子的浪漫旅行》录制。2020年，参与录制的《朋友请听好》在芒果TV播出。",
+			"originalId": "b051ae92669947cbb86bbc2ab68876ca",
+			"starId": "00000001000000001002000000000543",
+			"starName": "谢娜",
+			"starType": "director",
+			"vertFig": "http://192.168.168.235:6600/picture/zypt/upstream/star_images/2017/xiena/xiena20170413190739207.jpg"
+		}],
+	"summary": "【版权来源：芒果TV】,王牌网综IP《妻子的浪漫旅行》第三季，四对明星夫妻依旧跨屏撒糖，在线分享“爱的箴言”，但与此同时妻子团的“疯狂打脸”也依旧来得又急又快不讲道理，而丈夫团又会有什么令人惊掉手中瓜的操作？内容设计大升级的《妻子的浪漫旅行》3.0，给你三倍的浪漫惊喜！",
+	"videoType": "0",
+	"viewType": ""
+}

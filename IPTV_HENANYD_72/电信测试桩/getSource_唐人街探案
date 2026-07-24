@@ -1,0 +1,53 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599737992,
+	"seqId": "94eb450971fa364f3fe16a684a12babd",
+	"data": {
+		"playType": "0",
+		"isPreview":"0",
+		"cid": "00000001000000001006000000000028",
+		"vid": "00000001000000001006000000000027",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4290",
+			"ftime": "0",
+			"height": "",
+			"url": "http://10.255.30.137:8082/EDS/RedirectPlay/000000000000/vod/73f2705abfe1476885bdccb27ae65fe6/24cb022de7f24456a2d5114d4123028e?UserToken=04293820406593735869710804155356\u0026UserName=6830018",
+			"vf": "3",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"st": "0",
+			"pt": "0"
+		},
+		"fullScreenTips": {
+			"start": "",
+			"playing": {
+				"msg": "",
+				"skipMsg": "",
+				"skipType": "",
+				"skipParams": ""
+			},
+			"end": {
+				"stateMsg": "",
+				"msg": "",
+				"skipMsg": "",
+				"aidMsg": "",
+				"skipType": "",
+				"skipParams": "",
+				"countdown": ""
+			}
+		},
+		"windowedTips": {
+			"start": "",
+			"playing": "",
+			"end": ""
+		},
+		"isFree": "0",
+		"adsPlay": "1"
+	}
+}

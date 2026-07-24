@@ -1,0 +1,16 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1594710717,
+	"data": {
+		"state": "1",
+		"url": "http://otthnydimg.yys.mgtv.com:6600/picture/apk/patchInfo-YYS.6.2.0.Y3.6.HNYDIPTV.0.0_Pre_Release-20071414.json",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "基线6.4IPTV热修复测试",
+		"ver": "基线6.4IPTV热修复测试",
+		"operators": "",
+		"update_time": "2021-03-26 00:00:00",
+		"apkmd5": "1361c3ed394f23a57b31b6220420eff4"
+	}
+}

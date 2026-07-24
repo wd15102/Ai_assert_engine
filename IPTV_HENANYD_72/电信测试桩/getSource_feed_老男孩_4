@@ -1,0 +1,44 @@
+{
+	"cost": 0.052742851,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1648005716,
+	"serverTime": 1648005716,
+	"seqId": "80a20dd2c1114012a5ea53f49576487b",
+	"data": {
+		"playType": "1",
+		"isPreview": "0",
+		"cid": "00000001000000001002000000009649",
+		"vid": "00000001000000001006000000041893",
+		"ocid": "D00000001201803042010390042396312",
+		"ovid": "E2089434",
+		"st": "119",
+		"et": "2597",
+		"files": {
+			"bitrate": "2039",
+			"ftime": "2746",
+			"height": "",
+			"url": "http://124.232.232.145:6060/190ZTE01/221c27c7e12e4d7091f34879cfdd9beb/index.m3u8?usercode=6750007\u0026programid=8a44caa9449f4eea9404e2d31191f999\u0026vendor=HW",
+			"vf": "2",
+			"width": "",
+			"definition": "2",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": -1,
+			"skipLeftTitel": "观看已结束，会员可看全集",
+			"skipMsg": "开通会员",
+			"skipType": "m_open_web",
+			"skipParams": {
+				"webUrl": "http://192.168.168.160:8080/poster/oc_test/order_product_page.html?assetId=00000001000000001002000000009649\u0026assetType=0\u0026spfrom=XPDS\u0026productIds=736"
+			},
+			"isPreview": 1,
+			"st": null,
+			"pt": null,
+			"countdown": 60,
+			"rightsImg": null
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

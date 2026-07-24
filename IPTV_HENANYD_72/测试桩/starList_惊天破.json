@@ -1,0 +1,22 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599724706,
+	"seqId": "154331abdd6500e3bc9d026168c07eac",
+	"data": [{
+		"imageV": "http://127.0.0.1:80/yuantu1.jpg",
+		"role": "1",
+		"starId": "db6705e4705e409da928bdb23ce95e67",
+		"title": "刘青云"
+	}, {
+		"imageV": "http://127.0.0.1:80/yuantu2.jpg",
+		"role": "1",
+		"starId": "565f0887d19e4ef2a3cbce606768b536",
+		"title": "佟丽娅"
+	}, {
+		"imageV": "http://127.0.0.1:80/yuantu3.jpg",
+		"role": "1",
+		"starId": "43b20e47623d4d1f8a5d5ef93d5c095e",
+		"title": "谢霆锋"
+	}]
+}

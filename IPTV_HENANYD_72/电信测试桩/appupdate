@@ -1,0 +1,19 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1594710713,
+	"data": {
+		"state": "1",
+		"url": "http://10.1.201.95/iptv/apk/tv_iptv/iptv_hndx_release_5.9.2-hndx-202306171653/apk/hndx/preRelease/YYS.5.9.1.266.6.HNDXIPTV.0.0_Pre_Release_2023061716.apk",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "升级日志\r\n湖南移动IPTV版本升级说明\r\n升级了\r\n升级了",
+		"ver": "5.9.2",
+		"operators": "",
+		"update_time": "0001-01-01 00:00:00",
+		"multicast_pid": "",
+		"multicast_url": "",
+		"upgrade_passage": "",
+		"apkmd5": "239993043bae8f0db9be5d780db58165"
+	}
+}

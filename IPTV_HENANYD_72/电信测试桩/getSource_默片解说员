@@ -1,0 +1,30 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618194906,
+	"seqId": "4c97ceed685a310cd7186720ba372ab3",
+	"data": {
+		"playType": "0",
+		"isPreview": "0",
+		"cid": "32021012214522435053872924626112",
+		"vid": "32021012214522540067589989254849",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4000",
+			"ftime": "020013",
+			"height": "",
+			"url": "http://124.232.231.172:8089/000000000000/e042b88204ca40578f48fc68af8d4292/index.m3u8",
+			"vf": "H.264",
+			"width": "",
+			"definition": "3"
+		},
+		"trailers": null,
+		"fullScreenTips": null,
+		"windowedTips": null,
+		"isFree": "0",
+		"adsPlay": "1",
+		"ocid": "HUANXIS1000000000000000000046886",
+		"ovid": "HUANXIP1000000000000000000046886"
+	}
+}

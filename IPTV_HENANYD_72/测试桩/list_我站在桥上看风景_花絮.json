@@ -1,0 +1,121 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1599708000,
+	"seqId": "dfcba3de1fe09df4dc30f9fcf39b7a7f",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "60",
+		"pageTotal": "0",
+		"total": "0",
+		"rows": [{
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "39"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "章峥岚昏迷不醒 水光悉心照料",
+			"duration": "2749",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4332935/20180328144944940.jpg",
+			"name": "我站在桥上看风景 第39集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232582",
+			"videoIndex": "39"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "38"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "章峥岚为救水光受伤入院",
+			"duration": "2773",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4332934/20180328144736372.jpg",
+			"name": "我站在桥上看风景 第38集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232581",
+			"videoIndex": "38"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "37"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "雷宇入室绑架水光景琴",
+			"duration": "2755",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4331060/20180327141600698.jpg",
+			"name": "我站在桥上看风景 第37集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232580",
+			"videoIndex": "37"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "36"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "雷宇用水光名誉威胁章峥岚",
+			"duration": "2756",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4331059/20180327135738748.jpg",
+			"name": "我站在桥上看风景 第36集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232579",
+			"videoIndex": "36"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "35"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "峥岚偷偷为水光买房",
+			"duration": "2731",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4321583/20180321153321425.jpg",
+			"name": "我站在桥上看风景 第35集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232578",
+			"videoIndex": "35"
+		}, {
+			"cid": "00000001000000000005000000166936",
+			"cornerBottom": {
+				"color": "#000f",
+				"text": "34"
+			},
+			"cornerTop": {
+				"color": "#ff0f",
+				"text": "1"
+			},
+			"desc": "问道手游成功上线",
+			"duration": "2750",
+			"image": "http://192.168.168.121:81/zypt/upstream/cms/resources/upload//sp_images/2018/dianshiju/318264/4320214/20180320155629307.jpg",
+			"name": "我站在桥上看风景 第34集",
+			"title": "",
+			"type": "4",
+			"vid": "10000001000000001007000000232577",
+			"videoIndex": "34"
+		}]
+	}
+}

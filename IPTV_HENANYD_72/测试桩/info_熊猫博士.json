@@ -1,0 +1,135 @@
+{
+	"cost": 0.265006305,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1645002957,
+	"seqId": "ed030dd93edd24bc92da7d4afd943be6",
+	"data": {
+		"actor": "未知/未知",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "1",
+				"showOrder": "1",
+				"title": "选集",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=32019090916250790789399643337327\u0026module=1",
+				"isTab": "1",
+				"tabSize": "10",
+				"tabs": [{
+					"title": "1-10",
+					"headTail": "1-10",
+					"headTailType": "1-1"
+				}, {
+					"title": "11-20",
+					"headTail": "11-20",
+					"headTailType": "1-1"
+				}, {
+					"title": "21-30",
+					"headTail": "21-30",
+					"headTailType": "1-1"
+				}, {
+					"title": "31-39",
+					"headTail": "31-40",
+					"headTailType": "1-1"
+				}],
+				"videoTypes": "6,1,3,5,7"
+			}, {
+				"datatype": "2",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "片花",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=32019090916250790789399643337327\u0026module=2",
+				"isTab": "0",
+				"tabSize": "0",
+				"tabs": [],
+				"videoTypes": "6,1,3,5,7"
+			}]
+		}],
+		"cid": "32019090916250790789399643337327",
+		"clipTitle": "熊猫博士",
+		"rootCateId": "00000001000000001002000000000023",
+		"cspName": "",
+		"detail": [{
+			"kind": "score",
+			"value": "9.1分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "内地",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "亲子 ▪ 益智",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "448",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/8/2/dongman/330944/b04e982fcd83d77d14d992bf9e0c2021.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/8/2/dongman/330944/a13fe91388bb2302ea5e186a50da762e.jpg",
+		"importId": "32019090916250790789399643337327",
+		"isBook": "1",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "448",
+			"vid": "32019090916250787500472718218273",
+			"watchTime": "25",
+			"tips": "上次观看：熊猫博士 第1集 熊猫博士来救援"
+		},
+		"latestIndex": "39",
+		"latestShowTime": "",
+		"originalId": "VRS330944",
+		"seriesno": "1",
+		"showMode": "0",
+		"showTime": "2019-08-31",
+		"totalNumber": "39",
+		"updateDetail": {
+			"info": "39集全",
+			"desc": ""
+		},
+		"vid": "32019090916250787500472718218273",
+		"tabIndex": "1",
+		"pageIndex": "1",
+		"videoImgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2019/8/31/dongman/330944/6294009/20190831093200514.jpg_436x322.jpg",
+		"videoTitle": "熊猫博士 第1集 熊猫博士来救援",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "【版权来源：芒果TV】,在熊猫城这个温馨舒适的社区里，每天的生活都充满着惊喜和意想不到的工作任务。幸运的是，我们精力充沛的熊猫博士总能伸出援手。通过帮助他的朋友们及服务社区大家庭，熊猫博士每天都能在新的职业或任务中找到乐趣。由于他充满好奇，喜欢寻找乐趣，熊猫博士总能将每一个新的挑战变成自己和他的动物朋友们的一场冒险。",
+		"btns": {
+			"order": {
+				"tips": "开通会员",
+				"url": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=32019090916250790789399643337327\u0026assetType=0\u0026productIds=3,34,45,43,131,129,16,35"
+			}
+		},
+		"cpId": "0",
+		"cpName": "",
+		"thirdCid": "",
+		"thirdVid": "",
+		"childCateId": "00000001000000001013000000076913",
+		"isFree": "1",
+		"recommendSkus": "770",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_common_5"
+		}
+	}
+}

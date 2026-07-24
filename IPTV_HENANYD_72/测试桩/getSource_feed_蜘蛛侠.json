@@ -1,0 +1,43 @@
+{
+	"cost": 0.056503466,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1647850927,
+	"serverTime": 1647850927,
+	"seqId": "4887575d79b53e111d927839c66a36c7",
+	"data": {
+		"playType": "1",
+		"isPreview": "1",
+		"cid": "00000001000000001012000000056930",
+		"vid": "00000001000000001012000000056929",
+		"ocid": "D00000001201901290945030044699862",
+		"ovid": "E3226332",
+		"st": "",
+		"et": "",
+		"files": {
+			"bitrate": "4285",
+			"ftime": "6931",
+			"height": "",
+			"url": "http://tvgslb.hn.chinamobile.com:8089/180000000111/32022081919424963316869408146928/main.m3u8?\u0026stbid=00490300000298800002748F1B6E6000",
+			"vf": "3",
+			"width": "",
+			"definition": "3",
+			"thirdFileId": ""
+		},
+		"trailers": {
+			"result": -1,
+			"skipLeftTitel": "试看结束，开通会员可观看全片",
+			"skipMsg": "开通会员",
+			"skipType": "m_open_web",
+			"skipParams": {
+				"webUrl": "http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=00000001000000001012000000056930\u0026assetType=0\u0026spfrom=XPDS\u0026productIds=7,44,34,43,130,20,129,35"
+			},
+			"isPreview": 1,
+			"st": 0,
+			"pt": 300,
+			"countdown": 65
+		},
+		"isFree": "1",
+		"adsPlay": "1"
+	}
+}

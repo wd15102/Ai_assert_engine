@@ -1,0 +1,21 @@
+{
+    "status":"0",
+    "msg":"成功",
+    "data":{
+        "marketSwitch":1,
+        "marketInfo":{
+            "type":4,
+            "bubbleText":"气泡文案",
+            "cInfo":{
+                "value":"爱家全站连续包月",
+                "color":"#238E68",
+                "font":1
+            },
+            "giftInfo":{
+                "value":"苹果手机一部",
+                "color":"#FF0000",
+                "font":2
+            },
+        }
+    }
+}

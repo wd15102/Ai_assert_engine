@@ -1,0 +1,13 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1613701751,
+	"seqId": "d47629f8eca1c334eab3f1759d856d24",
+	"data": {
+		"topicId": "18",
+		"subTopicId": "26",
+		"pageIndex": "1",
+		"pushtype": "5",
+		"videoList": []
+	}
+}

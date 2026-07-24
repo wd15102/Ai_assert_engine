@@ -1,0 +1,59 @@
+{
+	"cost": 0.010959782,
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1685093171,
+	"serverTime": 1685093171,
+	"seqId": "0_188576145e8_Coz4EsB0",
+	"data": {
+		"pageIndex": "1",
+		"pageSize": "100",
+		"pageTotal": "1",
+		"total": "2",
+		"rows": [{
+			"cid": "32023050611425981123386204235004",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:34:49"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "付费"
+			},
+			"desc": "黑豹2：瓦坎达万岁",
+			"duration": "9289",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/mediapicture/access/2023/05/1416e112fe95f2ba5221e30e0cf15091.jpg",
+			"name": "黑豹2：瓦坎达万岁",
+			"title": "黑豹2：瓦坎达万岁",
+			"type": "1",
+			"vid": "32023050614574061854322018467391",
+			"videoIndex": "1",
+			"ocid": "VRS546096",
+			"ovid": "VRS18792825",
+			"thirdCid": "Mango000000000010000000000394459",
+			"thirdVid": "Mango000000000020003944592955724"
+		}, {
+			"cid": "32023050611425981123386204235004",
+			"cornerBottom": {
+				"color": "#2FA56D",
+				"text": "02:35:04"
+			},
+			"cornerTop": {
+				"color": "#C79409",
+				"text": "付费"
+			},
+			"desc": "黑豹2：瓦坎达万岁 普通话版",
+			"duration": "9304",
+			"image": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/sp_images/2023/05/05/b3bbacf421ff6996705b130aab88b41c.jpg",
+			"name": "黑豹2：瓦坎达万岁 普通话版",
+			"title": "黑豹2：瓦坎达万岁 普通话版",
+			"type": "1",
+			"vid": "32023050611430154938102397310425",
+			"videoIndex": "2",
+			"ocid": "VRS546096",
+			"ovid": "VRS18798094",
+			"thirdCid": "Mango000000000010000000000394459",
+			"thirdVid": ""
+		}]
+	}
+}

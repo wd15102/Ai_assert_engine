@@ -1,0 +1,19 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"serverTime": 1594710713,
+	"data": {
+		"state": "1",
+		"url": "http://otthnydimg.yys.mgtv.com:6600/picture/apk/YYS.6.3.0.Y3.6.HNYDIPTV.0.0_Pre_Release_20123124.apk",
+		"url_backup": "",
+		"type": "manual",
+		"desc": "升级日志\r\n湖南移动IPTV版本升级说明\r\n升级了\r\n升级了",
+		"ver": "6.3.0",
+		"operators": "",
+		"update_time": "0001-01-01 00:00:00",
+		"multicast_pid": "",
+		"multicast_url": "",
+		"upgrade_passage": "",
+		"apkmd5": "879835f8d3b0aea695703d1f75f5663b"
+	}
+}

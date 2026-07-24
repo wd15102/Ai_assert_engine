@@ -1,0 +1,103 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1618194906,
+	"seqId": "64917b10d4dc0800a3ad8a108234b96d",
+	"data": {
+		"actor": "",
+		"modules": [{
+			"outerPlayWay": "0",
+			"list": [{
+				"datatype": "1",
+				"showtype": "2",
+				"showOrder": "1",
+				"title": "影片",
+				"refresh": "1",
+				"url": "http://hnydiptvvodepg.yys.mgtv.com/iptv_epg/video/list?cid=32021012214522435053872924626112\u0026module=1",
+				"isTab": "1",
+				"tabSize": "5",
+				"tabs": []
+			}]
+		}],
+		"cid": "32021012214522435053872924626112",
+		"clipTitle": "默片解说员",
+		"rootCateId": "c1c345c0325940b1b53c33b37e5fc39f",
+		"cspName": "欢喜",
+		"detail": [{
+			"kind": "score",
+			"value": "8.0分",
+			"color": "#FFCB34",
+			"join": " "
+		}, {
+			"kind": "year",
+			"value": "2019",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "area",
+			"value": "日本",
+			"color": "#0000",
+			"join": " ▪ "
+		}, {
+			"kind": "type",
+			"value": "剧情 ▪ 喜剧",
+			"color": "#0000",
+			"join": ""
+		}],
+		"duration": "7213",
+		"hisStart": "1",
+		"imgH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/c2/huanxi/pic5.huanxi.com/8a9eb00f76268b1301772407575360f9.jpg",
+		"imgV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/c2/huanxi/pic3.huanxi.com/8a9eb00f76268b1301772406f6e760eb.jpg",
+		"importId": "32021012214522435053872924626112",
+		"isBook": "",
+		"bookId": "",
+		"isCollect": "0",
+		"collectId": "",
+		"isIntact": "1",
+		"keepPlay": {
+			"duration": "7213",
+			"vid": "32021012214522540067589989254849",
+			"watchTime": "",
+			"tips": "上次观看：默片解说员"
+		},
+		"latestIndex": "1",
+		"latestShowTime": "",
+		"originalId": "HUANXIS1000000000000000000046886",
+		"seriesno": "1",
+		"showMode": "m4",
+		"showTime": "",
+		"totalNumber": "1",
+		"updateDetail": {
+			"info": "",
+			"desc": ""
+		},
+		"vid": "32021012214522540067589989254849",
+		"tabIndex": "",
+		"pageIndex": "1",
+		"videoImgH": "",
+		"videoTitle": "默片解说员",
+		"videoType": "0",
+		"vipDetail": {
+			"freeTips": "",
+			"color": ""
+		},
+		"instanceId": "",
+		"keepPlayType": "1",
+		"brief": "日本大正年间，无声电影流行之时。俊太郎（成田凌饰）从小梦想成为与自己偶像山冈秋声（永濑正敏饰）一样的默片解说员。长大后俊太郎误入以流动放映默片为幌子的犯罪团伙，被迫当上了冒牌解说员。在一次行骗时，犯罪团伙被热爱电影的木村刑警（竹野内丰饰）识破。俊太郎趁机脱离犯罪团伙的掌控并带走了大量赃款。此后，他改名换姓来到一家名叫青木馆的影院，在这里他终于成为了真正的解说员。更幸运的是，他还遇到了青梅竹马的女孩梅子（黑岛结菜饰）。然而此时正在搜捕他的木村刑警来到了青木馆，曾经的犯罪团伙的老大也找上门来。眼看事业爱情双丰收的俊太郎，却随时面临着牢狱之灾和丧失生命的双重危险……本片以闹剧的方式讲述了日本无声电影史上的一朵奇葩--默片解说员（即“弁士”）--的故事。影片在犯罪喜剧的故事框架中加入了大量默片的表现形式，可谓是导演周防正行致日本默片时代的一封情书。影片获得了2020年第43届日本电影学院奖包括最佳导演在内的8项提名，其中女主角黑岛结菜获得了年度最佳新人奖。",
+		"btns": {
+			"order": {
+				"tips": "",
+				"url": ""
+			}
+		},
+		"cpId": "2000093",
+		"cpName": "",
+		"isFree": "0",
+		"recommendSkus": "454,487,423,489,469,665",
+		"renewText": null,
+		"feedChannel": {
+			"backgroundImg": "http:/192.168.168.121:81/333",
+			"channelId": "detail_dianying_5"
+		}
+	}
+}

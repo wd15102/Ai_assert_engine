@@ -1,0 +1,56 @@
+{
+	"countNums": "2",
+	"countPages": "1",
+	"curPage": "0",
+	"searchKey": "周星驰 \u0026 电影 \u0026 1990-1999",
+	"verFlag": "self_plat",
+	"result": {
+		"state": "0",
+		"reason": "success"
+	},
+	"seriesList": [{
+		"seriesId": "edf01809de5b470eaebf8febc0b9bc70",
+		"seriesName": "龙的传人",
+		"videoType": "0",
+		"viewType": "0",
+		"showText": "演职员：梁家仁/周星驰/毛舜筠/元华/李修贤",
+		"fstname": "电影",
+		"originalId": "VRS506060",
+		"rootCategoryId": "movie",
+		"cornerMarkImg": "http://mgtvimg.hn165.com/nn_img/bms/202311/1700652858979_3r5u3w.png",
+		"point": "7.3",
+		"newIndex": "1",
+		"allIndex": "1",
+		"imageV": "http://iptvhb.hn165.com/pimg/zypt/upstream/outsite/2022/12/06/2b106e2503f2490b976ce9cd77e3ce55.jpg",
+		"imageH": "",
+		"imageS": "http://iptvhb.hn165.com/pimg/zypt/upstream/outsite/2022/12/06/7059e160963d4172b8679b091b656f5a.jpg",
+		"cpId": "2000051",
+		"cms3Id": "63a96dd5203e264398b966a15110d0c0",
+		"updateMark": ""
+	}, {
+		"seriesId": "df10180c022d455ba694348159062853",
+		"seriesName": "武状元苏乞儿",
+		"videoType": "0",
+		"viewType": "0",
+		"showText": "演职员：周星驰/陈嘉上",
+		"fstname": "电影",
+		"originalId": "VRS471389",
+		"rootCategoryId": "movie",
+		"cornerMarkImg": "http://mgtvimg.hn165.com/nn_img/bms/202311/1700656167470_5zaweq.png",
+		"point": "8.0",
+		"newIndex": "1",
+		"allIndex": "1",
+		"imageV": "http://iptvhb.hn165.com/pimg/zypt/upstream/outsite/2023/07/24/6e8b589dcd264bde99c11e1915c0a4bf.jpg",
+		"imageH": "",
+		"imageS": "http://iptvhb.hn165.com/pimg/zypt/upstream/outsite/2023/07/24/04b77defdde34836a303885ca9c77e85.jpg",
+		"cpId": "2000051",
+		"cms3Id": "6341ac222a9bddc8127508f79aca9e54",
+		"updateMark": ""
+	}],
+	"rootCategoryList": [{
+		"rootCategoryId": "movie",
+		"categoryName": "电影",
+		"originalId": "6ED548C2EDF04BDBA77A29888E7E7327",
+		"count": "2"
+	}]
+}

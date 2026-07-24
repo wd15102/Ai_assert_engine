@@ -1,0 +1,21 @@
+{
+	"status": "0",
+	"msg": "成功",
+	"data": [{
+		"showName": "",
+		"imgUrl1": "http://192.168.168.55:7070/material?target=http%3A%2F%2F2img%2Emgtv%2Ecom%2Fottmiddleware%2Fupload%2F13%2F174abfc7df71d8f23850be088e0805%2Epng",
+		"imgUrl2": "http://192.168.168.55:7070/material?target=http%3A%2F%2F2img%2Emgtv%2Ecom%2Fottmiddleware%2Fupload%2F13%2F174abfc7df71d8f23850be088e0805%2Epng",
+		"imgBgUrl": "",
+		"btnText": "立即开通",
+		"qrcodeType": 0,
+		"jumpType": "m_open_web",
+		"jumpPara": "{\"action\":\"m_open_web\",\"appCode\":\"\",\"appName\":\"\",\"appPackage\":\"\",\"artistId\":\"\",\"beginTime\":\"\",\"bindInstanceId\":\"\",\"bindInstanceName\":\"\",\"bindTemplateId\":\"\",\"bindTemplateName\":\"\",\"busId\":\"\",\"categoryId\":\"\",\"channelId\":\"\",\"className\":\"\",\"cpId\":\"\",\"downloadUrl\":\"\",\"exInfo\":\"\",\"fullScreen\":\"\",\"isTurnPlay\":\"\",\"md5\":\"\",\"ovid\":\"\",\"programId\":\"\",\"rootCategoryId\":\"\",\"specialId\":\"\",\"starId\":\"\",\"subtopicId\":\"\",\"timeLen\":\"\",\"topicId\":\"\",\"turnplayTimeSwitch\":\"\",\"version\":\"\",\"videoId\":\"\",\"videoIndex\":\"\",\"videoType\":\"\",\"webUrl\":\"http://192.168.168.160:8080/poster/oc/order_product_page.html?assetId=00000001000000001002000000009649\u0026assetType=0\u0026spfrom=XPDS\u0026productIds=7,20,44,130\u0026cpid=0\"}",
+		"abt": "",
+		"extend": "",
+		"place": "49",
+		"taskId": "78",
+		"strategyId": ""
+	}],
+	"traceId": "ea5fce78b6cb4aff8d247d8f66cdcb57",
+	"serverTime": 1668484068501
+}

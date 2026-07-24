@@ -1,0 +1,48 @@
+[2026-07-01 18:52:24,869] INFO util:child process calling self.run()
+[2026-07-01 18:52:24,870] INFO util:process shutting down
+[2026-07-01 18:52:24,870] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-01 18:52:24,870] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-01 18:52:24,870] INFO util:process exiting with exitcode 0
+[2026-07-01 18:52:55,035] DEBUG AdbUtils:"adb" -s "192.168.100.15:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-01 18:52:55,275] DEBUG AdbUtils:"adb" -s "192.168.100.15:5555" shell getprop ro.product.model
+[2026-07-01 18:52:55,895] INFO util:process shutting down
+[2026-07-01 18:52:55,895] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-01 18:52:55,902] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-01 18:59:04,046] DEBUG AdbUtils:"adb" -s "192.168.100.15:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-01 18:59:04,297] DEBUG AdbUtils:"adb" -s "192.168.100.15:5555" shell getprop ro.product.model
+[2026-07-01 18:59:04,818] INFO util:process shutting down
+[2026-07-01 18:59:04,819] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-01 18:59:04,819] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 14:56:48,427] INFO util:process shutting down
+[2026-07-14 14:56:48,429] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 14:56:48,429] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 15:00:18,050] INFO util:process shutting down
+[2026-07-14 15:00:18,050] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 15:00:18,050] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 15:07:12,171] INFO util:process shutting down
+[2026-07-14 15:07:12,172] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 15:07:12,172] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 15:09:50,255] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-14 15:09:50,401] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell getprop ro.product.model
+[2026-07-14 15:09:50,662] INFO util:process shutting down
+[2026-07-14 15:09:50,662] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 15:09:50,662] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 15:19:11,118] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-14 15:19:11,529] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell getprop ro.product.model
+[2026-07-14 15:19:20,334] INFO util:process shutting down
+[2026-07-14 15:19:20,334] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 15:19:20,334] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-14 15:44:14,058] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-14 15:44:14,202] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell getprop ro.product.model
+[2026-07-14 15:44:22,660] INFO util:process shutting down
+[2026-07-14 15:44:22,660] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-14 15:44:22,661] DEBUG util:running the remaining "atexit" finalizers
+[2026-07-15 09:29:17,460] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell dumpsys package com.huawei.tvbox
+[2026-07-15 09:29:17,497] ERROR AdbUtils:run adb cmd error: adb.exe: device offline
+
+[2026-07-15 09:29:17,497] DEBUG AdbUtils:"adb" -s "192.168.100.2:5555" shell getprop ro.product.model
+[2026-07-15 09:29:17,529] ERROR AdbUtils:run adb cmd error: adb.exe: device offline
+
+[2026-07-15 09:29:17,702] INFO util:process shutting down
+[2026-07-15 09:29:17,702] DEBUG util:running all "atexit" finalizers with priority >= 0
+[2026-07-15 09:29:17,702] DEBUG util:running the remaining "atexit" finalizers

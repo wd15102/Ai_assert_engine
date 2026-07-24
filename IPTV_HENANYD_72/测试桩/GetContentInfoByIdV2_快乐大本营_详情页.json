@@ -1,0 +1,96 @@
+{
+	"actor": "何炅,谢娜,李维嘉,杜海涛,吴昕",
+	"allIndex": "52",
+	"area": "内地",
+	"bookId": "",
+	"categoryList": [{
+		"id": "00000001000000001002000000000037",
+		"name": "芒果独播",
+		"originalId": "df3d95393ec94a838ae3096f5a5234b4",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000039",
+		"name": "内地综艺",
+		"originalId": "68df669a6cf54b76b18b7fe1f4a6efc6",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000035",
+		"name": "本周热播",
+		"originalId": "c282732a6c27425da593dd9ef4b0d7c7",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000038",
+		"name": "真人秀",
+		"originalId": "72b19748930e41bebc11d926473a1b75",
+		"parentId": "00000001000000001002000000000020"
+	}, {
+		"id": "00000001000000001002000000000036",
+		"name": "全部综艺",
+		"originalId": "de2ac0d3d6c44634934b7d0a286ef278",
+		"parentId": "00000001000000001002000000000020"
+	}],
+	"copyright": "",
+	"copyrightInfo": "",
+	"director": "",
+	"fstname": "综艺",
+	"imageH": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2020/1/4/zongyi/334727/df67611407be4ac983259f495cf88020.jpg",
+	"imageS": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/12/2/zongyi/334727/823dffa801e34e419b2766bae582f297.jpg",
+	"imageV": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/internettv/sp_images/ott/2019/12/2/zongyi/334727/75c2268c002f46deb3f92fd518bc8e81.jpg",
+	"importId": "32020010422444031907225720700265",
+	"isBook": "1",
+	"isCollect": "0",
+	"isFree": "0",
+	"kind": "明星|搞笑|访谈|竞技",
+	"lastPlayedIndex": "22",
+	"lastPlayedTime": "29",
+	"lastPlayedType": "1",
+	"lastProgramId": "32020061321462231787440954974164",
+	"newIndex": "22",
+	"originalId": "VRS334727",
+	"periodsName": "",
+	"playProgramId": "32020061321462231787440954974164",
+	"playProgramType": "1",
+	"playStartTime": "29",
+	"point": "9.0",
+	"programOrder": "desc",
+	"programUiStyle": "m2",
+	"result": {
+		"reason": "ok",
+		"state": "0"
+	},
+	"seriesId": "32020010422444031907225720700265",
+	"seriesName": "快乐大本营 2020",
+	"showTime": "2020-01-04 00:00:00",
+	"starList": [{
+		"bief": "李维嘉，中国多栖男艺人。1999年在何炅的推荐下，从《快乐新战线》来到《快乐大本营》担纲外景主持主持人，并成为快乐家族中的一员，先后主持《勇往直前》、《一呼百应》等节目。2020年，录制防疫宅家惊喜生活秀《嘿！你在干嘛呢？》。",
+		"originalId": "91339f0562a34858a393a01b67ed3804",
+		"starId": "00000001000000001002000000000866",
+		"starName": "李维嘉",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/liweijia/liweijia20170721173621170.jpg"
+	}, {
+		"bief": "中国内地主持人、影视演员、流行歌手。1995年主持央视节目《大风车》。1998年起主持湖南卫视《快乐大本营》。曾先后主持《超级女声》、《快乐男声》等节目。2015年首次执导电影《栀子花开》。2017年参与《向往的生活》、《奇葩说》等节目的录制。2019年参与芒果TV《明星大侦探5》的录制。2020年参与录制《朋友请听好》在芒果TV播出。",
+		"originalId": "3e35293a3f014478a14c8e96c4337211",
+		"starId": "00000001000000001002000000012825",
+		"starName": "何炅",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2019/hegui/hegui20190322184632722.jpg"
+	}, {
+		"bief": "杜海涛，湖南卫视主持人，影视演员。2005年参加《闪亮新主播》获得冠军 ，2006年起开始主持湖南卫视《快乐大本营》，2009年和吴昕一起出版《木土日斤》一书。2015年，参加湖南卫视《奇妙的朋友》、《真正男子汉》等节目的录制。2016年，参演电影《一家老小向前冲》、《致我们终将到来的爱情》、《奇妙的朋友之萌爱2016》等。",
+		"originalId": "47bb34af58db4a978cc44db1160037a3",
+		"starId": "00000001000000001002000000001139",
+		"starName": "杜海涛",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/duhaitao/duhaitao20170414135211708.jpg"
+	}, {
+		"bief": "谢娜，2002年起，因主持湖南卫视《快乐大本营》被观众熟知；2008年，参演古装武侠剧《射雕英雄传》。2016年，参与明星女神生活体验真人秀《我们来了》。2017年，以补位歌手的身份加盟明星跨界音乐真人秀节目《跨界歌王第二季》并获得亚军。2018年起参与《妻子的浪漫旅行》录制。2020年，参与录制的《朋友请听好》在芒果TV播出。",
+		"originalId": "b051ae92669947cbb86bbc2ab68876ca",
+		"starId": "00000001000000001002000000000543",
+		"starName": "谢娜",
+		"starType": "actor",
+		"vertFig": "http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/star_images/2017/xiena/xiena20170413190739207.jpg"
+	}],
+	"summary": "【版权来源：芒果TV】,《快乐大本营》是湖南电视台于1997年7月11日开办的一档综艺性娱乐节目，目前固定每周六晚黄金时段在湖南卫视播出，是湖南卫视上星以来一直保持的优秀品牌节目。栏目开办以来以新鲜的题材，多样的形式，清新的风格，新奇的内容广受好评，注重知识性、趣味性和参与性，引领观众走向一个崭新的视听空间。",
+	"videoType": "0",
+	"viewType": ""
+}

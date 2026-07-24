@@ -1,0 +1,23 @@
+{
+	"areaCode": "",
+	"backupPlayUrl": "http://100.127.251.194:8089/180000001001/00000001000000001001000000000035/main.m3u8",
+	"bitrateType": "",
+	"channelId": "00000001000000001001000000000035",
+	"channelName": "湖南卫视高清",
+	"channelNumber": "1",
+	"hotInfo": "",
+	"hwCms3Id": "",
+	"importId": "00000001000000001001000000000035",
+	"isHaveRecord": "1",
+	"isPay": "0",
+	"maxShiftTime": "25200",
+	"minShiftTime": "150",
+	"originalId": "65e48b2e8e6a4f73824fbbb44762e4c6",
+	"playUrl": "rtp://239.1.0.104:1025",
+	"result": {
+		"cost": 0.001,
+		"reason": "ok",
+		"state": "0"
+	},
+	"zteCms3Id": ""
+}

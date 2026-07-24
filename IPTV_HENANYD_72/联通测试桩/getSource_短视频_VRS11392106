@@ -1,0 +1,40 @@
+{
+	"errno": "0",
+	"msg": "成功",
+	"server_time": 1616395222,
+	"seqId": "65975bcee8220c5ff5db920392cbf88d",
+	"data": {
+		"playType": "0",
+		"vid": "32021031917000467168854839155974",
+		"ovid": "VRS11392106",
+		"thirdVid": "",
+		"cpId": "",
+		"files": {
+			"bitrate": "2568",
+			"ftime": "000032",
+			"height": "",
+			"url": "http://192.168.204.121:8080/short_32.mp4?UserToken=33270541172275100050101012418238\u0026UserName=97002705",
+			"vf": "AVC",
+			"width": "",
+			"definition": "3",
+			"defTypeValue": "434",
+			"thirdFileId": "",
+			"isDefault": "1",
+			"unsupportedMsg": "您好!观看4K内容需要使用4K高清机顶盒，您的机顶盒暂时不支持4K内容播放，您可以选择观看非4K内容，感谢您的理解!"
+		},
+		"adsPlay": "1",
+		"efid": "",
+		"definition": "3",
+		"result": 0,
+		"isPay": 0,
+		"isPreview": 0,
+		"skipMsg": null,
+		"skipImg": null,
+		"skipType": null,
+		"previewNum": null,
+		"wPreviewTips": null,
+		"fPreviewTips": null,
+		"promoCopy": null,
+		"previewEndTips": null
+	}
+}
